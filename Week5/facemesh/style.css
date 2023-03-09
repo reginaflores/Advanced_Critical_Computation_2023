@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  /* z-index: 1; */
+
+}
+
+
+
+/* if you want to put the dots over the face: */
+#canvas{
+  position: absolute;
+  z-index:1;
+
+}
+
+#video{
+  position: absolute;
+  z-index:-1;
+
+}

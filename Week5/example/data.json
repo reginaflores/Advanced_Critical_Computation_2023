@@ -1,0 +1,1371 @@
+{
+    "search_metadata": {
+      "id": "63f785ca6073935cdb95e979",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/e3636ca2e1b07afd/63f785ca6073935cdb95e979.json",
+      "created_at": "2023-02-23 15:27:06 UTC",
+      "processed_at": "2023-02-23 15:27:06 UTC",
+      "google_url": "https://www.google.com/search?q=tft&oq=tft&tbm=isch&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/e3636ca2e1b07afd/63f785ca6073935cdb95e979.html",
+      "total_time_taken": 0.96
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "tft",
+      "google_domain": "google.com",
+      "ijn": "0",
+      "device": "desktop",
+      "tbm": "isch"
+    },
+    "search_information": {
+      "image_results_state": "Results for exact spelling",
+      "query_displayed": "tft",
+      "menu_items": [
+        {
+          "position": 1,
+          "title": "All",
+          "link": "https://www.google.com/search?q=tft&source=lmns&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ_AUoAHoECAEQAA"
+        },
+        {
+          "position": 2,
+          "title": "Images"
+        },
+        {
+          "position": 3,
+          "title": "Videos",
+          "link": "https://www.google.com/search?q=tft&source=lmns&tbm=vid&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ_AUoAnoECAEQAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&ijn=0&q=tft&tbm=vid"
+        },
+        {
+          "position": 4,
+          "title": "News",
+          "link": "https://www.google.com/search?q=tft&source=lmns&tbm=nws&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ_AUoA3oECAEQAw",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&ijn=0&q=tft&tbm=nws"
+        },
+        {
+          "position": 5,
+          "title": "Shopping",
+          "link": "https://www.google.com/search?q=tft&source=lmns&tbm=shop&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ_AUoBHoECAEQBA",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&ijn=0&q=tft&tbm=shop"
+        }
+      ]
+    },
+    "suggested_searches": [
+      {
+        "name": "monitor",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:monitor:MTWWbWhqKt8%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoAHoECAEQIw",
+        "chips": "q:tft,g_1:monitor:MTWWbWhqKt8%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Amonitor%3AMTWWbWhqKt8%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/0686595aaac33fc4f3e727dcaece75ecb4212d9fb3cbd545dac77f2d08fe4a37.jpeg"
+      },
+      {
+        "name": "logo",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:logo:LtLITQreLlg%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoAXoECAEQJQ",
+        "chips": "q:tft,g_1:logo:LtLITQreLlg%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Alogo%3ALtLITQreLlg%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/0686595aaac33fc4f3e727dcaece75ec921e1b36d34c0a93086a191f83c029d0.jpeg"
+      },
+      {
+        "name": "game",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:game:dDB7P9D2tMg%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoAnoECAEQJw",
+        "chips": "q:tft,g_1:game:dDB7P9D2tMg%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Agame%3AdDB7P9D2tMg%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/0686595aaac33fc4f3e727dcaece75ecd187f9a0f0ceee0d49ba7e1418e54375.jpeg"
+      },
+      {
+        "name": "wallpaper",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:wallpaper:AVblNQ6NtCI%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoA3oECAEQKQ",
+        "chips": "q:tft,g_1:wallpaper:AVblNQ6NtCI%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Awallpaper%3AAVblNQ6NtCI%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/0686595aaac33fc4f3e727dcaece75ec07d26d0a2d2295cc9c7320aa9b20e458.jpeg"
+      },
+      {
+        "name": "lcd",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:lcd:IlVFfFGosg4%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoBHoECAEQKw",
+        "chips": "q:tft,g_1:lcd:IlVFfFGosg4%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Alcd%3AIlVFfFGosg4%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/0686595aaac33fc4f3e727dcaece75ecc4f36817a437f7b9c1a2e5fd44cce64c.jpeg"
+      },
+      {
+        "name": "set",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:set:spsTKTCDMy4%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoBXoECAEQLQ",
+        "chips": "q:tft,g_1:set:spsTKTCDMy4%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Aset%3AspsTKTCDMy4%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/0686595aaac33fc4f3e727dcaece75ecbbd8613e8cc2692cfed3ab7736815ef7.jpeg"
+      },
+      {
+        "name": "scout",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:scout:un2BGHPq9xg%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoBnoECAEQLw",
+        "chips": "q:tft,g_1:scout:un2BGHPq9xg%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Ascout%3Aun2BGHPq9xg%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/0686595aaac33fc4f3e727dcaece75ecc4b3896970b4703d6790ad45977d245d.jpeg"
+      },
+      {
+        "name": "cheat sheet",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:cheat+sheet:Uf156SBDeDg%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoB3oECAEQMQ",
+        "chips": "q:tft,g_1:cheat+sheet:Uf156SBDeDg%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Acheat%2Bsheet%3AUf156SBDeDg%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/0686595aaac33fc4f3e727dcaece75ecc870222b8365bf4eb1e22c1b6746a2fb.jpeg"
+      },
+      {
+        "name": "computer",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:computer:AIp4x6uNuHM%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoCHoECAEQMw",
+        "chips": "q:tft,g_1:computer:AIp4x6uNuHM%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Acomputer%3AAIp4x6uNuHM%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/0686595aaac33fc4f3e727dcaece75ec111e2d61a27e6fbe9ef9754db80f688d.jpeg"
+      },
+      {
+        "name": "arduino",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:arduino:w9rYXukQHeM%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoCXoECAEQNQ",
+        "chips": "q:tft,g_1:arduino:w9rYXukQHeM%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Aarduino%3Aw9rYXukQHeM%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/0686595aaac33fc4f3e727dcaece75ec7b77b8edcfbbaeae4980b98cbe359bc3.png"
+      },
+      {
+        "name": "league",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:league:DUTbUSOTEzw%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoCnoECAEQNw",
+        "chips": "q:tft,g_1:league:DUTbUSOTEzw%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Aleague%3ADUTbUSOTEzw%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/0686595aaac33fc4f3e727dcaece75ecead1aa5edc924af31334a634dd10a324.jpeg"
+      },
+      {
+        "name": "display",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:display:pAAdtBTvUfk%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoC3oECAEQOQ",
+        "chips": "q:tft,g_1:display:pAAdtBTvUfk%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Adisplay%3ApAAdtBTvUfk%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/0686595aaac33fc4f3e727dcaece75ecbe1cc35ad92631fcd853450390c5cbd3.jpeg"
+      },
+      {
+        "name": "board",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:board:fQWYwU22rrg%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoDHoECAEQOw",
+        "chips": "q:tft,g_1:board:fQWYwU22rrg%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Aboard%3AfQWYwU22rrg%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmMIVLTqNFhFS110Mb-MnyTEycP4dKH3hwePdjyQd3IQHfjRmLK59oxA&usqp=CAU"
+      },
+      {
+        "name": "champions",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:champions:jKp6pCrX2uU%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoDXoECAEQPQ",
+        "chips": "q:tft,g_1:champions:jKp6pCrX2uU%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Achampions%3AjKp6pCrX2uU%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbjB_Wjcyp9m_amdKOKtnvgK_Y5CBE3E2xQ3mPAzdDanAtD-GiLXIM7_E&usqp=CAU"
+      },
+      {
+        "name": "overlay",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:overlay:ELED_eWjrv8%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoDnoECAEQPw",
+        "chips": "q:tft,g_1:overlay:ELED_eWjrv8%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Aoverlay%3AELED_eWjrv8%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbLzjxZS0knWlooY4oSi-DJdKjfQWco0jlaQ0S8bylPYoTY43dgeT91I0&usqp=CAU"
+      },
+      {
+        "name": "little legends",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:little+legends:mZ1ovwXFnos%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoD3oECAEQQQ",
+        "chips": "q:tft,g_1:little+legends:mZ1ovwXFnos%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Alittle%2Blegends%3AmZ1ovwXFnos%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjIaWWjf42c87wQeF8OcaC6DtCt8u0WiOQU59VM0BtrHJBTvwwWFTrXo4&usqp=CAU"
+      },
+      {
+        "name": "mobile",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:mobile:pxUvdvycDqs%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoEHoECAEQQw",
+        "chips": "q:tft,g_1:mobile:pxUvdvycDqs%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Amobile%3ApxUvdvycDqs%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsktbBP6GEjfIfQosd8_1hK2AX9I3b25Qq3DFXU0sgNo9po_2uHW-3lhU&usqp=CAU"
+      },
+      {
+        "name": "items",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:items:g6XDYhidHzU%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoEXoECAEQRQ",
+        "chips": "q:tft,g_1:items:g6XDYhidHzU%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Aitems%3Ag6XDYhidHzU%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU42crlnMkjSq8ku00JG1Swdq5gWpfhxCZB5gajR6mBHTv7g48thdW9Lk&usqp=CAU"
+      },
+      {
+        "name": "team",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:team:-9sCu8W5B7M%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoEnoECAEQRw",
+        "chips": "q:tft,g_1:team:-9sCu8W5B7M%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Ateam%3A-9sCu8W5B7M%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLX_vpNevLlUnoCDfeiFR9cu9NvoLxj20Vzwgwwoaaz1HUojCa4I8CwME&usqp=CAU"
+      },
+      {
+        "name": "hypothyroidism",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:hypothyroidism:GmjEYaHE6oE%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoE3oECAEQSQ",
+        "chips": "q:tft,g_1:hypothyroidism:GmjEYaHE6oE%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Ahypothyroidism%3AGmjEYaHE6oE%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtM6VgUIHKTO-ZegNQ8YlxL_MYTVd81EnZFJGMLbfYDgGz8pVmfkmvYAE&usqp=CAU"
+      },
+      {
+        "name": "aurelion sol",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:aurelion+sol:dsM37CwQk7Y%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoFHoECAEQSw",
+        "chips": "q:tft,g_1:aurelion+sol:dsM37CwQk7Y%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Aaurelion%2Bsol%3AdsM37CwQk7Y%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuQiscmX4TwD-5MEIXHtrskVnmGKVs5lNS8x6_321ZjN1Z4LzpNf_ec6o&usqp=CAU"
+      },
+      {
+        "name": "pfannenwender",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:pfannenwender:tXhogWPFcgg%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoFXoECAEQTQ",
+        "chips": "q:tft,g_1:pfannenwender:tXhogWPFcgg%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Apfannenwender%3AtXhogWPFcgg%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeorz3sZhtZzyyqCGcs44wtiJXaF5ZiBqo-TykOYJxdfF0CeBUgYhpFCY&usqp=CAU"
+      },
+      {
+        "name": "auto chess",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:auto+chess:JPOdq3iEOvg%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoFnoECAEQTw",
+        "chips": "q:tft,g_1:auto+chess:JPOdq3iEOvg%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Aauto%2Bchess%3AJPOdq3iEOvg%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOIkEtSybiPYnvLL94NiyNBLE7T_SGuwTtmEphOav6kDdU0B24_rgf-3g&usqp=CAU"
+      },
+      {
+        "name": "star guardian",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:star+guardian:lTlml1JZDSQ%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoF3oECAEQUQ",
+        "chips": "q:tft,g_1:star+guardian:lTlml1JZDSQ%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Astar%2Bguardian%3AlTlml1JZDSQ%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4ZWONyTCbd9KnIhCLOG2jo3dnqeAaiuqC_wl-NWXl5QSWOhcLVtdknHs&usqp=CAU"
+      },
+      {
+        "name": "chart",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:chart:eZoRnnnlhMM%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoGHoECAEQUw",
+        "chips": "q:tft,g_1:chart:eZoRnnnlhMM%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Achart%3AeZoRnnnlhMM%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwcBDSTWnAoxgwcUjaNPg608Lz16V74efZl0DVGcN4ZVDomwsUNYJDfYs&usqp=CAU"
+      },
+      {
+        "name": "diamond",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:diamond:igbiP4hWg6M%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoGXoECAEQVQ",
+        "chips": "q:tft,g_1:diamond:igbiP4hWg6M%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Adiamond%3AigbiP4hWg6M%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJ-GmdfqmGRiE3tUzr6Rz6NFY9HqJnkW3ITsFmrKXfhgkRot332Sf9HE&usqp=CAU"
+      },
+      {
+        "name": "choncc",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:choncc:Y75rd7QOLyA%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoGnoECAEQVw",
+        "chips": "q:tft,g_1:choncc:Y75rd7QOLyA%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Achoncc%3AY75rd7QOLyA%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlCKZyVKGRmjslDemIcvlVHvbMfJkUY8rDqSQ0BemquxHYN8Bdsq5gEZ4&usqp=CAU"
+      },
+      {
+        "name": "dango",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:dango:N0Yr19iVxoM%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoG3oECAEQWQ",
+        "chips": "q:tft,g_1:dango:N0Yr19iVxoM%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Adango%3AN0Yr19iVxoM%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_VRJxKfOwKGTDnnnBjE7H1ImkBDetJTbYerxDZiQIr1F5puLovBr-yQ&usqp=CAU"
+      },
+      {
+        "name": "gloop",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:gloop:omvTlFfoW_g%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoHHoECAEQWw",
+        "chips": "q:tft,g_1:gloop:omvTlFfoW_g%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Agloop%3AomvTlFfoW_g%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKnZNzKf2pmZ4D63207vW89xxJdM4LlepwBzp-09B8Zx9j2GpKUwAUhg&usqp=CAU"
+      },
+      {
+        "name": "pengu",
+        "link": "https://www.google.com/search?q=tft&tbm=isch&chips=q:tft,g_1:pengu:2JF0-OkGI6k%3D&hl=en-US&sa=X&ved=2ahUKEwj3z5Oq-qv9AhVDUTUKHUK6DsQQ4lYoHXoECAEQXQ",
+        "chips": "q:tft,g_1:pengu:2JF0-OkGI6k%3D",
+        "serpapi_link": "https://serpapi.com/search.json?chips=q%3Atft%2Cg_1%3Apengu%3A2JF0-OkGI6k%253D&device=desktop&engine=google&google_domain=google.com&ijn=0&q=tft&tbm=isch",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH1wqKxgs0C-RmIUGEZSrXuHdstK_Np7wzdpYkptjrrZcE6BFkHTgQplw&usqp=CAU"
+      }
+    ],
+    "images_results": [
+      {
+        "position": 1,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32b0abe6bc339792f78442df342cabebba6f1bdf38b2e3512c8.jpeg",
+        "source": "League of Legends",
+        "title": "TFT: MONSTERS ATTACK! - Teamfight Tactics",
+        "link": "https://teamfighttactics.leagueoflegends.com/",
+        "original": "https://images.contentstack.io/v3/assets/blt76b5e73bfd1451ea/blte3151018e1db52fd/6387163013bca61092bd4831/tft-set-8-meta-image.jpg",
+        "original_width": 1258,
+        "original_height": 630,
+        "is_product": false
+      },
+      {
+        "position": 2,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bcf980d0d7094ebc45017e17152a6d8604fa9c4d955f50b4c.jpeg",
+        "source": "Google Play",
+        "title": "TFT: Teamfight Tactics - Apps on Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics&hl=en_US&gl=US",
+        "original": "https://play-lh.googleusercontent.com/nRX-uyIXE9gzc9Q2qdWOOq4fiQlISJ48LyBfqo4OeoaFDnPy-4N0U8S6_vd1_Bquepc=w526-h296-rw",
+        "original_width": 526,
+        "original_height": 296,
+        "is_product": false
+      },
+      {
+        "position": 3,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bf2741eb8496a938d4c7a79d97cbc2d8891c4b47b5ea481df.jpeg",
+        "source": "Rock Paper Shotgun",
+        "title": "Teamfight Tactics - how to play TFT Set 2 | Rock Paper Shotgun",
+        "link": "https://www.rockpapershotgun.com/teamfight-tactics-how-to-play-tft-set-2",
+        "original": "https://assets2.rockpapershotgun.com/tft-set-2-combat-3.jpg/BROK/resize/1920x1920%3E/format/jpg/quality/80/tft-set-2-combat-3.jpg",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 4,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bc9cd9356dd03422c3f2b64b7da470a285993191e8c7f70d0.jpeg",
+        "source": "Polygon",
+        "title": "Teamfight Tactics' Hyperroll helps simplify the complex game - Polygon",
+        "link": "https://www.polygon.com/22404171/teamfight-tactics-reckoning-set-5-hyperroll-mode-impressions",
+        "original": "https://cdn.vox-cdn.com/thumbor/7h_DIvuAt5paK4rcjJLee5dkB-A=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22471331/League_of_Legends_Screenshot_2021.04.26___13.43.59.70.png",
+        "original_width": 1200,
+        "original_height": 675,
+        "is_product": false
+      },
+      {
+        "position": 5,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32b0a798c089ae379772ed3ab7ea8060ae3610ad3472e39d170.jpeg",
+        "source": "App Trigger",
+        "title": "TFT: Here's when Teamfight Tactics is coming to mobile",
+        "link": "https://apptrigger.com/2019/12/27/tft-teamfight-tactics-mobile/",
+        "original": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fapptrigger.com%2Ffiles%2F2018%2F08%2FTFT-2.jpg",
+        "original_width": 2000,
+        "original_height": 1127,
+        "is_product": false
+      },
+      {
+        "position": 6,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bc7a3b46ec8dbd236262326e641f2a55ea58fa0f7ea4f8e1d.jpeg",
+        "source": "Rock Paper Shotgun",
+        "title": "TFT items: a cheat sheet for combining items | Rock Paper Shotgun",
+        "link": "https://www.rockpapershotgun.com/tft-items-a-cheat-sheet-for-combining-items",
+        "original": "https://assets2.rockpapershotgun.com/tft-items.jpg/BROK/thumbnail/1600x900/quality/100/tft-items.jpg",
+        "original_width": 1600,
+        "original_height": 900,
+        "is_product": false
+      },
+      {
+        "position": 7,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32b7aec1ee705cbfbf0e38c0891206a89a44aca83c9d6f56b92.jpeg",
+        "source": "Deconstructor of Fun",
+        "title": "How Riot can Turn Team Fight Tactics into a Billion Dollar Game —  Deconstructor of Fun",
+        "link": "https://www.deconstructoroffun.com/blog/2020/7/19/how-riot-can-turn-team-fight-tactics-into-a-billion-dollar-game",
+        "original": "http://static1.squarespace.com/static/58af450eb3db2b0582612f1d/58af55d29a6bf733a4093aaa/5f14453f0d827025116a254e/1595259743550/TFT.S3_GALAXIES.ARTICLE-2.jpg?format=1500w",
+        "original_width": 1280,
+        "original_height": 720,
+        "is_product": false
+      },
+      {
+        "position": 8,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32b158e7a44b6839aae37d1a95993e46281f2d541b7caa6ac56.jpeg",
+        "source": "SenpAI",
+        "title": "TFT Beginner's Guide - Everything You Need to Know - SenpAI.GG",
+        "link": "https://senpai.gg/blog/tft-beginners-guide/",
+        "original": "https://senpai.gg/blog/wp-content/uploads/2020/08/tft-senpai-cover-1.webp",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 9,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bd27de92bd9aaa7da7e361dd53f9c8810b478b193facb0091.jpeg",
+        "source": "League of Legends",
+        "title": "TFT: MONSTERS ATTACK! - Teamfight Tactics",
+        "link": "https://teamfighttactics.leagueoflegends.com/",
+        "original": "https://www.riotgames.com/darkroom/1000/fab68f870f6da8998086165e608ea621:659056e32b0511d7f8525348809721ff/tft.jpg",
+        "original_width": 1000,
+        "original_height": 562,
+        "is_product": false
+      },
+      {
+        "position": 10,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32b8e99613a104dd45c860a3678d449350d70cf6b22c5451b0a.jpeg",
+        "source": "YouTube",
+        "title": "Welcome to Teamfight Tactics: Monsters Attack! Esports - TFT NA Esports  Format Announcement - YouTube",
+        "link": "https://www.youtube.com/watch?v=hFQ6wXoYFeM",
+        "tag": "2:48",
+        "original": "https://i.ytimg.com/vi/hFQ6wXoYFeM/maxresdefault.jpg",
+        "original_width": 1280,
+        "original_height": 720,
+        "is_product": true
+      },
+      {
+        "position": 11,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bcf980d0d7094ebc44491290510d0d806d9a8d40f1ee75a37.jpeg",
+        "source": "The Rift Crown",
+        "title": "Your first time playing Teamfight Tactics? The 6 things you NEED to know  about the basics of TFT - The Rift Crown",
+        "link": "https://theriftcrown.com/your-first-time-playing-teamfight-tactics-the-6-things-you-need-to-know-about-the-basics-of-tft/",
+        "original": "https://theriftcrown.com/wp-content/uploads/2022/07/tft-galaxias-e1585329197359.jpg",
+        "original_width": 1000,
+        "original_height": 563,
+        "is_product": false
+      },
+      {
+        "position": 12,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bcf980d0d7094ebc40a0826e8f2b640ab1c22e903f78c5521.jpeg",
+        "source": "UHD Wallpaper",
+        "title": "TFT Set 7 Aurelion Sol Wallpaper 4K #1371h",
+        "link": "https://www.uhdpaper.com/2022/03/tft-set-7-aurelion-sol-4k-1371h.html",
+        "original": "https://image-1.uhdpaper.com/wallpaper/tft-set-7-aurelion-sol-4k-wallpaper-uhdpaper.com-137@1@h.jpg",
+        "original_width": 3840,
+        "original_height": 2160,
+        "is_product": false
+      },
+      {
+        "position": 13,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bcf980d0d7094ebc42700660c64406d8cc886a6962e504e72.jpeg",
+        "source": "The Game Haus",
+        "title": "GoopyKnoopy's Top 3 TFT Rise of the Elements Compositions After Day 1",
+        "link": "https://thegamehaus.com/teamfight-tactics/goopyknoopys-top-3-tft-rise-of-the-elements-compositions-after-day-1/2019/10/23/",
+        "original": "https://i0.wp.com/thegamehaus.com/wp-content/uploads/2019/10/Annotation-2019-10-22-152457-e1572893079346.png?fit=1640%2C1022&ssl=1",
+        "original_width": 1640,
+        "original_height": 1022,
+        "is_product": false
+      },
+      {
+        "position": 14,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bcf980d0d7094ebc406234213c38b161cdf0c862026d14c3f.jpeg",
+        "source": "Twitter",
+        "title": "Teamfight Tactics on Twitter: \"Teamfight Tactics Set 2 - Rise of the  Elements What does your board look like? 🤔🤔🤔 https://t.co/bCxyL9grQ0\" /  Twitter",
+        "link": "https://twitter.com/TFT/status/1186719014401101824",
+        "original": "https://pbs.twimg.com/media/EHgSpnEUYAAsi9U.jpg:large",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 15,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bcf980d0d7094ebc42b97952b78b27ad2105449ec21eeccb0.jpeg",
+        "source": "App Trigger",
+        "title": "TFT Set 4: Release date, champions and Spirit Blossom theme teased",
+        "link": "https://apptrigger.com/2020/08/08/tft-set-4-release-champions-theme/",
+        "original": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fapptrigger.com%2Ffiles%2F2018%2F08%2FTFT-Galaxies.jpg",
+        "original_width": 2000,
+        "original_height": 1998,
+        "is_product": false
+      },
+      {
+        "position": 16,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bcf980d0d7094ebc464f6116fb3617e31242633e40aed8671.jpeg",
+        "source": "Gamepur",
+        "title": "All Teamfight Tactics (TFT) Sets ranked, from worst to best - Gamepur",
+        "link": "https://www.gamepur.com/guides/all-teamfight-tactics-tft-sets-ranked-from-worst-to-best",
+        "original": "https://assets.gamepur.com/wp-content/uploads/2022/10/28092503/TFT-Sets.jpg",
+        "original_width": 1200,
+        "original_height": 675,
+        "is_product": false
+      },
+      {
+        "position": 17,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bcf980d0d7094ebc4668b6774dab2b66a3ae8d02487b2d69f.jpeg",
+        "source": "Google Play",
+        "title": "TFT: Teamfight Tactics - Apps on Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics&hl=en_US&gl=US",
+        "original": "https://play-lh.googleusercontent.com/voXBdgwKP1wYBF6bQhsdnD1ty7v-M0WbXgpSUKql2YwFu43LqOyvfuHglnBuwP-taA",
+        "original_width": 512,
+        "original_height": 512,
+        "is_product": false
+      },
+      {
+        "position": 18,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bcf980d0d7094ebc4c8c63a0c2e4e777c098103dc6326edd1.jpeg",
+        "source": "League of Legends Wiki - Fandom",
+        "title": "Gizmos & Gadgets (Teamfight Tactics) | League of Legends Wiki | Fandom",
+        "link": "https://leagueoflegends.fandom.com/wiki/Gizmos_%26_Gadgets_%28Teamfight_Tactics%29",
+        "original": "https://static.wikia.nocookie.net/leagueoflegends/images/3/30/TFT_Gizmos_%26_Gadgets_Promo_01.jpg/revision/latest?cb=20220221163231",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 19,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bcf980d0d7094ebc4f9adba4ab614964dae8d45f3cdcdfc48.jpeg",
+        "source": "Esports.net",
+        "title": "Teamfight Tactics Set 8 - Monsters Attack Preview",
+        "link": "https://www.esports.net/news/teamfight-tactics-set-8-monsters-attack-preview/",
+        "original": "https://www.esports.net/wp-content/uploads/2022/11/TFT-Monsters-Attack.jpg",
+        "original_width": 800,
+        "original_height": 450,
+        "is_product": false
+      },
+      {
+        "position": 20,
+        "thumbnail": "https://serpapi.com/searches/63f785ca6073935cdb95e979/images/9bf8bdea885cc32bcf980d0d7094ebc4c5d64780aa31fdba041bf3650d384112.jpeg",
+        "source": "Dot Esports",
+        "title": "All TFT Set 8 traits that are new - Dot Esports",
+        "link": "https://dotesports.com/tft/news/all-tft-set-8-traits-that-are-new",
+        "original": "https://cdn1.dotesports.com/wp-content/uploads/2022/11/02145226/c4556914326ac60fda27847f59832080.jpg",
+        "original_width": 1890,
+        "original_height": 966,
+        "is_product": false
+      },
+      {
+        "position": 21,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ITgXKqilA2NjX_Rsx0hnvj198ifEiuBvow&usqp=CAU",
+        "source": "Malavida",
+        "title": "TFT - Teamfight Tactics for Android Free",
+        "link": "https://www.malavida.com/en/soft/teamfight-tactics/android/",
+        "original": "https://imag.malavida.com/mvimgbig/download-fs/teamfight-tactics-24646-1.jpg",
+        "original_width": 1560,
+        "original_height": 720,
+        "is_product": false
+      },
+      {
+        "position": 22,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_QEOjNqA8-MsQY4BeJxKR9yOwlN0wUqqsw&usqp=CAU",
+        "source": "Not A Gamer",
+        "title": "TFT Dragonlands: Riot revealed details of the first proper gameplay of Set  7 - Not A Gamer",
+        "link": "https://notagamer.net/tft-dragonlands-riot-details-gameplay-set-7/",
+        "original": "https://notagamer.net/wp-content/uploads/2022/05/TFT-1.jpg",
+        "original_width": 1538,
+        "original_height": 867,
+        "is_product": false
+      },
+      {
+        "position": 23,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLZGuWSUTyGglP5lUMAKzt3qaNbHFQU8Mtdg&usqp=CAU",
+        "source": "Mobalytics",
+        "title": "TFT Carousel Guide: How to Make the Best Carousel Picks - Mobalytics",
+        "link": "https://mobalytics.gg/blog/tft-guide-how-to-choose-tft-carousel/",
+        "original": "https://cdnportal.mobalytics.gg/production/2022/01/5e0ce853-tft-set-8-carousel.png",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 24,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKdCRjfVxGhHs0OjSz8-E2SWNF5wCONIC5Sw&usqp=CAU",
+        "source": "Reddit",
+        "title": "Will the new tft set 8 map be purchasable? : r/TeamfightTactics",
+        "link": "https://www.reddit.com/r/TeamfightTactics/comments/z31e8l/will_the_new_tft_set_8_map_be_purchasable/",
+        "original": "https://preview.redd.it/will-the-new-tft-set-8-map-be-purchasable-v0-kkarz5essr1a1.png?width=971&format=png&auto=webp&s=69869934f8db1ee2db34ee55f95871e5d92c78f5",
+        "original_width": 971,
+        "original_height": 558,
+        "is_product": false
+      },
+      {
+        "position": 25,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-guYRaSRUM_PXfDEL57FCLFJaoV-f8wljaQ&usqp=CAU",
+        "source": "EsportGame.net",
+        "title": "How to bet on Teamfight Tactics?",
+        "link": "https://www.esportgame.net/en/games/tft.php",
+        "original": "https://www.esportgame.net/img/tft-4-2.jpg",
+        "original_width": 1040,
+        "original_height": 581,
+        "is_product": false
+      },
+      {
+        "position": 26,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6q_1qH5PQsT0cqettr7Vm_xiXZLMRE3PtQ&usqp=CAU",
+        "source": "PCGamesN",
+        "title": "How League of Legends champions are chosen to be TFT chibis | PCGamesN",
+        "link": "https://www.pcgamesn.com/teamfight-tactics/league-of-legends-champions-chibis",
+        "original": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/08/tft-tacticians-chibis-character-champion-choice-league-of-legends-lol-tft.jpg",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 27,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYf-ojSaTHSkM68hEE93KKw1D0BDa4Kj89JA&usqp=CAU",
+        "source": "Deconstructor of Fun",
+        "title": "How Riot can Turn Team Fight Tactics into a Billion Dollar Game —  Deconstructor of Fun",
+        "link": "https://www.deconstructoroffun.com/blog/2020/7/19/how-riot-can-turn-team-fight-tactics-into-a-billion-dollar-game",
+        "original": "https://images.squarespace-cdn.com/content/v1/58af450eb3db2b0582612f1d/1595166394147-Q3AO0WTL7F3Q62B642QA/tft.png",
+        "original_width": 875,
+        "original_height": 779,
+        "is_product": false
+      },
+      {
+        "position": 28,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJDMWZ1Z2tGtYj3i6MMxyJMp0hpQ5F9jQ1Q&usqp=CAU",
+        "source": "Polygon",
+        "title": "Teamfight Tactics' Hyperroll helps simplify the complex game - Polygon",
+        "link": "https://www.polygon.com/22404171/teamfight-tactics-reckoning-set-5-hyperroll-mode-impressions",
+        "original": "https://cdn.vox-cdn.com/thumbor/V6K5LUi8CRuwlza48sZ_baQEhHs=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22471334/TFT.jpg",
+        "original_width": 1400,
+        "original_height": 1400,
+        "is_product": false
+      },
+      {
+        "position": 29,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuGp5MtQxhBZO0wDd_y4_13mhZ-vsa6MPGSQ&usqp=CAU",
+        "source": "JeuMobi.com",
+        "title": "How to play TFT: Game play from A to Z - JeuMobi.com",
+        "link": "https://www.jeumobi.com/en/astuces/how-to-play-tft/",
+        "original": "https://www.jeumobi.com/wp-content/uploads/2021/03/tft-game-steps-flow.jpeg",
+        "original_width": 810,
+        "original_height": 400,
+        "is_product": false
+      },
+      {
+        "position": 30,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6TX8R9CXqZK3CnDgCIxRAomFqMPw16qzlA&usqp=CAU",
+        "source": "Slang.net",
+        "title": "TFT - What does TFT stand for in gaming?",
+        "link": "https://slang.net/meaning/tft",
+        "original": "https://slang.net/img/slang/tft_6295.png",
+        "original_width": 600,
+        "original_height": 338,
+        "is_product": false
+      },
+      {
+        "position": 31,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrVpyOhAip76J6cKUSWTbPZWJX1fXnzmo95A&usqp=CAU",
+        "source": "Leagueoflegends",
+        "title": "dev: Design Pillars of Teamfight Tactics – League of Legends",
+        "link": "https://nexus.leagueoflegends.com/en-us/2019/06/dev-design-pillars-of-teamfight-tactics/",
+        "original": "https://nexus.leagueoflegends.com/wp-content/uploads/2019/06/02_TFT_Board_PvE_9omkuveq6rp33lzt2dqs.jpg",
+        "original_width": 1920,
+        "original_height": 1200,
+        "is_product": false
+      },
+      {
+        "position": 32,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDPqrCve4EkeXeZeW8sYCMwD8KBlIJpkXFLg&usqp=CAU",
+        "source": "Riot Games",
+        "title": "New Riot Games SEA Servers for League of Legends and TFT Go Live in January  | Riot Games",
+        "link": "https://www.riotgames.com/en/news/new-riot-games-sea-servers-for-lol-tft-go-live-in-january",
+        "original": "https://www.riotgames.com/darkroom/1440/8983729f21eee4895ab6a9d4d2e26a92:e4c4b20df3d3176188bcf6fb36eabb40/league-and-tft-transition-illustration-3.jpg",
+        "original_width": 1440,
+        "original_height": 811,
+        "is_product": false
+      },
+      {
+        "position": 33,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCI2nfSqQ23U3VQjX54ApL_T_Sb91ly9mt-Q&usqp=CAU",
+        "source": "Republic World",
+        "title": "TFT Zed Build: Learn how to use this champion's maximum potential in TFT |  Gaming",
+        "link": "https://www.republicworld.com/technology-news/gaming/tft-zed-build-stats-items-and-counters.html",
+        "original": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1259aqnvm4smwbof_1603258949.jpeg",
+        "original_width": 768,
+        "original_height": 439,
+        "is_product": false
+      },
+      {
+        "position": 34,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7neiYjKg-eInZNd7clggvYGf-LsHCmiNXg&usqp=CAU",
+        "source": "Gamepur",
+        "title": "What is Omnivamp in Teamfight Tactics (TFT)? - Gamepur",
+        "link": "https://www.gamepur.com/guides/what-is-omnivamp-in-teamfight-tactics-tft",
+        "original": "https://assets.gamepur.com/wp-content/uploads/2022/09/12121831/TFT-Items.jpg",
+        "original_width": 1200,
+        "original_height": 675,
+        "is_product": false
+      },
+      {
+        "position": 35,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENBggKP1VCu9974_g4GyhVjII3mXkw3Ef9A&usqp=CAU",
+        "source": "Twitter",
+        "title": "Teamfight Tactics on Twitter: \"Introducing Hyper Roll, the first new Lab  coming to Teamfight Tactics. It's a shorter, slimmer version of the  standard TFT you know and love. 🗒️ Get all the",
+        "link": "https://twitter.com/TFT/status/1382352947686756361",
+        "original": "https://pbs.twimg.com/media/Ey8L7bxXEAI6fMG.jpg:large",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 36,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Fh8KA2zZsTcdJSHAdgaipZ18mLpiJCZm_g&usqp=CAU",
+        "source": "Facebook",
+        "title": "Teamfight Tactics - Home | Facebook",
+        "link": "https://www.facebook.com/playtft/",
+        "tag": "5 days ago",
+        "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=546839464083160&get_thumbnail=1",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": true
+      },
+      {
+        "position": 37,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi-Q6STlcyeyFiMVuXYnzNXP__c7FCo8pbVA&usqp=CAU",
+        "source": "The Game Haus",
+        "title": "When is the TFT Set 8 PBE Release Date?",
+        "link": "https://thegamehaus.com/teamfight-tactics/when-is-the-tft-set-8-pbe-release-date/2022/10/25/",
+        "original": "https://thegamehaus.com/wp-content/uploads/2022/10/tft-set-8-pbe-release-date.webp",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 38,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCnJQvthbZDJ6M_NLirBZzE4htsJzeQ6T09w&usqp=CAU",
+        "source": "Inven Global",
+        "title": "Everything you need to know about Teamfight Tactics Set 6.5 - Inven Global",
+        "link": "https://www.invenglobal.com/articles/16474/tft-set-6-5-best-comps-augments",
+        "original": "https://static.invenglobal.com/upload/image/2022/02/16/i1645006294996956.jpeg",
+        "original_width": 1380,
+        "original_height": 897,
+        "is_product": false
+      },
+      {
+        "position": 39,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0Co-u0spAy4Cuaq6ahQiL6CEzkHb8vQaUg&usqp=CAU",
+        "source": "tftactics.gg",
+        "title": "TFT Team Comps and Database - TFTACTICS.GG",
+        "link": "https://tftactics.gg/",
+        "original": "https://rerollcdn.com/home/teams-full.jpg",
+        "original_width": 437,
+        "original_height": 385,
+        "is_product": false
+      },
+      {
+        "position": 40,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG4-L2exsu3w3l1zjaZZ7z9tcPTuti6p4IfQ&usqp=CAU",
+        "source": "Mobalytics",
+        "title": "Monsters Attack: New TFT Set 8 Revealed (All New Champions, Traits, and  Hero Augments) - Mobalytics",
+        "link": "https://mobalytics.gg/blog/monsters-attack-new-tft-set-8-revealed-all-new-champions-traits-hero-augments/",
+        "original": "https://cdnportal.mobalytics.gg/production/2022/11/7437001e-hero-augments-1.jpg",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 41,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3EH6vXjeKyVUgEkT1x8wVJF6ozWr-iWfBA&usqp=CAU",
+        "source": "Rock Paper Shotgun",
+        "title": "Teamfight Tactics gold strategy - interest and streaks | Rock Paper Shotgun",
+        "link": "https://www.rockpapershotgun.com/teamfight-tactics-gold-strategy-interest-and-streaks",
+        "original": "https://assets.rockpapershotgun.com/images/2019/07/teamfight-tactics-gold-690x388.jpg",
+        "original_width": 690,
+        "original_height": 388,
+        "is_product": false
+      },
+      {
+        "position": 42,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRT_pDoykw1_KWGIszeK5C0BVHph22e81mLw&usqp=CAU",
+        "source": "Dot Esports",
+        "title": "Best TFT Set 8 comps to play at launch - Dot Esports",
+        "link": "https://dotesports.com/tft/news/best-tft-set-8-comps-to-play-at-launch",
+        "original": "https://cdn1.dotesports.com/wp-content/uploads/2022/11/22122251/TFT-Aphelios.jpg",
+        "original_width": 1350,
+        "original_height": 800,
+        "is_product": false
+      },
+      {
+        "position": 43,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojcA8KTWcfqRcEk_-vPabJpudgYsTtTcNRg&usqp=CAU",
+        "source": "Reddit",
+        "title": "State of TFT: Top 7 All Innovators & Syndicates : r/TeamfightTactics",
+        "link": "https://www.reddit.com/r/TeamfightTactics/comments/t782yq/state_of_tft_top_7_all_innovators_syndicates/",
+        "original": "https://preview.redd.it/state-of-tft-top-7-all-innovators-syndicates-v0-z6yds8342kl81.png?width=640&crop=smart&auto=webp&s=2e1627445134448fc92e2e629958a80d96735e43",
+        "original_width": 640,
+        "original_height": 385,
+        "is_product": false
+      },
+      {
+        "position": 44,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9ZRhn_900pLyJ7-xDmFu3K6SV-IFf30Cqw&usqp=CAU",
+        "source": "YouTube",
+        "title": "I DISCOVERED THE BEST TFT COMP POSSIBLE! (TEAM FIGHT TACTICS GUIDE) -  League of Legends - YouTube",
+        "link": "https://www.youtube.com/watch?v=gY6kTw3xbKc",
+        "tag": "40:39",
+        "original": "https://i.ytimg.com/vi/gY6kTw3xbKc/maxresdefault.jpg",
+        "original_width": 1280,
+        "original_height": 720,
+        "is_product": true
+      },
+      {
+        "position": 45,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcwFOYOwAllksN-kmU0HxsPsDvx2-Fwkgcsg&usqp=CAU",
+        "source": "LeagueFeed",
+        "title": "How Long Does An Average TFT Game Take? - LeagueFeed",
+        "link": "https://leaguefeed.net/average-tft-game-length/",
+        "original": "https://leaguefeed.net/wp-content/uploads/2022/02/how-long-does-tft-game-take.jpg",
+        "original_width": 1280,
+        "original_height": 720,
+        "is_product": false
+      },
+      {
+        "position": 46,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROQBOI3feH1GJikz3noaIC_P8_51SYNiXL2w&usqp=CAU",
+        "source": "Polygon",
+        "title": "Teamfight Tactics is coming to mobile devices in mid-March - Polygon",
+        "link": "https://www.polygon.com/2020/1/13/21064119/teamfight-tactics-mobile-release-date-tft-set-3",
+        "original": "https://cdn.vox-cdn.com/thumbor/_G4ZkwPacdWHC4_FdqXUC8FCMz4=/0x0:1901x953/1200x800/filters:focal(785x235:1089x539)/cdn.vox-cdn.com/uploads/chorus_image/image/66093821/TFT_mobile.0.jpg",
+        "original_width": 1200,
+        "original_height": 800,
+        "is_product": false
+      },
+      {
+        "position": 47,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQunIQMFm2l2WEOfmw_m92Pw7VGy6hy-IHg&usqp=CAU",
+        "source": "League of Legends Wiki - Fandom",
+        "title": "Teamfight Tactics Wiki | League of Legends Wiki | Fandom",
+        "link": "https://leagueoflegends.fandom.com/wiki/Teamfight_Tactics",
+        "original": "https://static.wikia.nocookie.net/leagueoflegends/images/6/60/Reckoning_TFT_set_icon.png/revision/latest/smart/width/250/height/250?cb=20210430004941",
+        "original_width": 250,
+        "original_height": 250,
+        "is_product": false
+      },
+      {
+        "position": 48,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHDsgnWjaEh2yHNiF82hIjj8UHEL1UzEulA&usqp=CAU",
+        "source": "GameRevolution",
+        "title": "TFT Explained | What is Teamfight Tactics? - GameRevolution",
+        "link": "https://www.gamerevolution.com/guides/564159-tft-explained-what-is-teamfight-tactics",
+        "original": "https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/07/TFT-Explained-Shared-Draft.jpg",
+        "original_width": 640,
+        "original_height": 360,
+        "is_product": false
+      },
+      {
+        "position": 49,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-nlfiLb8-Pf1CHMecMfZ9YcZkyc7qFovYg&usqp=CAU",
+        "source": "League of Legends",
+        "title": "TFT: MONSTERS ATTACK! - Teamfight Tactics",
+        "link": "https://teamfighttactics.leagueoflegends.com/",
+        "original": "https://teamfighttactics.leagueoflegends.com/static/24eaaf3a8fb2a932281f8990cd93f475/cdc7c/pengu.png",
+        "original_width": 800,
+        "original_height": 885,
+        "is_product": false
+      },
+      {
+        "position": 50,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVuxdmnQTQpFikp4UUTTKAN1R30FqHpc_Zlg&usqp=CAU",
+        "source": "Teamfight Tactics Support - Riot Games",
+        "title": "TFT: Reckoning II Pass FAQ – Teamfight Tactics Support",
+        "link": "https://support-teamfighttactics.riotgames.com/hc/en-us/articles/4403442385555-TFT-Reckoning-II-Pass-FAQ",
+        "original": "https://support-teamfighttactics.riotgames.com/hc/article_attachments/4403620933395/TFT_MidsetPass_T2_NoText.jpg",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 51,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTulTufYURW4wcPJBvVYJLI1wZDrwKnuLY1fA&usqp=CAU",
+        "source": "VG247",
+        "title": "TFT set 7.5: Everything coming in the new update | VG247",
+        "link": "https://www.vg247.com/tft-set-75-everything-coming-in-the-new-update",
+        "original": "https://asset.vg247.com/tft_set_7_5_header.jpg/BROK/resize/1920x1920%3E/format/jpg/quality/80/tft_set_7_5_header.jpg",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 52,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqH2bBEXcCtSfGph8PtAWahWSXICTC_YnMZQ&usqp=CAU",
+        "source": "GamingonPhone",
+        "title": "Teamfight Tactics: Best comps for TFT Patch 11.3 - GamingonPhone",
+        "link": "https://gamingonphone.com/guides/teamfight-tactics-best-comps-for-tft-patch-11-3/",
+        "original": "https://gamingonphone.com/wp-content/uploads/2020/10/Teamfight-Tactics-TFT.jpg",
+        "original_width": 974,
+        "original_height": 565,
+        "is_product": false
+      },
+      {
+        "position": 53,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdb-dhKHmBv1Zt5AQ2NhMK4sAIpHAaJeJlCA&usqp=CAU",
+        "source": "Google Play",
+        "title": "TFT: Teamfight Tactics - Apps on Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics&hl=en_US&gl=US",
+        "original": "https://play-lh.googleusercontent.com/0q3o4fKhCHxPuMVXWjud34ZJA2EZmXRXDpKGUIWnK-j7aLs3RRbP6O-l9lNmGXNQLUQ=w526-h296-rw",
+        "original_width": 526,
+        "original_height": 296,
+        "is_product": false
+      },
+      {
+        "position": 54,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlETmYxrAP-6mrCEEEDhl10ZtTv1-kmOqJig&usqp=CAU",
+        "source": "Pinnacle",
+        "title": "A beginner's guide to Teamfight Tactics (TFT) | Guide to TFT",
+        "link": "https://www.pinnacle.com/en/esports-hub/betting-articles/league-of-legends/a-beginners-guide-to-teamfight-tactics/n952ewbb695b75xg",
+        "original": "https://www.pinnacle.com/Cms_Data/Contents/Guest/Media/esports2017/Article-Images/LoL/2019/2019-An-introduction-to-Team-Fight-Tactics/Esports-Hero-LoL-Team-Tactics.jpg",
+        "original_width": 1024,
+        "original_height": 515,
+        "is_product": false
+      },
+      {
+        "position": 55,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_6EwK-kbihu-CMdnvVLsIphKwqG8t0ncozA&usqp=CAU",
+        "source": "Upcomer",
+        "title": "Teamfight Tactics is the biggest strategy game in the world, according to  Riot Games",
+        "link": "https://upcomer.com/teamfight-tactics-is-the-biggest-strategy-game-in-the-world-according-to-riot-games",
+        "original": "https://cms.upcomer.com/wp-content/uploads/2022/11/tft.jpg?w=1920",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 56,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSihtdVpWdT3u3DtgVhygWkbXWWOzqPQhAEA&usqp=CAU",
+        "source": "tftactics.gg",
+        "title": "TFT Team Comps and Database - TFTACTICS.GG",
+        "link": "https://tftactics.gg/",
+        "original": "https://rerollcdn.com/home/teams-crop.jpg",
+        "original_width": 328,
+        "original_height": 263,
+        "is_product": false
+      },
+      {
+        "position": 57,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWfHqC1PjXZvAKqEyImK7KOA7my1HTr9nPIA&usqp=CAU",
+        "source": "Business of Esports",
+        "title": "Business of Esports - TFT 2.0 Teased By Riot With Big Announcements Due In  Early 2022",
+        "link": "https://thebusinessofesports.com/2022/01/13/tft-2-0-teased-by-riot-with-big-announcements-due-in-early-2022/",
+        "original": "https://thebusinessofesports.com/wp-content/uploads/2022/01/TFT-2.0-expansion.jpg",
+        "original_width": 1600,
+        "original_height": 900,
+        "is_product": false
+      },
+      {
+        "position": 58,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXA7L4rIGHIe2HT4BEFxQk0oxD4JK1MX6eg&usqp=CAU",
+        "source": "Blog of Legends",
+        "title": "TFT: Teamfight Tactics Guide for Beginners Part 2, Gameplay - Page 4",
+        "link": "https://blogoflegends.com/2020/03/19/tft-teamfight-tactics-guide-beginners-gameplay/4/",
+        "original": "https://blogoflegends.com/files/2020/03/TFTPVP.jpg",
+        "original_width": 1289,
+        "original_height": 885,
+        "is_product": false
+      },
+      {
+        "position": 59,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1yyMoIOxCRg7Nklt7ZuSMf4Zrv52X2eOj-w&usqp=CAU",
+        "source": "GINX Esports TV",
+        "title": "What Do The Keywords In TFT Mean? | GINX Esports TV",
+        "link": "https://www.ginx.tv/en/tft/keywords-meaning",
+        "original": "https://cdn-cf.ginx.tv/respawn-cdn/Ku_KwkCp21KfQHJZI23LtY44UtSwfGcK3OEkjcLz6jI/fill/360/0/no/1/aHR0cHM6Ly93d3cuZ2lueC50di91cGxvYWRzMi90ZnRfa2V5d29yZHMvdGZ0X2tleXdvcmRzX3NpemUuanBn.webp",
+        "original_width": 360,
+        "original_height": 203,
+        "is_product": false
+      },
+      {
+        "position": 60,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3jIFjJVx9GZJX2kqRksMMjFhIZYS1NKz8g&usqp=CAU",
+        "source": "PC Invasion",
+        "title": "All Set 8 Teamfight Tactics items - TFT item guide",
+        "link": "https://www.pcinvasion.com/all-set-8-teamfight-tactics-items-tft-item-guide/",
+        "original": "https://www.pcinvasion.com/wp-content/uploads/2022/12/TFT-items-1.jpg",
+        "original_width": 1920,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 61,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkx1L6CjUs-LGbqBgiUQIFs63o0zkzm8sKsA&usqp=CAU",
+        "source": "Daily Express",
+        "title": "Teamfight Tactics 10.7 update: TFT patch notes for Mobile and PC | Gaming |  Entertainment | Express.co.uk",
+        "link": "https://www.express.co.uk/entertainment/gaming/1263707/Teamfight-Tactics-10-7-update-TFT-patch-notes-Mobile-PC",
+        "original": "https://cdn.images.express.co.uk/img/dynamic/143/750x445/1263707.jpg",
+        "original_width": 750,
+        "original_height": 445,
+        "is_product": false
+      },
+      {
+        "position": 62,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Zer7U1M0uSvFtyklb3xI6-RkiDdnYdmvdA&usqp=CAU",
+        "source": "Dignitas",
+        "title": "How to get items in Teamfight Tactics (TFT) | Dignitas",
+        "link": "https://dignitas.gg/articles/blogs/Unknown/13839/how-to-get-items-in-teamfight-tactics-tft",
+        "original": "https://cdn.sanity.io/images/ccckgjf9/production/82a767af36570d10e691fe93c4d54bd1a7ecbe1b-1200x800.jpg?rect=0,62,1200,675&w=1920&h=1080&fit=max&auto=format",
+        "original_width": 1200,
+        "original_height": 675,
+        "is_product": false
+      },
+      {
+        "position": 63,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHjS6B6IGMgsGUmkaklaQ7QuD8ycRvy7RzeQ&usqp=CAU",
+        "source": "Apowersoft",
+        "title": "TFT｜How to Play Teamfight Tactics",
+        "link": "https://www.apowersoft.com/how-to-play-teamfight-tactics.html",
+        "original": "https://webusupload.apowersoft.info/apowercom/wp-content/uploads/2019/08/tft-champions.jpg",
+        "original_width": 622,
+        "original_height": 375,
+        "is_product": false
+      },
+      {
+        "position": 64,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCivX6OwJDbRUxfKdaYS4wtU0mqBXqac-5sg&usqp=CAU",
+        "source": "BunnyMuffins",
+        "title": "TFT Set 8 Best Comps - BunnyMuffins",
+        "link": "https://bunnymuffins.lol/meta-12-23-b/",
+        "original": "https://bunnymuffins.lol/wp-content/uploads/2022/12/hacker-zed-11223-1024x575.png",
+        "original_width": 1024,
+        "original_height": 575,
+        "is_product": false
+      },
+      {
+        "position": 65,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBkoOztPU1UzwTHjntH6q-gNS6Bt09Mt_E8A&usqp=CAU",
+        "source": "Facebook",
+        "title": "Teamfight Tactics - Home | Facebook",
+        "link": "https://www.facebook.com/playtft/",
+        "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3419516328368447",
+        "original_width": 1080,
+        "original_height": 1080,
+        "is_product": false
+      },
+      {
+        "position": 66,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_3jXdVCaDsh9RbQlXDfhP4Ul0IE6-2ttXQ&usqp=CAU",
+        "source": "The Rift Crown",
+        "title": "Which Are The Aura Items In TFT Set 7.5? - The Rift Crown",
+        "link": "https://theriftcrown.com/aura-items-tft-2022/",
+        "original": "https://theriftcrown.com/wp-content/uploads/2022/08/2.png",
+        "original_width": 2240,
+        "original_height": 1260,
+        "is_product": false
+      },
+      {
+        "position": 67,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyAecEIr0GWLqexCGV8iNEDl9RVstd3Hsu_A&usqp=CAU",
+        "source": "App Trigger",
+        "title": "TFT Labs offer an experimental way to play Teamfight Tactics",
+        "link": "https://apptrigger.com/2021/03/20/tft-labs-teamfight-tactics/",
+        "original": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fapptrigger.com%2Ffiles%2F2020%2F08%2FTFT_Set4_KeyArt.jpg",
+        "original_width": 2000,
+        "original_height": 1142,
+        "is_product": false
+      },
+      {
+        "position": 68,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jECCkyjliSEmu5PKXk8ilU7kyjUpVfvMYA&usqp=CAU",
+        "source": "Mobalytics",
+        "title": "TFT Tier List: Best TFT Champions for Patch 13.3 - Mobalytics",
+        "link": "https://mobalytics.gg/blog/tft-tier-list/",
+        "original": "https://cdnportal.mobalytics.gg/production/1999/07/Featherknight-Pengu-splash.jpg",
+        "original_width": 1279,
+        "original_height": 718,
+        "is_product": false
+      },
+      {
+        "position": 69,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJRxaozWmOdOxxZH1pyejFzs3KSm-SpxBeDw&usqp=CAU",
+        "source": "RedBull.com",
+        "title": "League of Legends TFT tips: 5 to guide you to victory",
+        "link": "https://www.redbull.com/au-en/league-of-legends-teamfight-tactics-tips-guide",
+        "original": "https://img.redbull.com/images/c_crop,x_296,y_0,h_675,w_506/c_fill,w_400,h_540/q_auto:low,f_auto/redbullcom/2019/06/27/ab4be748-bbcc-4cb6-9dc1-34dacfa0e868/league-of-legends-teamfight-tactics-synergy",
+        "original_width": 400,
+        "original_height": 540,
+        "is_product": false
+      },
+      {
+        "position": 70,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLJvgCYx82Ln4-Wi6-qBbN-I2IoKQ3mn3KFQ&usqp=CAU",
+        "source": "Upcomer",
+        "title": "What are Anvils in TFT Set 8?",
+        "link": "https://upcomer.com/what-are-anvils-in-tft-set-8",
+        "original": "https://cms.upcomer.com/wp-content/uploads/2022/11/anvillll.png",
+        "original_width": 1597,
+        "original_height": 887,
+        "is_product": false
+      },
+      {
+        "position": 71,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcurNkXFISB4dXTMXl280KI1fh7R98RDaxxA&usqp=CAU",
+        "source": "Gamepur",
+        "title": "5 best starting carousel items in Teamfight Tactics (TFT) - Gamepur",
+        "link": "https://www.gamepur.com/guides/5-best-starting-items-in-tft",
+        "original": "https://assets.gamepur.com/wp-content/uploads/2021/10/13080726/TFT-First-Carousel.jpg",
+        "original_width": 1200,
+        "original_height": 675,
+        "is_product": false
+      },
+      {
+        "position": 72,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRACVcb-LZqGVQhzqtMxnmPrUNXA1O_ObUNDA&usqp=CAU",
+        "source": "SenpAI",
+        "title": "TFT Patch 11.15 Notes: The Dawn of Heroes Set - SenpAI.GG",
+        "link": "https://senpai.gg/blog/tft-patch-11-15-notes-the-dawn-of-heroes-set/",
+        "original": "https://senpai.gg/blog/wp-content/uploads/2021/07/072021-TFT-Patch-Notes-11-15-Article-Banner-1.webp",
+        "original_width": 1280,
+        "original_height": 720,
+        "is_product": false
+      },
+      {
+        "position": 73,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFJS3mGOhX0l_wUkrh-xZ2q2qpIK7Ge4UI4A&usqp=CAU",
+        "source": "Dot Esports",
+        "title": "TFT Set 7.5 cheat sheet: All traits, stats, and synergies - Dot Esports",
+        "link": "https://dotesports.com/tft/news/tft-cheat-sheet-all-traits-stats-and-synergies",
+        "original": "https://cdn1.dotesports.com/wp-content/uploads/2022/08/21161742/TFT-Set-7.5-Cheat-Sheet.jpg",
+        "original_width": 1200,
+        "original_height": 814,
+        "is_product": false
+      },
+      {
+        "position": 74,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaoxzDqmkWsgVyebQ1P6vuw0jRehLZNtKuQ&usqp=CAU",
+        "source": "Alucare",
+        "title": "List of items on tft / Teamfight Tactics - Alucare",
+        "link": "https://www.alucare.fr/en/wiki/teamfight-tactics/items/",
+        "original": "https://www.alucare.fr/wp-content/uploads/2019/10/les-items-de-tft.jpg",
+        "original_width": 813,
+        "original_height": 785,
+        "is_product": false
+      },
+      {
+        "position": 75,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqbABZ2_PzNx_RihQ61l3zSxV3W2u8i0L58g&usqp=CAU",
+        "source": "WIN.gg",
+        "title": "How to complete all the Lunar Gala TFT quests - WIN.gg",
+        "link": "https://win.gg/news/how-to-complete-all-the-lunar-gala-tft-quests/",
+        "original": "https://win.gg/wp-content/uploads/2023/01/TFT-Lunar-New-Year-Lunar-Gala-2023.webp",
+        "original_width": 1200,
+        "original_height": 675,
+        "is_product": false
+      },
+      {
+        "position": 76,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmdz9yVMMJ1H5oBlkp35ImaNCL4Yp_t0Z7Q&usqp=CAU",
+        "source": "Gamer Tweak",
+        "title": "What Does The Threat Trait Do In TFT Set 8 (Explained)",
+        "link": "https://gamertweak.com/tft-set-8-threat-trait/",
+        "original": "https://gamertweak.com/wp-content/uploads/2022/12/tft-set-8-threat-trait.jpg",
+        "original_width": 800,
+        "original_height": 450,
+        "is_product": false
+      },
+      {
+        "position": 77,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyByY3oap2U4ohxoYgDu3z8KN6daB1yAsZXw&usqp=CAU",
+        "source": "TFT Esports",
+        "title": "TFT Esports",
+        "link": "https://giantslayer.tv/tftesports/qualifierpoints/",
+        "original": "https://giantslayer.tv/media/2022/11/23/pplxafx6qoow6naks1wi.png",
+        "original_width": 888,
+        "original_height": 228,
+        "is_product": false
+      },
+      {
+        "position": 78,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4gE75063wzNNzqatnQdt2GdnW1Q9mKj2sA&usqp=CAU",
+        "source": "Twitter",
+        "title": "Kien Lam on Twitter: \"Here's my guide for @TFT Set 7 (which is very fun!!).  For those who don't know, I'm a peak Rank 1 and regular Challenger player.  Here are some",
+        "link": "https://twitter.com/MeanMisterKien/status/1537107392797634560",
+        "original": "https://pbs.twimg.com/media/FVTbDaeVIAAVgt8.png",
+        "original_width": 895,
+        "original_height": 460,
+        "is_product": false
+      },
+      {
+        "position": 79,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf-z0TML9dlHHm5E9dOpUuqg8vHNzHdAxjzA&usqp=CAU",
+        "source": "Pocket Gamer",
+        "title": "How to econ in TFT | Pocket Gamer",
+        "link": "https://www.pocketgamer.com/teamfight-tactics/how-to-econ-in-tft-the-best-ways-to-manage-your-economy-in-teamfight-tactics/",
+        "original": "https://media.pocketgamer.com/artwork/na-30819-1612814437/tft%20how%20to%20econ_JPG_820.jpg",
+        "original_width": 820,
+        "original_height": 410,
+        "is_product": false
+      },
+      {
+        "position": 80,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWOT1vwwjMaEKqflkIKEW6K4CJ-PquexEEg&usqp=CAU",
+        "source": "Amino Apps",
+        "title": "Best TFT Game! | League Of Legends Official Amino",
+        "link": "https://aminoapps.com/c/league-of-legends/page/blog/best-tft-game/XvUg_uR4vNZ2bBBl7DLkxoNroMkmP",
+        "original": "http://pm1.narvii.com/7238/03e4d76b1941300111a16c5d590895a359a42528r1-1595-899v2_uhq.jpg",
+        "original_width": 1595,
+        "original_height": 899,
+        "is_product": false
+      },
+      {
+        "position": 81,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1Be5dVqYXomEMfzyXYxS9_byOemm0GNYPA&usqp=CAU",
+        "source": "Twitch",
+        "title": "TeamfightTactics - Twitch",
+        "link": "https://www.twitch.tv/teamfighttactics",
+        "tag": "3 days ago",
+        "original": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/237364013d6831d1c5e2_teamfighttactics_41870473707_1676838657//thumb/thumb0-320x180.jpg",
+        "original_width": 320,
+        "original_height": 180,
+        "is_product": true
+      },
+      {
+        "position": 82,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuomFP23xdMuaS3HNWdWHvdn4zEfVzbXEjVA&usqp=CAU",
+        "source": "GitHub",
+        "title": "tft-skin-changer · GitHub Topics · GitHub",
+        "link": "https://github.com/topics/tft-skin-changer",
+        "original": "https://repository-images.githubusercontent.com/510962349/7e4d8cee-3602-404d-a91f-e1e8669a5b90",
+        "original_width": 633,
+        "original_height": 450,
+        "is_product": false
+      },
+      {
+        "position": 83,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX5pIFleP1xszvAGc9Q6Qy21txv4bYiL-rUQ&usqp=CAU",
+        "source": "Gosunoob",
+        "title": "TFT Philosopher Stone Bug Explained",
+        "link": "https://www.gosunoob.com/guides/tft-philosopher-stone-bug-explained/",
+        "original": "https://static.gosunoob.com/img/1/2022/05/tft-philosopher-stone-bug-explained.jpg",
+        "original_width": 1499,
+        "original_height": 856,
+        "is_product": false
+      },
+      {
+        "position": 84,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSogHWed9dOgt4GzV5yc-lPcOO5XfsYGj5v0g&usqp=CAU",
+        "source": "JeuMobi.com",
+        "title": "TFT set 8 Augments tier list: guide to heroic optimizations",
+        "link": "https://www.jeumobi.com/en/astuces/tft-set-8-augments-guide/",
+        "original": "https://www.jeumobi.com/wp-content/uploads/2022/11/tft-set-8-augments-guide.jpg",
+        "original_width": 810,
+        "original_height": 400,
+        "is_product": false
+      },
+      {
+        "position": 85,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgHXnQl429fGKc1iT0F4b1ZEbxdoSKGWsQaw&usqp=CAU",
+        "source": "Not A Gamer : Esports, Gaming & Influencer News",
+        "title": "TFT: Tencent announced a new Chinese-exclusive version on Mobile platform -  Not A Gamer",
+        "link": "https://notagamer.net/tft-tencent-announce-chinese-exclusive-ver-mobile/",
+        "original": "https://notagamer.net/wp-content/uploads/2021/07/Capture-21.png",
+        "original_width": 634,
+        "original_height": 760,
+        "is_product": false
+      },
+      {
+        "position": 86,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlds2LxLqTSv37IEl6kc1gZqKofEj1sL8Kag&usqp=CAU",
+        "source": "The Game Haus",
+        "title": "TFT Patch Notes 11.3 Rundown – Top 3 Meta Predictions",
+        "link": "https://thegamehaus.com/teamfight-tactics/tft-patch-notes-11-3-rundown-top-3-meta-predictions/2021/02/03/",
+        "original": "https://i0.wp.com/thegamehaus.com/wp-content/uploads/2021/02/FoB_Reveal_Article_Banner.jpg?fit=1820%2C1024&ssl=1",
+        "original_width": 1820,
+        "original_height": 1024,
+        "is_product": false
+      },
+      {
+        "position": 87,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoDwqa6m3o7KVjHfb94BPwBqrUydTK5G8Pg&usqp=CAU",
+        "source": "Esports.gg",
+        "title": "TFT Item Tier List: Which items to use and why | Esports.gg",
+        "link": "https://esports.gg/guides/teamfight-tactics/tft-items-tier-list/",
+        "original": "https://admin.esports.gg/wp-content/uploads/2022/01/tftitem_tierlisttft.jpg",
+        "original_width": 968,
+        "original_height": 544,
+        "is_product": false
+      },
+      {
+        "position": 88,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZnGZ4bJsvjVXnDwCLt1hyuCG-SsoYWJmZg&usqp=CAU",
+        "source": "Pocket Gamer",
+        "title": "TFT Microtransactions - What should you buy? | Pocket Gamer",
+        "link": "https://www.pocketgamer.com/teamfight-tactics/tft-microtransactions-which-packs-should-you-buy-in-teamfight-tactics/",
+        "original": "https://media.pocketgamer.com/artwork/na-30819-1611692328/tft%20microtransactions_jpg_820.jpg",
+        "original_width": 820,
+        "original_height": 410,
+        "is_product": false
+      },
+      {
+        "position": 89,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTfBRTIOsBfjLZv-OWsx4P0b6mWApgdSIjvQ&usqp=CAU",
+        "source": "Fanbyte",
+        "title": "Teamfight Tactics TFT Open Fort Guide - What is Open Fort?",
+        "link": "https://www.fanbyte.com/games/guides/teamfight-tactics-tft-open-fort-guide-what-is-open-fort/",
+        "original": "https://cdn.fanbyte.com/wp-content/uploads/2019/07/tft-patch-notes-1024x576.jpg?x34540",
+        "original_width": 1024,
+        "original_height": 576,
+        "is_product": false
+      },
+      {
+        "position": 90,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnWf9S0eCLMgJph9HfZGnSqLfhnrHQweNC2w&usqp=CAU",
+        "source": "Republic World",
+        "title": "TFT Talon Build: An extensive guide to the origin story, abilities of the  Blade's Shadow | Gaming",
+        "link": "https://www.republicworld.com/technology-news/gaming/tft-talon-build-an-extensive-guide-to-the-origin-story-abilities-of-the-blades-shadow.html",
+        "original": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/biqysyurbicijakj_1608734544.jpeg",
+        "original_width": 768,
+        "original_height": 438,
+        "is_product": false
+      },
+      {
+        "position": 91,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLt4sC7UY7u2MCaNEXEIxpOgfWXiFFx1X8Fg&usqp=CAU",
+        "source": "Reddit",
+        "title": "Rammus is finally coming to TFT in Set 8 - Full List of champions in thread  : r/TeamfightTactics",
+        "link": "https://www.reddit.com/r/TeamfightTactics/comments/yk4z42/rammus_is_finally_coming_to_tft_in_set_8_full/",
+        "original": "https://preview.redd.it/rammus-is-finally-coming-to-tft-in-set-8-full-list-of-v0-ixvr224idjx91.jpg?auto=webp&s=8545c18c194061a9eb1b8892007aa8b8a862d703",
+        "original_width": 1200,
+        "original_height": 1200,
+        "is_product": false
+      },
+      {
+        "position": 92,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO4yxwJPu4mPhepZH3exskJmFxJ_gkiUmKoA&usqp=CAU",
+        "source": "Liquipedia",
+        "title": "TFT Open Championship - Liquipedia Teamfight Tactics Wiki",
+        "link": "https://liquipedia.net/tft/TFT_Open_Championship",
+        "original": "https://liquipedia.net/commons/images/7/79/TFT_Open_Championships_allmode.png",
+        "original_width": 300,
+        "original_height": 301,
+        "is_product": false
+      },
+      {
+        "position": 93,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEPBQclNUP13_eNfY8m30N9_IUIbUDMS9ZRA&usqp=CAU",
+        "source": "League of Legends",
+        "title": "Teamfight Tactics Esports - League of Legends",
+        "link": "https://www.leagueoflegends.com/en-us/news/tags/teamfight-tactics-esports/",
+        "original": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3b63ec903bdd22d8/6372b0448db6e810ab7767f8/111522_TFTPrimerArticle_Banner.jpg",
+        "original_width": 1600,
+        "original_height": 900,
+        "is_product": false
+      },
+      {
+        "position": 94,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJifnl29eOzWnQKyeU-wn--VFsSmfFFFh0w&usqp=CAU",
+        "source": "ArtStation Magazine",
+        "title": "Riot Games TFT Dragonlands Art Blast - ArtStation Magazine",
+        "link": "https://magazine.artstation.com/2022/06/riot-games-tft-dragonlands-art-blast/",
+        "original": "https://magazine.artstation.com/wp-content/uploads/2022/06/TFT_SET722_ArtStation-Banner_1200x400_v001_ALyu.jpg?w=1024",
+        "original_width": 1024,
+        "original_height": 341,
+        "is_product": false
+      },
+      {
+        "position": 95,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfvu8m0GvE1VZ2yy0Fcl7Lj2M0dTybqeDppg&usqp=CAU",
+        "source": "Blog of Legends",
+        "title": "TFT: What Hyper Roll Mode Is (And How To Dominate It)",
+        "link": "https://blogoflegends.com/2021/04/14/tft-hyper-roll-mode-dominate/",
+        "original": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fblogoflegends.com%2Ffiles%2F2021%2F04%2FHyper-Roll-PBE.jpg",
+        "original_width": 2000,
+        "original_height": 1125,
+        "is_product": false
+      },
+      {
+        "position": 96,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMEh1nqTAvhi5HV83oMFt3sRmj_HKrKAUOA&usqp=CAU",
+        "source": "Dexerto",
+        "title": "TFT Set 6 details: New champions & traits, Hextech Augments, release date -  Dexerto",
+        "link": "https://www.dexerto.com/league-of-legends/tft-set-6-details-release-date-champions-items-and-more-1653992/",
+        "original": "https://editors.dexerto.com/wp-content/uploads/2021/09/15/TFT-Set-6-details.jpg",
+        "original_width": 1600,
+        "original_height": 900,
+        "is_product": false
+      },
+      {
+        "position": 97,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Tad71XCUkU0pRzW55YKoyJeIAMJuVNUAWQ&usqp=CAU",
+        "source": "Rock Paper Shotgun",
+        "title": "Teamfight Tactics - how to play TFT Set 2 | Rock Paper Shotgun",
+        "link": "https://www.rockpapershotgun.com/teamfight-tactics-how-to-play-tft-set-2",
+        "original": "https://assets.rockpapershotgun.com/images/2019/11/TFT-set-2-combat-690x388.jpg",
+        "original_width": 690,
+        "original_height": 388,
+        "is_product": false
+      },
+      {
+        "position": 98,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvKOVNblu51xP63c_tus5fz0SdU0GMR83QA&usqp=CAU",
+        "source": "Google Play",
+        "title": "TFT: Teamfight Tactics - Apps on Google Play",
+        "link": "https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics&hl=en_US&gl=US",
+        "original": "https://play-lh.googleusercontent.com/5ouAdRcvRRCX1NLMYoF6TPNPqEg-iKVxOp8C0lyRj9n_coC-wpQgeAf4pJ4AdN9-MA=w526-h296-rw",
+        "original_width": 526,
+        "original_height": 296,
+        "is_product": false
+      },
+      {
+        "position": 99,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkXOBIdKODAIDVwu5EoP6ec8CICc0EGfU8Q&usqp=CAU",
+        "source": "Fanbyte",
+        "title": "Teamfight Tactics Ranked Guide - How the TFT Ranked Ladder Works",
+        "link": "https://www.fanbyte.com/games/guides/teamfight-tactics-ranked-guide-how-the-tft-ranked-ladder-works/",
+        "original": "https://cdn.fanbyte.com/wp-content/uploads/2019/07/2019-07-26-11_27_05-Window-1024x619.png?x34540",
+        "original_width": 1024,
+        "original_height": 619,
+        "is_product": false
+      },
+      {
+        "position": 100,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-bS_OTDbXhRdSCtO7uy-QVA-f7fTydPO7lQ&usqp=CAU",
+        "source": "Esportimes",
+        "title": "Teamfight Tactics Set 5.5 Is On the Way - Esportimes",
+        "link": "https://esportimes.com/en/tft-set-5-5-is-on-the-way/",
+        "original": "https://esportimes.com/wp-content/uploads/2021/07/tftset5.5kapak-esportimes.jpg",
+        "original_width": 1600,
+        "original_height": 900,
+        "is_product": false
+      }
+    ]
+  }

@@ -1,0 +1,133 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+nav{
+  font-family: 'Chakra Petch', sans-serif;
+
+  color: white;
+  float: right;
+  text-align: center;
+  padding: 14px 50px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+li{
+  list-style-type: none;
+  text-decoration: none; 
+
+  /* margin-right: 2%; */
+
+}
+
+a:link { 
+  color: white;
+  text-decoration: none; 
+  padding: 5px;
+}
+
+a:visited { 
+  text-decoration: none; 
+  color: white;
+
+}
+
+a:hover {
+  color: #fff;
+  box-shadow: inset 200px 0 0 0 #48cb3a;;
+}
+
+p{
+
+  font-family: 'Chakra Petch', sans-serif;
+  color: white;
+  float: left;
+  text-align: center;
+  padding: 14px 20px;
+  font-size: 30px;
+}
+
+#about{
+  text-align: left;
+  font-size: 20px;
+
+}
+
+/* canvas {
+  position: absolute;
+  left: 25%;
+} */
+
+/* div id="sketch-holder" */
+
+#sketch-holder{
+  display: block;
+}
+
+
+#sketch-holder2{
+  position: absolute;
+  left: 25%;
+
+}
+
+
+button{
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 24px;
+  position:absolute;
+  left:140px;
+  top:180px;
+}
+
+
+input{
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 24px;
+  position:absolute;
+  right:140px;
+  top:180px;
+}
+
+#mobile{
+  display: none;
+}
+
+#ipad{
+  display: none;
+}
+
+@media(max-width: 900px){
+  #ipad{
+    display: block;
+  }
+  #desktop{
+    display: none;
+  }
+  p{
+    color:yellow;
+  }
+}
+
+/* MOBILE */
+@media(max-width: 600px){
+  #mobile{
+    display: block;
+  }
+  #desktop{
+    display: none;
+  }
+  #ipad{
+    display: none;
+  }
+  p{
+    color:blue;
+  }
+  input{
+    display: none;
+  }
+}
+
