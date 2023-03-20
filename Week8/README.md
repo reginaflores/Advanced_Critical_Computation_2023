@@ -3,27 +3,22 @@
 
 
 
-###Python HTTP Server:
+### Python HTTP Server:
 
 - https://ryanblunden.com/create-a-http-server-with-one-command-thanks-to-python-29fcfdcd240e 
 
 - https://www.digitalocean.com/community/tutorials/python-simplehttpserver-http-server 
 
 
-###Boiler Plate:
+### Boiler Plate HTML:
 
 - https://html5boilerplate.com/ 
 
 
 
-###Notes:
-
--https://stackoverflow.com/questions/30065227/run-open-vscode-from-mac-terminal
-
--https://stackoverflow.com/questions/25233133/launch-sublime-text-3-in-terminal-with-zsh
 
 
-###Git:
+### Git:
 
 -https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
 
@@ -32,7 +27,16 @@
 -https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
 
 
-###Git when you are starting a new repo:
+
+
+### Notes on Terminal errors:
+
+-https://stackoverflow.com/questions/30065227/run-open-vscode-from-mac-terminal
+
+-https://stackoverflow.com/questions/25233133/launch-sublime-text-3-in-terminal-with-zsh
+
+
+### Git when you are starting a new repo:
 
 	git init
 	git add README.md
@@ -44,7 +48,7 @@
 	git push -u origin main
 
 
-###Git when you have an existing repo:
+### Git when you have an existing repo:
 
 	git add -A  
 	git status    
@@ -53,10 +57,14 @@
 
 
 
-###Git Manual Download:
+### Git Manual Download:
+
 -https://download-directory.github.io/
 
-###Notes on Ports:
+
+
+### Notes on Ports:
+
 -https://www.techtarget.com/searchnetworking/definition/port-number#:~:text=Localhost%20is%20the%20default%20name,using%20a%20loopback%20address%20network
 
 
