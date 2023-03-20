@@ -11,17 +11,20 @@
 
 
 ###Boiler Plate:
+
 - https://html5boilerplate.com/ 
 
 
 
 ###Notes:
+
 -https://stackoverflow.com/questions/30065227/run-open-vscode-from-mac-terminal
 
 -https://stackoverflow.com/questions/25233133/launch-sublime-text-3-in-terminal-with-zsh
 
 
 ###Git:
+
 -https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
 
 -https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
@@ -30,6 +33,7 @@
 
 
 ###Git when you are starting a new repo:
+
 	git init
 	git add README.md
 	git branch -M main
@@ -41,6 +45,7 @@
 
 
 ###Git when you have an existing repo:
+
 	git add -A  
 	git status    
 	git commit -m "comment"
