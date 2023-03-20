@@ -1,5 +1,5 @@
 
-
+# Terminal and GitHub 
 
 
 
@@ -14,7 +14,10 @@ Run an local server:
 - https://www.digitalocean.com/community/tutorials/python-simplehttpserver-http-server 
 
 
+### Installing Python:
 
+You might need to install Python and HomeBrew 
+- https://docs.python-guide.org/starting/install3/osx/
 
 ### Notes on Ports:
 
@@ -71,6 +74,8 @@ Run an local server:
 
 
 ### Git Manual Download:
+
+If you want to download one folder rather than an entire repo:
 
 - https://download-directory.github.io/
 
