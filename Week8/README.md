@@ -10,22 +10,47 @@ To change directory into a folder:
 
 To go one level up:
 
-	cd "../" 
+	cd ".." 
 
 To see what's in the current folder:
 
 	ls 
 
-	cd ~/Desktop go back to your desktop 
-	mkdir "name of folder" make a new folder
-	touch "nameoffile.txt" make a new text file
-	echo "woof woof" > kitty.txt make a new text file called kitty.txt with the words "woof woof" in it
-	open "nameoffile.txt" open the text file
-	cat "nameoffile.txt" read the text file in terminal
-	open "nameoffolder" open the folder in finder * Macs
-	explorer "nameoffolder" open the folder in file explorer * PC
-	rm -rf "nameoffolder" delete a folder or file (BE VERY CAREFUL! YOU CAN'T UNDO)
+To go back to your desktop:
 
+	cd ~/Desktop  
+
+To make a new folder:
+
+	mkdir "name of folder" 
+
+To make a new text file:
+
+	touch "nameoffile.txt" 
+
+To make a new text file called kitty.txt with the words "woof woof" in it:
+
+	echo "woof woof" > kitty.txt 
+
+Open a text file:
+	
+	open "nameoffile.txt" 
+
+Read the text file in terminal:
+
+	cat "nameoffile.txt" 
+
+Open a folder in finder * Macs:
+
+	open "nameoffolder" 
+
+Open a folder in file explorer * PC:
+
+	explorer "nameoffolder" 
+
+Delete a folder or file (BE VERY CAREFUL! YOU CAN'T UNDO):
+
+	rm -rf "nameoffolder" 
 
 
 
