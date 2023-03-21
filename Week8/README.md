@@ -8,9 +8,14 @@ To change directory into a folder:
 
 	cd "name of folder" 
 
+To go one level up:
 
-	cd "../" go one level up
-	ls see what's in the current folder
+	cd "../" 
+
+To see what's in the current folder:
+
+	ls 
+
 	cd ~/Desktop go back to your desktop 
 	mkdir "name of folder" make a new folder
 	touch "nameoffile.txt" make a new text file
