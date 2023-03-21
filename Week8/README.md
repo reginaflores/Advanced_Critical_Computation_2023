@@ -2,6 +2,27 @@
 # Terminal and GitHub 
 
 
+### Terminal Cheat Sheet
+
+To change directory into a folder:
+
+	cd "name of folder" 
+
+
+	cd "../" go one level up
+	ls see what's in the current folder
+	cd ~/Desktop go back to your desktop 
+	mkdir "name of folder" make a new folder
+	touch "nameoffile.txt" make a new text file
+	echo "woof woof" > kitty.txt make a new text file called kitty.txt with the words "woof woof" in it
+	open "nameoffile.txt" open the text file
+	cat "nameoffile.txt" read the text file in terminal
+	open "nameoffolder" open the folder in finder * Macs
+	explorer "nameoffolder" open the folder in file explorer * PC
+	rm -rf "nameoffolder" delete a folder or file (BE VERY CAREFUL! YOU CAN'T UNDO)
+
+
+
 
 ### Python HTTP Server:
 
