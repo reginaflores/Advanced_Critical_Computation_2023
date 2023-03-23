@@ -52,7 +52,9 @@ Delete a folder or file (BE VERY CAREFUL! YOU CAN'T UNDO):
 
 	rm -rf "nameoffolder" 
 
+Open Finder Window (mac):
 
+	open .
 
 ### Python HTTP Server:
 
@@ -122,6 +124,10 @@ You might need to install Python and HomeBrew
 	git commit -m "comment"
 	git push -u origin main  
 
+
+### Git Desktop:
+
+- https://desktop.github.com/
 
 
 ### Git Manual Download:
