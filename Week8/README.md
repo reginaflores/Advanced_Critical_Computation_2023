@@ -117,7 +117,7 @@ You might need to install Python and HomeBrew
 	git push -u origin main
 
 
-### Git when you have an existing repo:
+### Git when you have an existing repo you want to add code to:
 
 	git add -A  
 	git status    
@@ -125,8 +125,13 @@ You might need to install Python and HomeBrew
 	git push -u origin main  
 
 
+
+
+
+
 ### Git Desktop:
 
+This is the link to the desktop version:
 - https://desktop.github.com/
 
 
