@@ -62,6 +62,9 @@ Run an local server:
 
 	python3 -m http.server 8000
 
+Then go to http://localhost:8000/ on a web browser.
+
+
 - https://ryanblunden.com/create-a-http-server-with-one-command-thanks-to-python-29fcfdcd240e 
 
 - https://www.digitalocean.com/community/tutorials/python-simplehttpserver-http-server 
