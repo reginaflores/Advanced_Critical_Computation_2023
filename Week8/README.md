@@ -1,5 +1,7 @@
 
-# Terminal and GitHub 
+# Developing Locally: Terminal, IDEs, & GitHub
+
+Link to [lecture slides](https://docs.google.com/presentation/d/1Hl067WdQl-gck1nUBMkbV2zJwt5NjJj6OiHhNhntZ4s/edit#slide=id.p).
 
 
 ### Terminal Cheat Sheet
@@ -126,9 +128,6 @@ You might need to install Python and HomeBrew
 	git status    
 	git commit -m "comment"
 	git push -u origin main  
-
-
-
 
 
 
