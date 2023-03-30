@@ -18,11 +18,11 @@ No API key is needed. It is totally open source.
 
 Every object in the collection has a unique ID and can be accessed through this URL:
 
-	''' https://collectionapi.metmuseum.org/public/collection/v1/objects/[objectID]
+	https://collectionapi.metmuseum.org/public/collection/v1/objects/[objectID]
 
 You can also search the collection with key words:
 
-	''' https://collectionapi.metmuseum.org/public/collection/v1/search?q=sunflowers
+	https://collectionapi.metmuseum.org/public/collection/v1/search?q=sunflowers
 
 
 
