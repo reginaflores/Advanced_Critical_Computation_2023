@@ -1,0 +1,21 @@
+@font-face {
+  src: url(Chomsky.otf);
+  font-family: chomsky;
+
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  font-family: chomsky;
+  font-size: 50px;
+  margin-left: 10%;
+}
+
+canvas {
+  display: block;
+}
+
