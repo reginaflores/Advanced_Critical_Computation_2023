@@ -15,6 +15,11 @@
 - More from [Allison Parish](https://www.decontextualize.com/): https://creative-coding.decontextualize.com/intro-to-ritajs/
 
 
+### Cool Public APIs:
+
+- https://github.com/public-apis/public-apis
+
+
 
 ### Notes on the Met Museum's API:
 
