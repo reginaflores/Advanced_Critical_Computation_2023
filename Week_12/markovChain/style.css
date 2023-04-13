@@ -1,0 +1,17 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+body {
+  background-color: white;
+}
+
+li{
+  list-style-type: none;
+  padding: 4px;
+}
