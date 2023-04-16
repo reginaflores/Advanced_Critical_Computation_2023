@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/addons/p5.sound.min.js"></script>
+    <title>Test</title>
+  </head>
+  <body>
+    <p>Enter a search term. To see the updated text below, reload page after the results.json have been saved (see console).</p>
+    <form id="search-form">
+      <input type="text" id="search-input" name="q">
+      <button type="submit">Search</button>
+    </form>
+
+    <script>
+      const form = document.getElementById('search-form');
+      const input = document.getElementById('search-input');
+
+      form.addEventListener('submit', (event) => {
+        event.preventDefault(); // prevent the form from submitting normally
+        const searchTerm = input.value;
+
+        // send an AJAX request to the server
+        fetch(`/search?q=${searchTerm}`).then((response) => {
+          if (response.ok) {
+            console.log('Search results for '+searchTerm+ ' saved to results.json');
+            return response.json();
+          } else {
+            throw new Error('Error searching for results');
+          }
+        }).then((data) => {
+          // do something with the search results, e.g. display them on the page
+          console.log(data);
+        }).catch((error) => {
+          // console.log(error);
+        });
+      });
+
+      // retrieve search results from server
+      fetch('/results')
+        .then(response => response.json())
+        .then(data => {
+          // console.log(data);
+        })
+        .catch(error => {
+          // console.error(error);
+        });
+    </script>
+
+    <script src="sketch.js"></script>
+
+  </body>
+</html>

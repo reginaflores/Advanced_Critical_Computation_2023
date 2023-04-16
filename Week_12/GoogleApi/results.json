@@ -1,0 +1,1004 @@
+{
+  "search_metadata": {
+    "id": "643b0b25a4bb382c63bae496",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d846e17e1b9ee582/643b0b25a4bb382c63bae496.json",
+    "created_at": "2023-04-15 20:37:57 UTC",
+    "processed_at": "2023-04-15 20:37:57 UTC",
+    "google_url": "https://www.google.com/search?q=coffee&oq=coffee&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/d846e17e1b9ee582/643b0b25a4bb382c63bae496.html",
+    "total_time_taken": 9.62
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "coffee",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "coffee",
+    "total_results": 3900000000,
+    "time_taken_displayed": 0.6,
+    "menu_items": [
+      {
+        "position": 1,
+        "title": "Maps",
+        "link": "https://maps.google.com/maps?hl=en&gl=us&q=coffee&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ0pQJegQIBBAC"
+      },
+      {
+        "position": 2,
+        "title": "Images",
+        "link": "https://www.google.com/search?q=coffee&hl=en&gl=us&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ0pQJegQIBBAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=coffee&tbm=isch"
+      },
+      {
+        "position": 3,
+        "title": "Shopping",
+        "link": "https://www.google.com/search?q=coffee&hl=en&gl=us&source=lnms&tbm=shop&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ0pQJegQIBBAG",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=coffee&tbm=shop"
+      },
+      {
+        "position": 4,
+        "title": "Videos",
+        "link": "https://www.google.com/search?q=coffee&hl=en&gl=us&source=lnms&tbm=vid&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ0pQJegQIBBAI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=coffee&tbm=vid"
+      },
+      {
+        "position": 5,
+        "title": "News",
+        "link": "https://www.google.com/search?q=coffee&hl=en&gl=us&source=lnms&tbm=nws&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ0pQJegQIBBAK",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=coffee&tbm=nws"
+      },
+      {
+        "position": 6,
+        "title": "Books",
+        "link": "https://www.google.com/search?q=coffee&hl=en&gl=us&source=lnms&tbm=bks&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ0pQJegQIBBAM"
+      },
+      {
+        "position": 7,
+        "title": "Flights",
+        "link": "https://www.google.com/flights?q=coffee&hl=en&gl=us&source=lnms&tbm=flm&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ0pQJegQIBBAO"
+      },
+      {
+        "position": 8,
+        "title": "Finance",
+        "link": "https://www.google.com/finance?sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ0pQJegQIBBAQ"
+      }
+    ]
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Top Rated Coffee Starter Pack - Trade",
+      "price": "$15.75",
+      "extracted_price": 15.75,
+      "link": "https://www.drinktrade.com/s/variety-pack",
+      "source": "Trade",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/d78ffe20a54ee839fd40ab620d6581340615452c62eb0460d3c8a5e13a49df85.webp"
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Top Rated Decaf Coffee Starter Pack - Trade",
+      "price": "$19.50",
+      "extracted_price": 19.5,
+      "link": "https://www.drinktrade.com/s/decaf-pack",
+      "source": "Trade",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/d78ffe20a54ee839fd40ab620d658134ff56620639f11d5689f39e48eaf48d54.webp"
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "Fresh Medium Roast Coffee Starter Pack - Trade",
+      "price": "$15.75",
+      "extracted_price": 15.75,
+      "link": "https://www.drinktrade.com/s/medium-roast-pack",
+      "source": "Trade",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/d78ffe20a54ee839fd40ab620d65813411970224ed434df9a5e35f5ac09ea559.webp"
+    },
+    {
+      "position": 4,
+      "block_position": "top",
+      "title": "Fresh Dark Roast Coffee Starter Pack - Trade",
+      "price": "$15.75",
+      "extracted_price": 15.75,
+      "link": "https://www.drinktrade.com/s/dark-roast-pack",
+      "source": "Trade",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/d78ffe20a54ee839fd40ab620d658134a1c3732ee84f5b450a986376313c1182.webp"
+    },
+    {
+      "position": 5,
+      "block_position": "top",
+      "title": "Nespresso Original 50 Capsule Dark Roast Pack",
+      "price": "$40.00",
+      "extracted_price": 40,
+      "link": "https://www.nespresso.com/us/en/order/capsules/original/original-dark-roast-coffee-assortment",
+      "source": "Nespresso",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/d78ffe20a54ee839fd40ab620d65813452133d5fd2a039a5a653e9c2601eab6c.png",
+      "extensions": [
+        "Free shipping"
+      ]
+    },
+    {
+      "position": 6,
+      "block_position": "top",
+      "title": "Single-Serve Coffee Cups - Variety Pack - ULINE - Pack of 100 - S-22753",
+      "price": "$57.00",
+      "extracted_price": 57,
+      "link": "https://www.uline.com/Product/Detail/S-22753/Coffee-and-Coffee-Supplies/Single-Serve-Coffee-Cups-Variety-Pack?pricode=WB1305",
+      "source": "ULINE",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/d78ffe20a54ee839fd40ab620d65813421aef9366b85bb1b8f0ff960dd8aa789.png"
+    },
+    {
+      "position": 7,
+      "block_position": "top",
+      "title": "Folgers Classic Roast Ground Coffee, Medium Roast, 40.3 oz. (2550000529C/2550030420) | Quill",
+      "price": "$13.99",
+      "extracted_price": 13.99,
+      "link": "https://www.quill.com/folgers-classic-roast-ground-coffee-medium-roast-403-oz-2550000529c-2550030420/cbs/54698152.html?effort_code=829&sfcp=1",
+      "source": "Quill",
+      "rating": 4.6,
+      "reviews": 5000,
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/d78ffe20a54ee839fd40ab620d658134549ac88e393f64c9b05b6d59291b8a99.png"
+    },
+    {
+      "position": 8,
+      "block_position": "top",
+      "title": "Nespresso Original 100 Capsule Discovery Pack",
+      "price": "$82.00",
+      "extracted_price": 82,
+      "link": "https://www.nespresso.com/us/en/order/capsules/original/original-coffee-discovery-assortment",
+      "source": "Nespresso",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/d78ffe20a54ee839fd40ab620d65813419671c53663923b57700f3bca38edb6c.png",
+      "extensions": [
+        "Free shipping"
+      ]
+    },
+    {
+      "position": 9,
+      "block_position": "top",
+      "title": "96 Count Coffee Variety Pack (12 amazing blends), Single Serve Coffee Pods for Keurig K Cup Brewers - InfuSio Revival Roaster Premium Roasted Coffee",
+      "price": "$33.05",
+      "extracted_price": 33.05,
+      "link": "https://www.amazon.com/Coffee-Variety-amazing-blends-Brewers/dp/B01LX07YGE?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1BM3J3ZU90W5M",
+      "source": "Amazon.com",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/d78ffe20a54ee839fd40ab620d6581342af9aa310fabcc91c5f895b2fdfdeaee.png",
+      "extensions": [
+        "Free shipping"
+      ]
+    },
+    {
+      "position": 10,
+      "block_position": "top",
+      "title": "Bones Coffee | 5 Bag sample pack Whole Bean",
+      "price": "$33.00",
+      "extracted_price": 33,
+      "link": "https://www.bonescoffee.com/products/5-bag-sample-pack?variant=30972360327220&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic",
+      "source": "Bones Coffee Company",
+      "rating": 4.8,
+      "reviews": 9000,
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/d78ffe20a54ee839fd40ab620d65813471b323926dff63175e402b7762b245d5.png"
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?hl=en&gl=us&q=coffee&npsic=0&rflfq=1&rldoc=1&rllag=33529296,-81892590,4385&tbm=lcl&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQtgN6BAgYEAE",
+    "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/871d94256232614acb68daaff8c7be75.png",
+    "gps_coordinates": {
+      "latitude": 33.529296,
+      "longitude": -81.89259,
+      "altitude": 4385
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "title": "NOLA Coffee",
+        "rating": 4.6,
+        "reviews_original": "(22)",
+        "reviews": 22,
+        "type": "Coffee shop",
+        "address": "Warrenville, SC",
+        "hours": "Closes soon ⋅ 5 PM",
+        "place_id": "12061724486552387477",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=12061724486552387477&q=coffee",
+        "lsig": "AB86z5VYve8gynQ02PkRfr8DyHi5",
+        "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/4033f05ddda4e2a458cd8d3e8d15229acc50476b0531b3d26176ccc20e36af313e67a9bb671da5e1.jpeg",
+        "gps_coordinates": {
+          "latitude": 33.526886,
+          "longitude": -81.846214
+        },
+        "service_options": {
+          "dine_in": true,
+          "curbside_pickup": true,
+          "no_delivery": true
+        }
+      },
+      {
+        "position": 2,
+        "title": "Coffee on the Go",
+        "type": "Coffee shop",
+        "reviews_original": "No reviews",
+        "address": "Warrenville, SC",
+        "hours": "Closed ⋅ Opens 6 AM Tue",
+        "place_id": "4050669413597487589",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=4050669413597487589&q=coffee",
+        "lsig": "AB86z5UHfUA6b040GwwUejjK75bL",
+        "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/4033f05ddda4e2a458cd8d3e8d15229a9e814df4fc6b9f1a5713d7b66b1a80b7f14205bd95c796c9.png",
+        "gps_coordinates": {
+          "latitude": 33.52846,
+          "longitude": -81.84536
+        },
+        "service_options": {
+          "dine_in": true,
+          "takeout": true,
+          "delivery": true
+        }
+      },
+      {
+        "position": 3,
+        "title": "Stone Roastery",
+        "rating": 4.6,
+        "reviews_original": "(353)",
+        "reviews": 353,
+        "price": "$",
+        "type": "Coffee shop",
+        "address": "North Augusta, SC",
+        "place_id": "10495440700709199690",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=10495440700709199690&q=coffee",
+        "lsig": "AB86z5Wetue1Z-4uVRtYG2Oe5-iu",
+        "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/4033f05ddda4e2a458cd8d3e8d15229a94c9ca91f130dd4fb3496ab0414f04c2be44f9b0f3b2099d.jpeg",
+        "gps_coordinates": {
+          "latitude": 33.531654,
+          "longitude": -81.939835
+        },
+        "service_options": {
+          "dine_in": true,
+          "takeout": true
+        }
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?hl=en&gl=us&tbs=lf:1,lf_ui:9&tbm=lcl&q=coffee&rflfq=1&num=10&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQjGp6BAgZEAI"
+  },
+  "knowledge_graph": {
+    "title": "Coffee",
+    "type": "Beverage",
+    "kgmid": "/m/02vqfm",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02vqfm&hl=en-US&q=Coffee&kgs=793271de3d4c1d6d&shndl=0&source=sh/x/kp/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02vqfm&q=Coffee",
+    "header_images": [
+      {
+        "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b14d730a1eadc818f9e078559c1ac00665a916da3a727cc343.jpeg",
+        "source": "https://en.wikipedia.org/wiki/Coffee"
+      },
+      {
+        "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b14d730a1eadc818f9097e9a6469238ac7c324f7f41ba31302.jpeg",
+        "source": "https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/"
+      },
+      {
+        "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b14d730a1eadc818f968bef4d0e6baa1a5be5688430e892d8e.jpeg",
+        "source": "https://www.rush.edu/news/health-benefits-coffee"
+      },
+      {
+        "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b14d730a1eadc818f9ff914348ef824eab774805722810e605.jpeg",
+        "source": "https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfWpPUDBL9AWrANOJSorna-dMqhtYRtK8VhPYgoFfF3g&s",
+        "source": "https://www.tastingtable.com/794355/different-types-of-coffee-explained/"
+      }
+    ],
+    "description": "Coffee is a beverage prepared from roasted coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, primarily due to its caffeine content. It has the highest sales in the world market for hot drinks.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Coffee"
+    },
+    "acidity_level": "4.85 to 5.10",
+    "acidity_level_links": [
+      {
+        "text": "Acidity level",
+        "link": "https://www.google.com/search?hl=en&gl=us&q=coffee+acidity+level&stick=H4sIAAAAAAAAAOPgE-LUz9U3MCorTMvVksjPttIvzsgvKklLTC6xSkzOTInPSS1LzVnEKpKcn5aWmqoAEsssqVQACwMA6FvyLz4AAAA&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ6BMoAHoFCI4BEAI"
+      },
+      {
+        "text": "healthline.com",
+        "link": "https://www.healthline.com/nutrition/is-coffee-acidic"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Types",
+        "subtitle": "Coffee Drink Types",
+        "title": "Different Types of Coffee Explained | NESCAFÉ India",
+        "link": "https://www.nescafe.com/in/coffee-types",
+        "displayed_link": "https://www.nescafe.com › coffee-types",
+        "list": [
+          "Coffee Types.",
+          "Coffee Types.",
+          "Instant Coffee.",
+          "Latte.",
+          "Cappuccino.",
+          "Americano.",
+          "Espresso.",
+          "Mocha."
+        ],
+        "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b134a37c965909f15ea2a1159013a162cd676cc50d7e280a9f.png",
+        "search_link": "https://www.google.com/search?hl=en&gl=us&q=coffee+drink+types&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQrooIegUIkAEQBA",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=coffee+drink+types"
+      },
+      {
+        "text": "Benefits",
+        "subtitle": "Benefits Of Coffee",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd0cposVFhitgS_SXTmq-zZ6QmOt2_g-0a1IGPcWPtx94&s",
+        "title": "10 Health Benefits Of Black Coffee - PharmEasy Blog",
+        "link": "https://pharmeasy.in/blog/10-health-benefits-of-black-coffee/",
+        "displayed_link": "https://pharmeasy.in › blog › 10-health-benefits-of-black...",
+        "snippet": "Health benefits of black coffee",
+        "snippet_highlighted_words": [
+          "Health benefits of black coffee"
+        ],
+        "list": [
+          "1: May reduce weight: ... ",
+          "2: Help to improve physical performance: ... ",
+          "3: May decrease the risk of diabetes: ... ",
+          "4: May lower the risk of cardiovascular disease: ... ",
+          "5: May beneficial for liver health. ... ",
+          "6: Helps to keep the urinary system clear: ... ",
+          "7: May help to prevent the risk of cancer:"
+        ],
+        "search_link": "https://www.google.com/search?hl=en&gl=us&q=benefits+of+coffee&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQrooIegUIkAEQCg",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=benefits+of+coffee"
+      },
+      {
+        "text": "Energy Amount",
+        "subtitle": "How Many Calories In Coffee",
+        "table": [
+          [
+            "Amount Per 1 fl oz (29.6 g)100 grams6 fl oz (178 g)1 cup (8 fl oz) (237 g)1 cup (8 fl oz) (237 g)"
+          ],
+          [
+            "Calories 1"
+          ]
+        ],
+        "search_link": "https://www.google.com/search?hl=en&gl=us&q=how+many+calories+in+coffee&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQrooIegUIkAEQDg",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=how+many+calories+in+coffee"
+      },
+      {
+        "text": "Brands",
+        "subtitle": "Coffee Brands",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSinDkJAEfu3tR7TcF8Sy9qH1FwZMb3Q_vs7dGwzgeNPpc&s",
+        "title": "Let's Brew It With These Top 10 Coffee Brands in India | magicpin blog",
+        "link": "https://magicpin.in/blog/best-coffee-brands-in-india/",
+        "displayed_link": "https://magicpin.in › blog › best-coffee-brands-in-india",
+        "date": "Oct 25, 2019",
+        "snippet": "Let's Brew It With These Top 10 Coffee Brands in India",
+        "snippet_highlighted_words": [
+          "Let's Brew It With These Top 10 Coffee Brands in India"
+        ],
+        "list": [
+          "Blue Tokai. ... ",
+          "Davidoff. ... ",
+          "Starbucks. ... ",
+          "The Indian Bean. ... ",
+          "The Coffee Co. ... ",
+          "Seven Beans Co. ... ",
+          "The Flying Squirrel. ... ",
+          "Nescafe."
+        ],
+        "search_link": "https://www.google.com/search?hl=en&gl=us&q=coffee+brands&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQrooIegUIkAEQFA",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=coffee+brands"
+      },
+      {
+        "text": "Ph level",
+        "subtitle": "Ph Of Coffee",
+        "title": "about 5",
+        "link": "https://byjus.com/question-answer/ph-of-black-coffee/#:~:text=Black%20coffee%20typically%20has%20a,beans%2C%20roasting%2C%20and%20brewing.",
+        "displayed_link": "https://byjus.com › question-answer › ph-of-black-coffee",
+        "snippet": "Black coffee typically has a pH of about 5 and is thus slightly acidic. It is acidic, with pH between 4 and 5, depending on the beans, roasting, and brewing.",
+        "snippet_highlighted_words": [
+          "about 5"
+        ],
+        "answer": "about 5",
+        "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b134a37c965909f15e979990013f90b895bd15971a2a836f6a.png",
+        "search_link": "https://www.google.com/search?hl=en&gl=us&q=ph+of+coffee&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQrooIegUIkAEQGA",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=ph+of+coffee"
+      }
+    ],
+    "compounds_in_coffee": [
+      {
+        "name": "Chlorogenic acid",
+        "link": "https://www.google.com/search?hl=en&gl=us&q=Chlorogenic+acid&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwL87IiddiWMQq4JyRk1-Un56al5mskJicmbKDlREA-TI5fCcAAAA&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQxA16BQiMARAF",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Chlorogenic+acid&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwL87IiddiWMQq4JyRk1-Un56al5mskJicmbKDlREA-TI5fCcAAAA",
+        "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b1d23140aed54f5ba5e92fd47dc8bbb0279fef8d9d87684d8839e79077df00e143.png"
+      },
+      {
+        "name": "Quinic acid",
+        "link": "https://www.google.com/search?hl=en&gl=us&q=Quinic+acid&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwL042tdBiWMTKHViamZeZrJCYnJmyg5URAI7HIvkiAAAA&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQxA16BQiMARAH",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Quinic+acid&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwL042tdBiWMTKHViamZeZrJCYnJmyg5URAI7HIvkiAAAA",
+        "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b1d23140aed54f5ba5e92fd47dc8bbb02780db4be1781a9c103151471c37912402.png"
+      },
+      {
+        "name": "Trigonelline",
+        "link": "https://www.google.com/search?hl=en&gl=us&q=Trigonelline&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwrTKojNdiWMTKE1KUmZ6fl5qTk5mXuoOVEQBGl_DeIwAAAA&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQxA16BQiMARAJ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Trigonelline&stick=H4sIAAAAAAAAAONgFmJQ4tTP1TcwrTKojNdiWMTKE1KUmZ6fl5qTk5mXuoOVEQBGl_DeIwAAAA",
+        "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b1d23140aed54f5ba5e92fd47dc8bbb027e2744805ca3b2952c3077638ec889348.png"
+      },
+      {
+        "name": "Melanoidin",
+        "link": "https://www.google.com/search?hl=en&gl=us&q=Melanoidin&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TcwKso2M8zQYljEyuWbmpOYl5-Zkpm3g5URAEiv4kMiAAAA&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQxA16BQiMARAL",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Melanoidin&stick=H4sIAAAAAAAAAONgFmJQ4tLP1TcwKso2M8zQYljEyuWbmpOYl5-Zkpm3g5URAEiv4kMiAAAA",
+        "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b1d23140aed54f5ba5e92fd47dc8bbb0277cc767730c10819b0dda58f35e2d75d9.png"
+      }
+    ],
+    "compounds_in_coffee_link": "https://www.google.com/search?hl=en&gl=us&q=compounds+in+coffee&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKOmek5mYmJ-Y45-cW5JfmpRQvYhVOhrEVMvMUkvPT0lJTd7AyAgA94efZWwAAAA&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQMSgAegUIjAEQAQ",
+    "compounds_in_coffee_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzEKOmek5mYmJ-Y45-cW5JfmpRQvYhVOhrEVMvMUkvPT0lJTd7AyAgA94efZWwAAAA",
+    "people_also_search_for": [
+      {
+        "name": "Tea",
+        "link": "https://www.google.com/search?hl=en&gl=us&q=Tea&si=AMnBZoFk_ppfOKgdccwTD_PVhdkg37dbl-p8zEtOPijkCaIHMgjPPDr-bVSwS7IwMGJZrTdb97oset9qkWSGGc8Wrx0cWPU0xfD2y8UwLcWHQST1bjafkmRjiQwYRe_3Itgz9qVSCKdZzbGbuLy9QXEb0Z8fNkExbIqMPt_n-TOdD4t0ZhyGHDkRXkCD3stHPYlkI9F6NqruSkOP8q19qSCJwA-F-iIzZCw4sk6NwHFknXQGz29sgmuriUCUg3JKKEr9yO6rD_j0gO7sFpA_vyMkVnlD2E-eVQ%3D%3D&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQxA16BQiNARAF",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tea&si=AMnBZoFk_ppfOKgdccwTD_PVhdkg37dbl-p8zEtOPijkCaIHMgjPPDr-bVSwS7IwMGJZrTdb97oset9qkWSGGc8Wrx0cWPU0xfD2y8UwLcWHQST1bjafkmRjiQwYRe_3Itgz9qVSCKdZzbGbuLy9QXEb0Z8fNkExbIqMPt_n-TOdD4t0ZhyGHDkRXkCD3stHPYlkI9F6NqruSkOP8q19qSCJwA-F-iIzZCw4sk6NwHFknXQGz29sgmuriUCUg3JKKEr9yO6rD_j0gO7sFpA_vyMkVnlD2E-eVQ%3D%3D",
+        "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b16dc0f7ac565687a407d86b6beba0fc98e5ff6553f23032048d1117aa3ef2b540.jpeg"
+      },
+      {
+        "name": "Espresso",
+        "link": "https://www.google.com/search?hl=en&gl=us&q=Espresso&si=AMnBZoFk_ppfOKgdccwTD_PVhdkg37dbl-p8zEtOPijkCaIHMjyaN62njrr4Y2vVD-0W98vYZcIInyX3v-g5zZZpHjjG-Poxv3XLD0drTfOgpVcCf-zFRIPvsy9oT9UP_w35iIRi9Dl7PJ4-ldCIJDe667xhyIl72gjAFfOKZBu3XGinHDe096zuvjykLeb_xXU3DhU-1QmnhQUqLZaEFgHJmWWQuA0wE2cEjLHtjh10JWDgzqQv2KOWtaNv-dvOLwEiFloEH3I1N1rrm0NY4CZcMZcqugn660gEsBi5JGVH9mmfP4wv-CI%3D&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQxA16BQiNARAH",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Espresso&si=AMnBZoFk_ppfOKgdccwTD_PVhdkg37dbl-p8zEtOPijkCaIHMjyaN62njrr4Y2vVD-0W98vYZcIInyX3v-g5zZZpHjjG-Poxv3XLD0drTfOgpVcCf-zFRIPvsy9oT9UP_w35iIRi9Dl7PJ4-ldCIJDe667xhyIl72gjAFfOKZBu3XGinHDe096zuvjykLeb_xXU3DhU-1QmnhQUqLZaEFgHJmWWQuA0wE2cEjLHtjh10JWDgzqQv2KOWtaNv-dvOLwEiFloEH3I1N1rrm0NY4CZcMZcqugn660gEsBi5JGVH9mmfP4wv-CI%3D",
+        "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b16dc0f7ac565687a407d86b6beba0fc984294db0ef9143d9c2285c53ca4e2c6d3.jpeg"
+      },
+      {
+        "name": "Cappuccino",
+        "link": "https://www.google.com/search?hl=en&gl=us&q=Cappuccino&si=AMnBZoFk_ppfOKgdccwTD_PVhdkg37dbl-p8zEtOPijkCaIHMklZ6vtN6-8AY4RsUb9j1aMcn5_Fx0RVtguKTSjYOzJGH7WEnPl_82g6G4ZmQ47a0aQn5OaDfWitFqB1UyoD-3DPX9OrIzCD9nADAxnBhkOFxJrA8pSHWbkRwBQLlUjMBh218i1GQwoy1lyiRUKtITtVX99LqKB4Vnw74JG_9e88ZJr1WoMkOQoqE67xGs1BZHT4Q8YggMDNYAvtEZClZcNRxN3i715e-oP_ZO0WK7VtSx7RbP8PO9dSe9qaWJAVAfAFW7k%3D&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQxA16BQiNARAJ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Cappuccino&si=AMnBZoFk_ppfOKgdccwTD_PVhdkg37dbl-p8zEtOPijkCaIHMklZ6vtN6-8AY4RsUb9j1aMcn5_Fx0RVtguKTSjYOzJGH7WEnPl_82g6G4ZmQ47a0aQn5OaDfWitFqB1UyoD-3DPX9OrIzCD9nADAxnBhkOFxJrA8pSHWbkRwBQLlUjMBh218i1GQwoy1lyiRUKtITtVX99LqKB4Vnw74JG_9e88ZJr1WoMkOQoqE67xGs1BZHT4Q8YggMDNYAvtEZClZcNRxN3i715e-oP_ZO0WK7VtSx7RbP8PO9dSe9qaWJAVAfAFW7k%3D",
+        "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b16dc0f7ac565687a407d86b6beba0fc9852bbf0886d5da2548f90a13a0393a5f7.jpeg"
+      },
+      {
+        "name": "Latte",
+        "link": "https://www.google.com/search?hl=en&gl=us&q=Latte&si=AMnBZoEofOODruSEFWFjdccePwMH96ZlZt3bOiKSR9t4pqlu2E2Y95jVypGw5nHfEGbzdy_B-mJrk7TV3R0_l7ZUBiUkk1BiloRi17mH8ufqGqbkUhe0c8_KO5vzQNZ-nrEeAaA8my_qJpcAz8qE92rIWhWLdi2-Y-wRjvz59t6q5db5z6-tVBvk31oUge5WvKN_KY-abBJwuAmRcDVTFFkzJExr2ij50aEqL8xoQy48LtRLUoNcARf8G9RPDtEL8wYJDyK5-OlqfXP74-MHX3KmEH_oT5JEeAsCl9zNCisFeyvLawCXTaY%3D&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQxA16BQiNARAL",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Latte&si=AMnBZoEofOODruSEFWFjdccePwMH96ZlZt3bOiKSR9t4pqlu2E2Y95jVypGw5nHfEGbzdy_B-mJrk7TV3R0_l7ZUBiUkk1BiloRi17mH8ufqGqbkUhe0c8_KO5vzQNZ-nrEeAaA8my_qJpcAz8qE92rIWhWLdi2-Y-wRjvz59t6q5db5z6-tVBvk31oUge5WvKN_KY-abBJwuAmRcDVTFFkzJExr2ij50aEqL8xoQy48LtRLUoNcARf8G9RPDtEL8wYJDyK5-OlqfXP74-MHX3KmEH_oT5JEeAsCl9zNCisFeyvLawCXTaY%3D",
+        "image": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/de570c578996a81e35103313c932d0b16dc0f7ac565687a407d86b6beba0fc982fb5e5c2d4dc3a6107d129ffcb7ca891.jpeg"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?hl=en&gl=us&q=Coffee&stick=H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1BIMzU1LLEyuL_VIrSoJLUguKF7GyOeenpaWm7mBlBABkIv_mNwAAAA&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQMSgAegUIjQEQAQ",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCorTMtVQjC1BIMzU1LLEyuL_VIrSoJLUguKF7GyOeenpaWm7mBlBABkIv_mNwAAAA",
+    "list": {
+      "total_fat": [
+        "0 g",
+        "0%"
+      ],
+      "saturated_fat": [
+        "0 g",
+        "0%"
+      ],
+      "trans_fat_regulation": [
+        "0 g"
+      ],
+      "cholesterol": [
+        "0 mg",
+        "0%"
+      ],
+      "sodium": [
+        "5 mg",
+        "0%"
+      ],
+      "potassium": [
+        "116 mg",
+        "3%"
+      ],
+      "total_carbohydrate": [
+        "0 g",
+        "0%"
+      ],
+      "dietary_fiber": [
+        "0 g",
+        "0%"
+      ],
+      "sugar": [
+        "0 g"
+      ],
+      "protein": [
+        "0.3 g",
+        "0%"
+      ],
+      "caffeine": [
+        "95 mg"
+      ],
+      "vitamin_c": [
+        "0%"
+      ],
+      "calcium": [
+        "0%"
+      ],
+      "iron": [
+        "0%"
+      ],
+      "vitamin_d": [
+        "0%"
+      ],
+      "vitamin_b6": [
+        "0%"
+      ],
+      "cobalamin": [
+        "0%"
+      ],
+      "magnesium": [
+        "1%"
+      ]
+    }
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?q=coffee&hl=en&gl=us&tbm=isch&source=iu&ictx=1&vet=1&fir=cHhAmJrw8EtbWM%252CU6oJMnF-eeVTAM%252C%252Fm%252F02vqfm%253B9M1X2EDxsYNTZM%252CO0p2m8H_t7E6nM%252C_%253B35LBrLe6iLMgNM%252CLe_shlToZ2_z7M%252C_%253BYe55hwurmsyIDM%252Cr1UW6FGz3F41UM%252C_%253Be1xARNWS4v0NdM%252CxWwjaFHTd_fBIM%252C_&usg=AI4_-kSeRZX4tRmBDC5WzqJ72knpK80xKw&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ_B16BQiHARAB#imgrc=cHhAmJrw8EtbWM",
+      "source": "https://en.wikipedia.org/wiki/Coffee",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/4c4d2c37fe2a564dce52f62b07b0ac20465d6868bf22b729df4c73c18db66ce0.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Latte_and_dark_coffee.jpg",
+      "title": "upload.wikimedia.org/wikipedia/commons/e/e4/Latte_...",
+      "source_name": "en.wikipedia.org"
+    },
+    {
+      "link": "https://www.google.com/search?q=coffee&hl=en&gl=us&tbm=isch&source=iu&ictx=1&vet=1&fir=cHhAmJrw8EtbWM%252CU6oJMnF-eeVTAM%252C_%253B9M1X2EDxsYNTZM%252CO0p2m8H_t7E6nM%252C_%253B35LBrLe6iLMgNM%252CLe_shlToZ2_z7M%252C_%253BYe55hwurmsyIDM%252Cr1UW6FGz3F41UM%252C_%253Be1xARNWS4v0NdM%252CxWwjaFHTd_fBIM%252C_&usg=AI4_-kQVRu5edShja3G23xcn5YB3AJ_0Lg&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ_h16BQiGARAB#imgrc=9M1X2EDxsYNTZM",
+      "source": "https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/4c4d2c37fe2a564d1c15b80055aa5dc60ce3f05bf82015b82bb0f756208b0213.jpeg",
+      "original": "https://www.tastingtable.com/img/gallery/coffee-brands-ranked-from-worst-to-best/l-intro-1645231221.jpg",
+      "title": "31 Coffee Brands, Ranked From Worst To Best",
+      "source_name": "Tasting Table"
+    },
+    {
+      "link": "https://www.google.com/search?q=coffee&hl=en&gl=us&tbm=isch&source=iu&ictx=1&vet=1&fir=cHhAmJrw8EtbWM%252CU6oJMnF-eeVTAM%252C_%253B9M1X2EDxsYNTZM%252CO0p2m8H_t7E6nM%252C_%253B35LBrLe6iLMgNM%252CLe_shlToZ2_z7M%252C_%253BYe55hwurmsyIDM%252Cr1UW6FGz3F41UM%252C_%253Be1xARNWS4v0NdM%252CxWwjaFHTd_fBIM%252C_&usg=AI4_-kQVRu5edShja3G23xcn5YB3AJ_0Lg&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ_h16BQiDARAB#imgrc=35LBrLe6iLMgNM",
+      "source": "https://www.rush.edu/news/health-benefits-coffee",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/4c4d2c37fe2a564d6c977f2bf87e8e63f7b11c4c8caee61295e61b90ed9e2187.jpeg",
+      "original": "https://www.rush.edu/sites/default/files/styles/386x217/public/media-images/Coffee_WebFeature.png?itok=gxteJ01c",
+      "title": "Health Benefits of Coffee | Rush System",
+      "source_name": "Rush University Medical Center"
+    },
+    {
+      "link": "https://www.google.com/search?q=coffee&hl=en&gl=us&tbm=isch&source=iu&ictx=1&vet=1&fir=cHhAmJrw8EtbWM%252CU6oJMnF-eeVTAM%252C_%253B9M1X2EDxsYNTZM%252CO0p2m8H_t7E6nM%252C_%253B35LBrLe6iLMgNM%252CLe_shlToZ2_z7M%252C_%253BYe55hwurmsyIDM%252Cr1UW6FGz3F41UM%252C_%253Be1xARNWS4v0NdM%252CxWwjaFHTd_fBIM%252C_&usg=AI4_-kQVRu5edShja3G23xcn5YB3AJ_0Lg&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ_h16BQiEARAB#imgrc=Ye55hwurmsyIDM",
+      "source": "https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/4c4d2c37fe2a564d45de2e9d7387f73b35e8397dbbc17222e64c863a5af47919.jpeg",
+      "original": "https://post.healthline.com/wp-content/uploads/2020/08/coffee-worlds-biggest-source-of-antioxidants-1296x728-feature_0-732x549.jpg",
+      "title": "9 Health Benefits of Coffee, Based on Science",
+      "source_name": "Healthline"
+    },
+    {
+      "link": "https://www.google.com/search?q=coffee&hl=en&gl=us&tbm=isch&source=iu&ictx=1&vet=1&fir=cHhAmJrw8EtbWM%252CU6oJMnF-eeVTAM%252C_%253B9M1X2EDxsYNTZM%252CO0p2m8H_t7E6nM%252C_%253B35LBrLe6iLMgNM%252CLe_shlToZ2_z7M%252C_%253BYe55hwurmsyIDM%252Cr1UW6FGz3F41UM%252C_%253Be1xARNWS4v0NdM%252CxWwjaFHTd_fBIM%252C_&usg=AI4_-kQVRu5edShja3G23xcn5YB3AJ_0Lg&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ_h16BQiFARAB#imgrc=e1xARNWS4v0NdM",
+      "source": "https://www.tastingtable.com/794355/different-types-of-coffee-explained/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfWpPUDBL9AWrANOJSorna-dMqhtYRtK8VhPYgoFfF3g&s",
+      "original": "https://www.tastingtable.com/img/gallery/20-different-types-of-coffee-explained/l-intro-1659544996.jpg",
+      "title": "35 Different Types Of Coffee Explained",
+      "source_name": "Tasting Table"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is coffee good for health?",
+      "snippet": "“For most people, moderate coffee consumption can be incorporated into a healthy diet.” Hu said that moderate coffee intake—about 2–5 cups a day—is linked to a lower likelihood of type 2 diabetes, heart disease, liver and endometrial cancers, Parkinson's disease, and depression.",
+      "title": "Is coffee good or bad for your health? | News",
+      "link": "https://www.hsph.harvard.edu/news/hsph-in-the-news/is-coffee-good-or-bad-for-your-health/#:~:text=%E2%80%9CFor%20most%20people%2C%20moderate%20coffee,%2C%20Parkinson's%20disease%2C%20and%20depression.",
+      "displayed_link": "https://www.hsph.harvard.edu › news › hsph-in-the-news",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/194e48b84112c302c1926c53e55d9614379402012dd3a54547fa3ab60822db21.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VVRVMUJRMU5xZVRCbmRXbGxlSGxsVFZSdVJXSjJOVlJ4ZWtaek0wazRZbXA1YlZaTlJEbFVRVzFmUVcxQlIxOXdWV1ZhU0hnNFZtTlJXR010ZEdwbVNFUlJWekZtRWhkTFozTTNXa3h5TkVoa1lYbHJkbEZRZFhSMVVHbEJWUm9pUVU4dE1ISnNOV1ZETTFWNWMwTnVObE40TlVsV01uTXpNRGxNTlc4eFFYVkVkdyIsImZjdiI6IjMiLCJlaSI6IktnczdaTHI0SGRheWt2UVB1dHVQaUFVIiwicWMiOiJDZ1pqYjJabVpXVVFBSDFSTkMwXyIsInF1ZXN0aW9uIjoiSXMgY29mZmVlIGdvb2QgZm9yIGhlYWx0aD8iLCJsayI6IkdoNWtiMlZ6SUdOdlptWmxaU0JwY3lCbmIyOWtJR1p2Y2lCb1pXRnNkR2ciLCJicyI6ImMtT1M1NUx5TEZaSXprOUxTMDFWU01fUFQxRkl5eTlTeUVoTnpDbkpzSmU0WThDbHdDVWRucEdabktHUVZKU1lsd0pUbVZtc2tKUmFYR0l2TWR1UVM0VkxQandqc1VRaHNTaFZvU1FqVmNGRW9hU3lJTFZZSVQ4TnF0cGU0ZzA3aWlwREE2RHV2TlMwekJJVVZWOXlCQmdCIiwiaWQiOiJmY18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VVRVMUJRMU5xZVRCbmRXbGxlSGxsVFZSdVJXSjJOVlJ4ZWtaek0wazRZbXA1YlZaTlJEbFVRVzFmUVcxQlIxOXdWV1ZhU0hnNFZtTlJXR010ZEdwbVNFUlJWekZtRWhkTFozTTNXa3h5TkVoa1lYbHJkbEZRZFhSMVVHbEJWUm9pUVU4dE1ISnNOV1ZETTFWNWMwTnVObE40TlVsV01uTXpNRGxNTlc4eFFYVkVkdyIsImZjdiI6IjMiLCJlaSI6IktnczdaTHI0SGRheWt2UVB1dHVQaUFVIiwicWMiOiJDZ1pqYjJabVpXVVFBSDFSTkMwXyIsInF1ZXN0aW9uIjoiSXMgY29mZmVlIGdvb2QgZm9yIGhlYWx0aD8iLCJsayI6IkdoNWtiMlZ6SUdOdlptWmxaU0JwY3lCbmIyOWtJR1p2Y2lCb1pXRnNkR2ciLCJicyI6ImMtT1M1NUx5TEZaSXprOUxTMDFWU01fUFQxRkl5eTlTeUVoTnpDbkpzSmU0WThDbHdDVWRucEdabktHUVZKU1lsd0pUbVZtc2tKUmFYR0l2TWR1UVM0VkxQandqc1VRaHNTaFZvU1FqVmNGRW9hU3lJTFZZSVQ4TnF0cGU0ZzA3aWlwREE2RHV2TlMwekJJVVZWOXlCQmdCIiwiaWQiOiJmY18zIn0%3D"
+    },
+    {
+      "question": "Which brand coffee is best?",
+      "title": "List of Top 11 Coffee Brands in India",
+      "link": "https://cashkaro.com/blog/best-coffee-brands/167279",
+      "list": [
+        "Nescafe.",
+        "Rage Coffee.",
+        "Bru.",
+        "Davidoff.",
+        "Blue Tokai.",
+        "Starbucks.",
+        "Continental Coffee.",
+        "Country Bean."
+      ],
+      "displayed_link": "https://cashkaro.com › blog › best-coffee-brands",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4WFZ6iwvyFQiZ2wM5iLAEmFEfdSqje27fd4amMxSsFQ&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VVRVMUJRMU5xZVRCbmRXbGxlSGxsVFZSdVJXSjJOVlJ4ZWtaek0wazRZbXA1YlZaTlJEbFVRVzFmUVcxQlIxOXdWV1ZhU0hnNFZtTlJXR010ZEdwbVNFUlJWekZtRWhkTFozTTNXa3h5TkVoa1lYbHJkbEZRZFhSMVVHbEJWUm9pUVU4dE1ISnNOV1ZETTFWNWMwTnVObE40TlVsV01uTXpNRGxNTlc4eFFYVkVkdyIsImZjdiI6IjMiLCJlaSI6IktnczdaTHI0SGRheWt2UVB1dHVQaUFVIiwicWMiOiJDZ1pqYjJabVpXVVFBSDFSTkMwXyIsInF1ZXN0aW9uIjoiV2hpY2ggYnJhbmQgY29mZmVlIGlzIGJlc3Q/IiwibGsiOiJHaHAzYUdsamFDQmljbUZ1WkNCamIyWm1aV1VnYVhNZ1ltVnpkQSIsImJzIjoiYy1PUzU1THlMRlpJems5TFMwMVZTTV9QVDFGSXl5OVN5RWhOekNuSnNKZTRZOENsd0NVZG5wR1puS0dRVkpTWWx3SlRtVm1za0pSYVhHSXZNZHVRUzRWTFBqd2pzVVFoc1NoVm9TUWpWY0ZFb2FTeUlMVllJVDhOcXRwZTRnMDdpaXBEQTZEdXZOUzB6QklVVlY5eUJCZ0IiLCJpZCI6ImZjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VVRVMUJRMU5xZVRCbmRXbGxlSGxsVFZSdVJXSjJOVlJ4ZWtaek0wazRZbXA1YlZaTlJEbFVRVzFmUVcxQlIxOXdWV1ZhU0hnNFZtTlJXR010ZEdwbVNFUlJWekZtRWhkTFozTTNXa3h5TkVoa1lYbHJkbEZRZFhSMVVHbEJWUm9pUVU4dE1ISnNOV1ZETTFWNWMwTnVObE40TlVsV01uTXpNRGxNTlc4eFFYVkVkdyIsImZjdiI6IjMiLCJlaSI6IktnczdaTHI0SGRheWt2UVB1dHVQaUFVIiwicWMiOiJDZ1pqYjJabVpXVVFBSDFSTkMwXyIsInF1ZXN0aW9uIjoiV2hpY2ggYnJhbmQgY29mZmVlIGlzIGJlc3Q%2FIiwibGsiOiJHaHAzYUdsamFDQmljbUZ1WkNCamIyWm1aV1VnYVhNZ1ltVnpkQSIsImJzIjoiYy1PUzU1THlMRlpJems5TFMwMVZTTV9QVDFGSXl5OVN5RWhOekNuSnNKZTRZOENsd0NVZG5wR1puS0dRVkpTWWx3SlRtVm1za0pSYVhHSXZNZHVRUzRWTFBqd2pzVVFoc1NoVm9TUWpWY0ZFb2FTeUlMVllJVDhOcXRwZTRnMDdpaXBEQTZEdXZOUzB6QklVVlY5eUJCZ0IiLCJpZCI6ImZjXzMifQ%3D%3D"
+    },
+    {
+      "question": "What are the 4 types of coffee?",
+      "snippet": "There are 4 types of coffee bean. Arabica, Robusta, Excelsa and Liberica.",
+      "title": "Coffee beans guide: Origin & different types | NESCAFÉ MENA",
+      "link": "https://www.nescafe.com/mena/en-ae/understanding-coffee/coffee-beans-guide#:~:text=There%20are%204%20types%20of,%2C%20Robusta%2C%20Excelsa%20and%20Liberica.",
+      "displayed_link": "https://www.nescafe.com › en-ae › understanding-coffee",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/194e48b84112c302c1926c53e55d96140b856ed2a4cb8a08b5bf54751f35bcb1.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VVRVMUJRMU5xZVRCbmRXbGxlSGxsVFZSdVJXSjJOVlJ4ZWtaek0wazRZbXA1YlZaTlJEbFVRVzFmUVcxQlIxOXdWV1ZhU0hnNFZtTlJXR010ZEdwbVNFUlJWekZtRWhkTFozTTNXa3h5TkVoa1lYbHJkbEZRZFhSMVVHbEJWUm9pUVU4dE1ISnNOV1ZETTFWNWMwTnVObE40TlVsV01uTXpNRGxNTlc4eFFYVkVkdyIsImZjdiI6IjMiLCJlaSI6IktnczdaTHI0SGRheWt2UVB1dHVQaUFVIiwicWMiOiJDZ1pqYjJabVpXVVFBSDFSTkMwXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDQgdHlwZXMgb2YgY29mZmVlPyIsImxrIjoiR2g1M2FHRjBJR0Z5WlNCMGFHVWdOQ0IwZVhCbGN5QnZaaUJqYjJabVpXVSIsImJzIjoiYy1PUzU1THlMRlpJems5TFMwMVZTTV9QVDFGSXl5OVN5RWhOekNuSnNKZTRZOENsd0NVZG5wR1puS0dRVkpTWWx3SlRtVm1za0pSYVhHSXZNZHVRUzRWTFBqd2pzVVFoc1NoVm9TUWpWY0ZFb2FTeUlMVllJVDhOcXRwZTRnMDdpaXBEQTZEdXZOUzB6QklVVlY5eUJCZ0IiLCJpZCI6ImZjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VVRVMUJRMU5xZVRCbmRXbGxlSGxsVFZSdVJXSjJOVlJ4ZWtaek0wazRZbXA1YlZaTlJEbFVRVzFmUVcxQlIxOXdWV1ZhU0hnNFZtTlJXR010ZEdwbVNFUlJWekZtRWhkTFozTTNXa3h5TkVoa1lYbHJkbEZRZFhSMVVHbEJWUm9pUVU4dE1ISnNOV1ZETTFWNWMwTnVObE40TlVsV01uTXpNRGxNTlc4eFFYVkVkdyIsImZjdiI6IjMiLCJlaSI6IktnczdaTHI0SGRheWt2UVB1dHVQaUFVIiwicWMiOiJDZ1pqYjJabVpXVVFBSDFSTkMwXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDQgdHlwZXMgb2YgY29mZmVlPyIsImxrIjoiR2g1M2FHRjBJR0Z5WlNCMGFHVWdOQ0IwZVhCbGN5QnZaaUJqYjJabVpXVSIsImJzIjoiYy1PUzU1THlMRlpJems5TFMwMVZTTV9QVDFGSXl5OVN5RWhOekNuSnNKZTRZOENsd0NVZG5wR1puS0dRVkpTWWx3SlRtVm1za0pSYVhHSXZNZHVRUzRWTFBqd2pzVVFoc1NoVm9TUWpWY0ZFb2FTeUlMVllJVDhOcXRwZTRnMDdpaXBEQTZEdXZOUzB6QklVVlY5eUJCZ0IiLCJpZCI6ImZjXzMifQ%3D%3D"
+    },
+    {
+      "question": "What are 10 benefits of coffee?",
+      "title": "What are the health benefits of coffee?",
+      "link": "https://www.yorktest.com/us/blog/10-health-benefits-of-coffee/",
+      "list": [
+        "Coffee helps you lose weight. ... ",
+        "Coffee helps with depression. ... ",
+        "Coffee is nutritious. ... ",
+        "Coffee can act as pain relief. ... ",
+        "Coffee is a great way to get more fibre. ... ",
+        "Coffee decreases the risk of Type 2 Diabetes. ... ",
+        "Coffee decreases the risk of Alzheimer's and heart disease."
+      ],
+      "displayed_link": "https://www.yorktest.com › blog › 10-health-benefits-of-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_JYzMTD7YMSD0F5rD55uELHq3O3i5r6quZ6yg_FMXQ&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VVRVMUJRMU5xZVRCbmRXbGxlSGxsVFZSdVJXSjJOVlJ4ZWtaek0wazRZbXA1YlZaTlJEbFVRVzFmUVcxQlIxOXdWV1ZhU0hnNFZtTlJXR010ZEdwbVNFUlJWekZtRWhkTFozTTNXa3h5TkVoa1lYbHJkbEZRZFhSMVVHbEJWUm9pUVU4dE1ISnNOV1ZETTFWNWMwTnVObE40TlVsV01uTXpNRGxNTlc4eFFYVkVkdyIsImZjdiI6IjMiLCJlaSI6IktnczdaTHI0SGRheWt2UVB1dHVQaUFVIiwicWMiOiJDZ1pqYjJabVpXVVFBSDFSTkMwXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgMTAgYmVuZWZpdHMgb2YgY29mZmVlPyIsImxrIjoiR2g1M2FHRjBJR0Z5WlNBeE1DQmlaVzVsWm1sMGN5QnZaaUJqYjJabVpXVSIsImJzIjoiYy1PUzU1THlMRlpJems5TFMwMVZTTV9QVDFGSXl5OVN5RWhOekNuSnNKZTRZOENsd0NVZG5wR1puS0dRVkpTWWx3SlRtVm1za0pSYVhHSXZNZHVRUzRWTFBqd2pzVVFoc1NoVm9TUWpWY0ZFb2FTeUlMVllJVDhOcXRwZTRnMDdpaXBEQTZEdXZOUzB6QklVVlY5eUJCZ0IiLCJpZCI6ImZjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1VVRVMUJRMU5xZVRCbmRXbGxlSGxsVFZSdVJXSjJOVlJ4ZWtaek0wazRZbXA1YlZaTlJEbFVRVzFmUVcxQlIxOXdWV1ZhU0hnNFZtTlJXR010ZEdwbVNFUlJWekZtRWhkTFozTTNXa3h5TkVoa1lYbHJkbEZRZFhSMVVHbEJWUm9pUVU4dE1ISnNOV1ZETTFWNWMwTnVObE40TlVsV01uTXpNRGxNTlc4eFFYVkVkdyIsImZjdiI6IjMiLCJlaSI6IktnczdaTHI0SGRheWt2UVB1dHVQaUFVIiwicWMiOiJDZ1pqYjJabVpXVVFBSDFSTkMwXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgMTAgYmVuZWZpdHMgb2YgY29mZmVlPyIsImxrIjoiR2g1M2FHRjBJR0Z5WlNBeE1DQmlaVzVsWm1sMGN5QnZaaUJqYjJabVpXVSIsImJzIjoiYy1PUzU1THlMRlpJems5TFMwMVZTTV9QVDFGSXl5OVN5RWhOekNuSnNKZTRZOENsd0NVZG5wR1puS0dRVkpTWWx3SlRtVm1za0pSYVhHSXZNZHVRUzRWTFBqd2pzVVFoc1NoVm9TUWpWY0ZFb2FTeUlMVllJVDhOcXRwZTRnMDdpaXBEQTZEdXZOUzB6QklVVlY5eUJCZ0IiLCJpZCI6ImZjXzMifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Coffee",
+      "link": "https://en.wikipedia.org/wiki/Coffee",
+      "displayed_link": "https://en.wikipedia.org › wiki › Coffee",
+      "thumbnail": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/ca768af88ba668ab454bc7bb89f38f34b4427c7c9b2c8d1ebf62a20ad514ed2b.jpeg",
+      "snippet": "Coffee is a beverage prepared from roasted coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, ...",
+      "snippet_highlighted_words": [
+        "Coffee",
+        "coffee",
+        "coffee"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Coffee bean",
+            "link": "https://en.wikipedia.org/wiki/Coffee_bean"
+          },
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/History_of_coffee"
+          },
+          {
+            "title": "Coffee production",
+            "link": "https://en.wikipedia.org/wiki/Coffee_production"
+          },
+          {
+            "title": "Coffee preparation",
+            "link": "https://en.wikipedia.org/wiki/Coffee_preparation"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Region of origin: Kaffa in Horn of Africa‎",
+            "Ingredients: Roasted coffee beans",
+            "Introduced: 15th century",
+            "Flavor: Distinctive, somewhat bitter"
+          ],
+          "detected_extensions": {
+            "introduced_th_century": 15
+          }
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers, known as Wikipedians, through open collaboration and using a wiki-based editing system called MediaWiki. Wikipedia is the largest and most-read reference work in history.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Coffee",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/ca768af88ba668ab454bc7bb89f38f34f81477909039160c28110199445d4e044315367649317a17ccaf016a9c7fb035.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Coffee&tbm=ilp&ilps=ADJL0izANxNmAZazzpMAeGlkd2tXrw-aIQ",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0izANxNmAZazzpMAeGlkd2tXrw-aIQ&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCoffee",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:U6oJMnF-eeUJ:https://en.wikipedia.org/wiki/Coffee&cd=9&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://en.wikipedia.org/wiki/Coffee+coffee"
+    },
+    {
+      "position": 2,
+      "title": "What is Coffee?",
+      "link": "https://www.ncausa.org/About-Coffee/What-is-Coffee",
+      "displayed_link": "https://www.ncausa.org › About Coffee",
+      "snippet": "cof·fee /ˈkôfē,ˈkäfē/ noun The berries harvested from species of Coffea plants. Everyone recognizes a roasted coffee bean, but you might not recognize an actual ...",
+      "snippet_highlighted_words": [
+        "coffee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The National Coffee Association or, is the main market research, consumer information, and lobbying association for the coffee industry in the United States.",
+          "source_info_link": "https://www.ncausa.org/About-Coffee/What-is-Coffee",
+          "security": "secure"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ncausa.org/About-Coffee/What-is-Coffee&tbm=ilp&ilps=ADJL0ixxUUvfx6Ju5WRyyjiP05--z_0mTg",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0ixxUUvfx6Ju5WRyyjiP05--z_0mTg&q=About+https%3A%2F%2Fwww.ncausa.org%2FAbout-Coffee%2FWhat-is-Coffee",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ENqpL6s3VPIJ:https://www.ncausa.org/About-Coffee/What-is-Coffee&cd=20&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "The Coffee Bean & Tea Leaf | CBTL",
+      "link": "https://www.coffeebean.com/",
+      "displayed_link": "https://www.coffeebean.com",
+      "snippet": "Born and brewed in Southern California since 1963, The Coffee Bean & Tea Leaf® is passionate about connecting loyal customers with carefully handcrafted ...",
+      "snippet_highlighted_words": [
+        "Coffee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Coffee Bean & Tea Leaf is an American coffee shop chain founded in 1963. Since 2019, it is a trade name of Ireland-based Super Magnificent Coffee Company Ireland Limited. Its 80% stake is by multinational company Jollibee Foods Corporation.",
+          "source_info_link": "https://www.coffeebean.com/",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/ca768af88ba668ab454bc7bb89f38f34082e3119f033f6580f6cb2aa535858c67dcce2b8a6e6502d7c6d4a3b356fb0f6.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.coffeebean.com/&tbm=ilp&ilps=ADJL0iyEMfWcc_F0sQp68evlFpMNONzA7w",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iyEMfWcc_F0sQp68evlFpMNONzA7w&q=About+https%3A%2F%2Fwww.coffeebean.com%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WpQxSYo2c6AJ:https://www.coffeebean.com/&cd=21&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://www.coffeebean.com/+coffee"
+    },
+    {
+      "position": 4,
+      "title": "Coffee | Origin, Types, Uses, History, & Facts",
+      "link": "https://www.britannica.com/topic/coffee",
+      "displayed_link": "https://www.britannica.com › ... › Food",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTteEQWon838YfFccHP0VOLqz6jUG81vb0VOkP2nyuJhprTsgx0wq96&usqp=CAE&s",
+      "date": "Mar 22, 2023",
+      "snippet": "coffee, beverage brewed from the roasted and ground seeds of the tropical evergreen coffee plants of African origin. Coffee is one of the ...",
+      "snippet_highlighted_words": [
+        "coffee",
+        "coffee",
+        "Coffee"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "questions": [
+            "What is coffee?",
+            "Where did coffee originate?"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "britannica.com was first indexed by Google more than 10 years ago",
+          "source_info_link": "https://www.britannica.com/topic/coffee",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/ca768af88ba668ab454bc7bb89f38f34aff974635fcc0518c0bbb4923c1779688f72b463f9853ec0761d0114427fad5c.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/topic/coffee&tbm=ilp&ilps=ADJL0ixB8MrWhyEfLpjZI0CfZRgB9XA7wQ",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0ixB8MrWhyEfLpjZI0CfZRgB9XA7wQ&q=About+https%3A%2F%2Fwww.britannica.com%2Ftopic%2Fcoffee",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Wikbu4ipU28J:https://www.britannica.com/topic/coffee&cd=22&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://www.britannica.com/topic/coffee+coffee"
+    },
+    {
+      "position": 5,
+      "title": "Coffee | The Nutrition Source | Harvard T.H. Chan School ...",
+      "link": "https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/",
+      "displayed_link": "https://www.hsph.harvard.edu › ... › Food Features",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTE6n6rmvg7tEFb6u7NyOlDkfWlhfzHvTrRYP0K9iUpbM8KWnrFRy4&usqp=CAE&s",
+      "snippet": "Coffee lovers around the world who reach for their favorite morning brew probably ... One 8-ounce cup of brewed coffee contains about 95 mg of caffeine.",
+      "snippet_highlighted_words": [
+        "Coffee",
+        "coffee"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Source Of",
+            "link": "https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/#:~:text=Source%20Of"
+          },
+          {
+            "title": "Types",
+            "link": "https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/#:~:text=Types,-Coffee%20beans%20are%20the%20seeds"
+          },
+          {
+            "title": "Make",
+            "link": "https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/#:~:text="
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Harvard T.H. Chan School of Public Health is the public health school of Harvard University, located in the Longwood Medical Area of Boston, Massachusetts.",
+          "source_info_link": "https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/ca768af88ba668ab454bc7bb89f38f343026694499889293b7ca2a4a4efa7033ca38daecf82a23c8e78c87bfef520951.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/&tbm=ilp&ilps=ADJL0ix24UjkA35TUhg8KpNFoGqXA4X1pg",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0ix24UjkA35TUhg8KpNFoGqXA4X1pg&q=About+https%3A%2F%2Fwww.hsph.harvard.edu%2Fnutritionsource%2Ffood-features%2Fcoffee%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aCQFR0EWgPwJ:https://www.hsph.harvard.edu/nutritionsource/food-features/coffee/&cd=23&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Peet's Coffee: The Original Craft Coffee",
+      "link": "https://www.peets.com/",
+      "displayed_link": "https://www.peets.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-1rQG6qGcISYQWPChVsb_GJpUASN3Xkv3qZrXoD6-O_JSZECRLApm&usqp=CAE&s",
+      "snippet": "Since 1966, Peet's Coffee has offered superior coffees and teas by sourcing the best quality coffee beans and tea leaves in the world and adhering to strict ...",
+      "snippet_highlighted_words": [
+        "Coffee",
+        "coffees",
+        "coffee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Peet's Coffee is a San Francisco Bay Area-based specialty coffee roaster and retailer owned by JAB Holding Company via JDE Peet's.",
+          "source_info_link": "https://www.peets.com/",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/ca768af88ba668ab454bc7bb89f38f34bea6830dd0af4d596470ea3e93e76d47d41eb11e2d4189e6579a461ad73f4e8e.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.peets.com/&tbm=ilp&ilps=ADJL0iyi0Ke6jkQwj42VpDqECgl1WRdfeQ",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iyi0Ke6jkQwj42VpDqECgl1WRdfeQ&q=About+https%3A%2F%2Fwww.peets.com%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BCjzno6zP6wJ:https://www.peets.com/&cd=24&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://www.peets.com/+coffee"
+    },
+    {
+      "position": 7,
+      "title": "Coffee",
+      "link": "https://www.amazon.com/coffee/s?k=coffee",
+      "displayed_link": "https://www.amazon.com › coffee › k=coffee",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQ_woH6ZYDKkOesSCNfSumtb9Xv8GFgr_yHHybeCpMwafv4KPsYRf&usqp=CAE&s",
+      "snippet": "Stumptown Coffee Roasters, Organic Medium Roast Ground Coffee - Holler Mountain 12 Ounce Bag, Flavor Notes of Citrus Zest, Caramel and Hazelnu. Ground · 12 ...",
+      "snippet_highlighted_words": [
+        "Coffee",
+        "Coffee"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "free": 30
+          },
+          "extensions": [
+            "Free 30",
+            "day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Amazon.com, Inc. is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence.",
+          "source_info_link": "https://www.amazon.com/coffee/s?k=coffee",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/ca768af88ba668ab454bc7bb89f38f340c701503402ca770f699c1e010e4606b2b67ed74d161d9872856aee42af6a976.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.amazon.com/coffee/s?k%3Dcoffee&tbm=ilp&ilps=ADJL0iz4yaPjFE5YbA0TnbXqmN1j8Qqr0g",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iz4yaPjFE5YbA0TnbXqmN1j8Qqr0g&q=About+https%3A%2F%2Fwww.amazon.com%2Fcoffee%2Fs%3Fk%3Dcoffee",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wfQ5Et9Ni-kJ:https://www.amazon.com/coffee/s%3Fk%3Dcoffee&cd=25&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 8,
+      "title": "31 Coffee Brands, Ranked From Worst To Best",
+      "link": "https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/",
+      "displayed_link": "https://www.tastingtable.com › coffee-brands-ranked-f...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJbKwc_XPeJDMpYB72QQ9gDtxMu3fnuYp3dVPBKNRH58VXOyFxTPIK&usqp=CAE&s",
+      "date": "Mar 2, 2023",
+      "snippet": "From café chains to retail roasters, we've ranked some of the most popular coffee brands from worst to first.",
+      "snippet_highlighted_words": [
+        "coffee"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "3. Lavazza",
+            "link": "https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/#:~:text=3.%20Lavazza"
+          },
+          {
+            "title": "2. Intelligentsia",
+            "link": "https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/#:~:text=2.%20Intelligentsia"
+          },
+          {
+            "title": "1. Stumptown Coffee Roasters",
+            "link": "https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/#:~:text=1.%20Stumptown%20Coffee%20Roasters"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Tasting Table is a digital media company focused on food and drink. The brand's website and email newsletter report on food and drink trends in the categories of dining, wine, cocktails, cooking and food travel.",
+          "source_info_link": "https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/ca768af88ba668ab454bc7bb89f38f34ac8a1afff4a5168711187470a270892e766d47b4cd00094d93fa69bb3eb3bc36.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/&tbm=ilp&ilps=ADJL0iwgbb7uiNB1U30anBQOfSid1twx2w",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iwgbb7uiNB1U30anBQOfSid1twx2w&q=About+https%3A%2F%2Fwww.tastingtable.com%2F718678%2Fcoffee-brands-ranked-from-worst-to-best%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:O0p2m8H_t7EJ:https://www.tastingtable.com/718678/coffee-brands-ranked-from-worst-to-best/&cd=26&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "9 Health Benefits of Coffee, Based on Science",
+      "link": "https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee",
+      "displayed_link": "https://www.healthline.com › ... › Nutrition",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwL-1vSbZSI-UxMVf9VHovNWXC284_Js_IEmJcVNO-ChwiEOda83in&usqp=CAE&s",
+      "date": "Jan 11, 2022",
+      "snippet": "Coffee is a popular beverage that researchers have studied extensively for its many health benefits, including its ability to increase energy ...",
+      "snippet_highlighted_words": [
+        "Coffee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Healthline Media, Inc. is an American website and provider of health information headquartered in San Francisco, California. It was founded in 1999, relaunched in 2006, and established as a standalone entity in January 2016.",
+          "source_info_link": "https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/ca768af88ba668ab454bc7bb89f38f345931c1b13c4fd698d0ba48267616c4c45c8ec1bea9d5e93b86d4c02c77f13730.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee&tbm=ilp&ilps=ADJL0iz7wi5_wec665QDKo4LpzSBLa5pxQ",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iz7wi5_wec665QDKo4LpzSBLa5pxQ&q=About+https%3A%2F%2Fwww.healthline.com%2Fnutrition%2Ftop-evidence-based-health-benefits-of-coffee",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:r1UW6FGz3F4J:https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee&cd=27&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 10,
+      "title": "9 Reasons Why (the Right Amount of) Coffee Is Good for You",
+      "link": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-reasons-why-the-right-amount-of-coffee-is-good-for-you",
+      "displayed_link": "https://www.hopkinsmedicine.org › health › 9-reasons...",
+      "snippet": "A Johns Hopkins research nutritionist shares the benefits of coffee and a recipe for a healthy pumpkin spice latte smoothie.",
+      "snippet_highlighted_words": [
+        "coffee"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "hopkinsmedicine.org was first indexed by Google more than 10 years ago",
+          "source_info_link": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-reasons-why-the-right-amount-of-coffee-is-good-for-you",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/643b0b25a4bb382c63bae496/images/ca768af88ba668ab454bc7bb89f38f3458f47ad65889f1ab5f8a076e4c5166d5553fc4ed8d304932356d91d79ee363ea.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-reasons-why-the-right-amount-of-coffee-is-good-for-you&tbm=ilp&ilps=ADJL0izDwqyqs6boUzNyhlVyPUkW3-dJ3Q",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0izDwqyqs6boUzNyhlVyPUkW3-dJ3Q&q=About+https%3A%2F%2Fwww.hopkinsmedicine.org%2Fhealth%2Fwellness-and-prevention%2F9-reasons-why-the-right-amount-of-coffee-is-good-for-you",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MdKXyZO_8uQJ:https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-reasons-why-the-right-amount-of-coffee-is-good-for-you&cd=28&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "coffee near me",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Coffee+near+me&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ1QJ6BAhpEAE"
+    },
+    {
+      "query": "coffee types",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Coffee+types&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ1QJ6BAhnEAE"
+    },
+    {
+      "query": "coffee beans",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Coffee+beans&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ1QJ6BAhmEAE"
+    },
+    {
+      "query": "coffee starbucks",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Coffee+Starbucks&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ1QJ6BAhkEAE"
+    },
+    {
+      "query": "coffee benefits",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Coffee+benefits&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ1QJ6BAhsEAE"
+    },
+    {
+      "query": "coffee origin",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Coffee+origin&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ1QJ6BAheEAE"
+    },
+    {
+      "query": "coffee plant",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Coffee+plant&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ1QJ6BAhfEAE"
+    },
+    {
+      "query": "coffee tree",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Coffee+tree&sa=X&ved=2ahUKEwi6tYT53qz-AhVWmYQIHbrtA1EQ1QJ6BAhqEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=coffee&oq=coffee&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=coffee&oq=coffee&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=coffee&oq=coffee&hl=en&gl=us&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=coffee&oq=coffee&hl=en&gl=us&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=coffee&oq=coffee&hl=en&gl=us&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=coffee&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=coffee&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=coffee&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=coffee&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=coffee&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=coffee&start=40"
+    }
+  }
+}

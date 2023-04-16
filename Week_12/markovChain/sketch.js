@@ -7,7 +7,9 @@
 let order = 3;
 let ngrams = {};
 
-var button;
+let button;
+let tench;
+
 function setup() {
   // createCanvas(windowWidth, windowHeight);
 
@@ -22,6 +24,8 @@ function setup() {
   button = createButton("generate Coding Train quick Markov Algo");
   button.mousePressed(markovIt);
   console.log(ngrams);
+  
+  tench = createVector(1, 1, 1);
 
   }
 
