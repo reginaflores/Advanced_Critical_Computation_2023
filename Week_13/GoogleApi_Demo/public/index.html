@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Test</title>
+  </head>
+  <body>
+    <p>Enter a search term.</p>
+    <form id="search-form">
+      <input type="text" id="search-input" name="q">
+      <button type="submit">Search</button>
+    </form>
+    <div id="results"></div> <!-- Add this div where search results will be displayed -->
+    <script>
+const form = document.getElementById('search-form');
+const input = document.getElementById('search-input');
+let intervalId = null;
+
+function getSearchResults() {
+  fetch('/results')
+    .then(response => response.json())
+    .then(data => {
+      console.log("this is the data", data);
+      const resultsDiv = document.getElementById('results'); // Get the div where you want to display the results
+      resultsDiv.innerHTML = ''; // Clear the div
+      console.log(data.images_results.length);
+      for (let i=0;i< data.images_results.length;i++) { // Loop through the search results
+        const resultImage = document.createElement('img'); // Create a new image element for each search result
+        resultImage.src = data.images_results[i].thumbnail;
+        resultImage.alt = data.images_results[i].title;
+        resultsDiv.appendChild(resultImage); // Add the image to the results div
+      }
+    })
+    .catch(error => {
+      console.error(error);
+    });
+}
+
+form.addEventListener('submit', (event) => {
+  event.preventDefault(); // prevent the form from submitting normally
+  const searchTerm = input.value;
+
+  // send an AJAX request to the server
+  fetch(`/search?q=${searchTerm}`).then((response) => {
+    if (response.ok) {
+      console.log('Search results for '+searchTerm+ ' saved to results.json');
+      getSearchResults();
+      if (intervalId === null) {
+        intervalId = setInterval(getSearchResults, 2000);
+      }
+    } else {
+      throw new Error('Error searching for results');
+    }
+  }).catch((error) => {
+    console.log(error);
+  });
+});
+
+// retrieve search results from server
+getSearchResults();
+intervalId = setInterval(getSearchResults, 2000);
+
+
+
+    </script>
+  </body>
+</html>

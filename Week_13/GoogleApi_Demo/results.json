@@ -1,0 +1,1448 @@
+{
+  "search_metadata": {
+    "id": "644a652c4055aa87d641355e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a35951f967634a2a/644a652c4055aa87d641355e.json",
+    "created_at": "2023-04-27 12:06:04 UTC",
+    "processed_at": "2023-04-27 12:06:04 UTC",
+    "google_images_url": "https://www.google.com/search?q=laurie+anderson&oq=laurie+anderson&hl=en&gl=us&tbm=isch",
+    "raw_html_file": "https://serpapi.com/searches/a35951f967634a2a/644a652c4055aa87d641355e.html",
+    "total_time_taken": 2.19
+  },
+  "search_parameters": {
+    "engine": "google_images",
+    "q": "laurie anderson",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "image_results_state": "Results for exact spelling",
+    "menu_items": [
+      {
+        "position": 1,
+        "title": "All",
+        "link": "https://www.google.com/search?q=laurie+anderson&source=lmns&gl=us&hl=en&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ0pQJKAB6BAgBEAI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=laurie+anderson"
+      },
+      {
+        "position": 2,
+        "title": "Images"
+      },
+      {
+        "position": 3,
+        "title": "Videos",
+        "link": "https://www.google.com/search?q=laurie+anderson&source=lmns&tbm=vid&gl=us&hl=en&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ0pQJKAJ6BAgBEAY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=laurie+anderson"
+      },
+      {
+        "position": 4,
+        "title": "News",
+        "link": "https://www.google.com/search?q=laurie+anderson&source=lmns&tbm=nws&gl=us&hl=en&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ0pQJKAN6BAgBEAg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=laurie+anderson&tbm=nws"
+      },
+      {
+        "position": 5,
+        "title": "Shopping",
+        "link": "https://www.google.com/search?q=laurie+anderson&source=lmns&tbm=shop&gl=us&hl=en&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ0pQJKAR6BAgBEAo",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=laurie+anderson"
+      },
+      {
+        "position": 6,
+        "title": "Books",
+        "link": "https://www.google.com/search?q=laurie+anderson&source=lmns&tbm=bks&gl=us&hl=en&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ0pQJKAB6BAgBEA0"
+      },
+      {
+        "position": 7,
+        "title": "Maps",
+        "link": "https://maps.google.com/maps?q=laurie+anderson&source=lmns&entry=mc&gl=us&hl=en&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ0pQJKAF6BAgBEA4"
+      },
+      {
+        "position": 8,
+        "title": "Flights",
+        "link": "https://www.google.com/flights?q=laurie+anderson&source=lmns&tbm=flm&gl=us&hl=en&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ0pQJKAJ6BAgBEA8"
+      },
+      {
+        "position": 9,
+        "title": "Finance",
+        "link": "https://www.google.com/search?q=laurie+anderson&source=lmns&tbm=fin&gl=us&hl=en&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ0pQJKAN6BAgBEBA"
+      }
+    ]
+  },
+  "suggested_searches": [
+    {
+      "name": "artist",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:artist:8MdWSJfaiwQ%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoAHoECAEQKQ",
+      "chips": "q:laurie+anderson,g_1:artist:8MdWSJfaiwQ%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Aartist%3A8MdWSJfaiwQ%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/417e6a244a801cf03cee383c14c8c2b987fd4eff7a1be0656355e68db002fcb9.jpeg"
+    },
+    {
+      "name": "performance",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:performance:J1Zi_7P7v9Y%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoAXoECAEQKw",
+      "chips": "q:laurie+anderson,g_1:performance:J1Zi_7P7v9Y%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Aperformance%3AJ1Zi_7P7v9Y%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/417e6a244a801cf03cee383c14c8c2b9636e344901b7acb53c07f6f8aff318fe.jpeg"
+    },
+    {
+      "name": "o superman",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:o+superman:Iu9EomSubaw%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoAnoECAEQLQ",
+      "chips": "q:laurie+anderson,g_1:o+superman:Iu9EomSubaw%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Ao%2Bsuperman%3AIu9EomSubaw%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/417e6a244a801cf03cee383c14c8c2b965f13a8b9a2fa9f1f81057538506bf21.jpeg"
+    },
+    {
+      "name": "wedding",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:wedding:pWKpMN67YtQ%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoA3oECAEQLw",
+      "chips": "q:laurie+anderson,g_1:wedding:pWKpMN67YtQ%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Awedding%3ApWKpMN67YtQ%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/417e6a244a801cf03cee383c14c8c2b9225acf4157ebbfb11c6077c7eacc7818.jpeg"
+    },
+    {
+      "name": "andy warhol",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:andy+warhol:gzuMqhCayXc%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoBHoECAEQMQ",
+      "chips": "q:laurie+anderson,g_1:andy+warhol:gzuMqhCayXc%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Aandy%2Bwarhol%3AgzuMqhCayXc%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/417e6a244a801cf03cee383c14c8c2b999f307cb69929b3a68f7600c3ed3f5c0.jpeg"
+    },
+    {
+      "name": "album",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:album:U2k8s2KsMZI%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoBXoECAEQMw",
+      "chips": "q:laurie+anderson,g_1:album:U2k8s2KsMZI%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Aalbum%3AU2k8s2KsMZI%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/417e6a244a801cf03cee383c14c8c2b9feb0fbb3f56630d32cfbd9b2498cad6b.jpeg"
+    },
+    {
+      "name": "violin",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:violin:X8tTTJlVROs%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoBnoECAEQNQ",
+      "chips": "q:laurie+anderson,g_1:violin:X8tTTJlVROs%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Aviolin%3AX8tTTJlVROs%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/417e6a244a801cf03cee383c14c8c2b9e632016ec71690ecee79b6051015d611.jpeg"
+    },
+    {
+      "name": "lou reed",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:lou+reed:HHphrOXiWAI%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoB3oECAEQNw",
+      "chips": "q:laurie+anderson,g_1:lou+reed:HHphrOXiWAI%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Alou%2Breed%3AHHphrOXiWAI%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/417e6a244a801cf03cee383c14c8c2b997f984270a86151c3a4643065f26bb7e.jpeg"
+    },
+    {
+      "name": "homeland",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:homeland:9jqaqiXF0Cc%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoCHoECAEQOQ",
+      "chips": "q:laurie+anderson,g_1:homeland:9jqaqiXF0Cc%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Ahomeland%3A9jqaqiXF0Cc%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/417e6a244a801cf03cee383c14c8c2b9efe05c8181f15a13c001b667284b7f72.jpeg"
+    },
+    {
+      "name": "husband",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:husband:bKsFJpgsw7c%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoCXoECAEQOw",
+      "chips": "q:laurie+anderson,g_1:husband:bKsFJpgsw7c%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Ahusband%3AbKsFJpgsw7c%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/417e6a244a801cf03cee383c14c8c2b9c9d405bb258b754b08958728573679fb.jpeg"
+    },
+    {
+      "name": "music",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:music:KKX3v9z1sRo%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoCnoECAEQPQ",
+      "chips": "q:laurie+anderson,g_1:music:KKX3v9z1sRo%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Amusic%3AKKX3v9z1sRo%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/417e6a244a801cf03cee383c14c8c2b98a591aaab3ce3827eb33e068b4c0865e.jpeg"
+    },
+    {
+      "name": "hair",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:hair:Kinwr2GUjUo%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoC3oECAEQPw",
+      "chips": "q:laurie+anderson,g_1:hair:Kinwr2GUjUo%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Ahair%3AKinwr2GUjUo%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/417e6a244a801cf03cee383c14c8c2b9a76e16b4793518bca9d5a63fdad411f1.jpeg"
+    },
+    {
+      "name": "new york",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:new+york:1uoXLtgx8eA%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoDHoECAEQQQ",
+      "chips": "q:laurie+anderson,g_1:new+york:1uoXLtgx8eA%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Anew%2Byork%3A1uoXLtgx8eA%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXdEDLFyvtSSWEuXM-bjEWdfBaOkjSWjOB2TbtrAbQRXY14Qq6yya3i40&usqp=CAU"
+    },
+    {
+      "name": "hirshhorn museum",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:hirshhorn+museum:BgLiXspaek4%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoDXoECAEQQw",
+      "chips": "q:laurie+anderson,g_1:hirshhorn+museum:BgLiXspaek4%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Ahirshhorn%2Bmuseum%3ABgLiXspaek4%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRgmglJGXIDMRuqNteo47UQ3QJ9e_Z71kCeC_HoWoWkp7OZi9HThMy8SQ&usqp=CAU"
+    },
+    {
+      "name": "portrait",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:portrait:z84WotMmwRY%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoDnoECAEQRQ",
+      "chips": "q:laurie+anderson,g_1:portrait:z84WotMmwRY%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Aportrait%3Az84WotMmwRY%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNK_lGhwGBhrWFjk2yil9lj7FIIa2bulBi56Y9Db2Q-ZCM1X9A9Q2yLsw&usqp=CAU"
+    },
+    {
+      "name": "annie leibovitz",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:annie+leibovitz:fabI3DVLsaw%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoD3oECAEQRw",
+      "chips": "q:laurie+anderson,g_1:annie+leibovitz:fabI3DVLsaw%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Aannie%2Bleibovitz%3AfabI3DVLsaw%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbs4wHHSS5fAZG3a6N5MTqWgS0gXTrkGe-EWU1VDTRcHr7jue8DC77BFE&usqp=CAU"
+    },
+    {
+      "name": "brian eno",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:brian+eno:DF15G_WxnHc%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoEHoECAEQSQ",
+      "chips": "q:laurie+anderson,g_1:brian+eno:DF15G_WxnHc%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Abrian%2Beno%3ADF15G_WxnHc%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkQZ5ZzeLgwVYhYE3mhTDq85lqcXRzDOYru5I_LdmdHOVJTi9ZE0UzYU&usqp=CAU"
+    },
+    {
+      "name": "artwork",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:artwork:DkXP9HwNvs4%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoEXoECAEQSw",
+      "chips": "q:laurie+anderson,g_1:artwork:DkXP9HwNvs4%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Aartwork%3ADkXP9HwNvs4%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfdndYLN6btI_0KMeJJkTYVyo28Lco8OM4GXgFmimHzCvk4AfWOvPd50A&usqp=CAU"
+    },
+    {
+      "name": "philip glass",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:philip+glass:RcqdluyhVVE%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoEnoECAEQTQ",
+      "chips": "q:laurie+anderson,g_1:philip+glass:RcqdluyhVVE%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Aphilip%2Bglass%3ARcqdluyhVVE%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-w5Shli0LCF0hYPxSgSPDKKH2Fp83RF2M0dvtVDrsuGRpjJ26ubEKzpM&usqp=CAU"
+    },
+    {
+      "name": "united states live",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:united+states+live:NSwK9vtD8as%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoE3oECAEQTw",
+      "chips": "q:laurie+anderson,g_1:united+states+live:NSwK9vtD8as%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Aunited%2Bstates%2Blive%3ANSwK9vtD8as%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAgCIgrMUX6aaMEA6wwK7cICFXrBJIKBNcDopv6SkM2BsphdYhpivSgk&usqp=CAU"
+    },
+    {
+      "name": "mapplethorpe",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:mapplethorpe:IXhWeG0Cohk%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoFHoECAEQUQ",
+      "chips": "q:laurie+anderson,g_1:mapplethorpe:IXhWeG0Cohk%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Amapplethorpe%3AIXhWeG0Cohk%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZqygR7JoRYYz2nsTLQQD0NDLk7y60D7RNZl-ik3HUNi9NBuRu483V1Qw&usqp=CAU"
+    },
+    {
+      "name": "mister heartbreak",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:mister+heartbreak:K4ia3_LSEvE%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoFXoECAEQUw",
+      "chips": "q:laurie+anderson,g_1:mister+heartbreak:K4ia3_LSEvE%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Amister%2Bheartbreak%3AK4ia3_LSEvE%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEqtR0wDv-y5z4trMI1jBQ-tjtJ8SVD9Cu8tvFFd0a6I8u28hsAA2-1EU&usqp=CAU"
+    },
+    {
+      "name": "singer",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:singer:Vg1_slF6dYM%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoFnoECAEQVQ",
+      "chips": "q:laurie+anderson,g_1:singer:Vg1_slF6dYM%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Asinger%3AVg1_slF6dYM%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGSIfUwHzWeLtqxkEfNUKDdU9WZFNGvEBJegp79QuI3IPQSWk_xB1K-c&usqp=CAU"
+    },
+    {
+      "name": "patti smith",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:patti+smith:Yfm2tAC05V4%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoF3oECAEQVw",
+      "chips": "q:laurie+anderson,g_1:patti+smith:Yfm2tAC05V4%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Apatti%2Bsmith%3AYfm2tAC05V4%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZS9bD4Xc34jyel2wxf0O05QddDv-lumfRTJGRTKqNHgmalk49xlNoxTI&usqp=CAU"
+    },
+    {
+      "name": "david byrne",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:david+byrne:06NOwsX6qN4%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoGHoECAEQWQ",
+      "chips": "q:laurie+anderson,g_1:david+byrne:06NOwsX6qN4%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Adavid%2Bbyrne%3A06NOwsX6qN4%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRadxTnSQgF3yS7YwH1OcGOSAQfM-4vN-z3rKVKYlFDMQIAyqEI-qWFJk&usqp=CAU"
+    },
+    {
+      "name": "shirt",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:shirt:PyIEb_8O4fY%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoGXoECAEQWw",
+      "chips": "q:laurie+anderson,g_1:shirt:PyIEb_8O4fY%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Ashirt%3APyIEb_8O4fY%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaMF0XB0D86pw8OM6RMzfTittCiQ7BQu9RMpeLf2eTr0d1qPxQFOwQIjc&usqp=CAU"
+    },
+    {
+      "name": "william burroughs",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:william+burroughs:nKFX9_-55zw%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoGnoECAEQXQ",
+      "chips": "q:laurie+anderson,g_1:william+burroughs:nKFX9_-55zw%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Awilliam%2Bburroughs%3AnKFX9_-55zw%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfp7IrAe2eL2SmZEdYe1Brd8ZWwrVNH2LLBhQtFNZ06GUknbFmG2X6Y4&usqp=CAU"
+    },
+    {
+      "name": "weather",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:weather:vBP413qqwzo%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoG3oECAEQXw",
+      "chips": "q:laurie+anderson,g_1:weather:vBP413qqwzo%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Aweather%3AvBP413qqwzo%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPObD1lO8GQFV586It9U1iv2K7mnrfIOqpiiPgMf-U8wlL159HcKDbsc&usqp=CAU"
+    },
+    {
+      "name": "table",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:table:NmNH80eBaEU%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoHHoECAEQYQ",
+      "chips": "q:laurie+anderson,g_1:table:NmNH80eBaEU%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Atable%3ANmNH80eBaEU%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnJHnUfdCNiEpbIRCn3D31k__Uef3T4PubcMhr66nY8iL3Zm7r3CZlurc&usqp=CAU"
+    },
+    {
+      "name": "apartment",
+      "link": "https://www.google.com/search?q=laurie+anderson&tbm=isch&hl=en&gl=us&chips=q:laurie+anderson,g_1:apartment:TNjeY7OigoQ%3D&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQ4lYoHXoECAEQYw",
+      "chips": "q:laurie+anderson,g_1:apartment:TNjeY7OigoQ%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Alaurie%2Banderson%2Cg_1%3Aapartment%3ATNjeY7OigoQ%253D&device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq28dJGQxtY-hfbvHG3Fk-vCYTU4edWzA2bq4ifz9UdJ5fYHyCia0TlfI&usqp=CAU"
+    }
+  ],
+  "images_results": [
+    {
+      "position": 1,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0249a52762bfc2326e59eb87e3975ce80e69334dafa4f53a2.jpeg",
+      "source": "Wikipedia",
+      "title": "Laurie Anderson - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Laurie_Anderson",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/Laurie_Anderson_at_the_New_Zealand_Festival_of_the_Arts_lunch_2020_%28cropped%29.jpg",
+      "original_width": 384,
+      "original_height": 512,
+      "is_product": false
+    },
+    {
+      "position": 2,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0e150162c05452b82016c71431691a93948ac37ec89c54a29.jpeg",
+      "source": "The Press Democrat",
+      "title": "Laurie Anderson at Green Music Center",
+      "link": "https://www.pressdemocrat.com/article/entertainment/laurie-anderson-at-green-music-center/",
+      "original": "https://imengine.prod.srp.navigacloud.com/?uuid=108337F2-B7D2-414A-B5B3-659755052818&type=primary&q=72&width=1024",
+      "original_width": 960,
+      "original_height": 784,
+      "is_product": false
+    },
+    {
+      "position": 3,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa066d0f87fdac4c001fe3097ed139897368a3340fde5ced2ae.jpeg",
+      "source": "IMDb",
+      "title": "Laurie Anderson - IMDb",
+      "link": "https://www.imdb.com/name/nm0002173/",
+      "original": "https://m.media-amazon.com/images/M/MV5BMTY5MjI3OTEzOF5BMl5BanBnXkFtZTcwMDc0OTAzMQ@@._V1_.jpg",
+      "original_width": 392,
+      "original_height": 589,
+      "is_product": false
+    },
+    {
+      "position": 4,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0fe5910173731b9b96d0349235aeb721b347af1ccb1a22b9a.jpeg",
+      "source": "Rockhaq",
+      "title": "Album Review: Laurie Anderson - Big Science | The Rockhaq Community",
+      "link": "https://rockhaq.com/reviews/album-review-laurie-anderson-big-science/",
+      "original": "https://rockhaq.com/wp-content/uploads/Album-Review-Laurie-Anderson-Big-Science.jpg",
+      "original_width": 1500,
+      "original_height": 1096,
+      "is_product": false
+    },
+    {
+      "position": 5,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0c1c5a6c28b992e85752d91c225e1479aaef34815641fdfce.jpeg",
+      "source": "NPR",
+      "title": "Catching Up With Laurie Anderson, An Artist Always Ahead Of Her Time :  Deceptive Cadence : NPR",
+      "link": "https://www.npr.org/sections/deceptivecadence/2021/04/13/978134291/catching-up-with-laurie-anderson-an-artist-always-ahead-of-her-time",
+      "original": "https://media.npr.org/assets/img/2021/04/09/photo-extralarge_1614013939053_wide-bc5b1b4aa2005a73b2970b551c18d40c7568366c.jpg",
+      "original_width": 3000,
+      "original_height": 1687,
+      "is_product": false
+    },
+    {
+      "position": 6,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa057d8e366ca470bc6af8645b27811c974c739f2b82965c712.jpeg",
+      "source": "Twitter",
+      "title": "Laurie Anderson (@OnlyAnExpert) / Twitter",
+      "link": "https://twitter.com/OnlyAnExpert",
+      "original": "https://pbs.twimg.com/media/FrrI4JOaAAAkD5Z?format=jpg&name=4096x4096",
+      "original_width": 2316,
+      "original_height": 2316,
+      "is_product": false
+    },
+    {
+      "position": 7,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0f98ac4e691f543e8ba3bc6e39420b6e79c1f7f8ad4f57c97.jpeg",
+      "source": "Discogs",
+      "title": "Laurie Anderson | Discography | Discogs",
+      "link": "https://www.discogs.com/artist/26050-Laurie-Anderson",
+      "original": "https://i.discogs.com/QpXgeD1KG9TfRJgmeTXGWahIcPo0jPemfPudfkW25Ys/rs:fit/g:sm/q:90/h:834/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI2MDUw/LTE2NDE0MDMxNjAt/MzE2Ny5qcGVn.jpeg",
+      "original_width": 600,
+      "original_height": 834,
+      "is_product": false
+    },
+    {
+      "position": 8,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa06db214525ccaa71341862323e310ce49e821fb2d7c40873f.jpeg",
+      "source": "Rolling Stone",
+      "title": "Laurie Anderson's Farewell to Lou Reed – Rolling Stone",
+      "link": "https://www.rollingstone.com/music/music-news/laurie-andersons-farewell-to-lou-reed-a-rolling-stone-exclusive-243792/",
+      "original": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-13310-20131105-loureed-x1800-1383682639.jpg",
+      "original_width": 1800,
+      "original_height": 2243,
+      "is_product": false
+    },
+    {
+      "position": 9,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa02fbf08a5f6f0f2e2c1891d42715ee6d2f74993e0f7709d12.jpeg",
+      "source": "Innerviews",
+      "title": "Innerviews: Laurie Anderson - The Big Picture",
+      "link": "https://www.innerviews.org/inner/anderson.html",
+      "original": "https://www.innerviews.org/inner/anderson/anderson-header.jpg",
+      "original_width": 896,
+      "original_height": 945,
+      "is_product": false
+    },
+    {
+      "position": 10,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa04e2f9afd9a2e059521cb1d32510ee0e2d48fa7490b285944.jpeg",
+      "source": "The Guardian",
+      "title": "Laurie Anderson: 'Capitalism is a disaster for human relations' | Heart of  a Dog | The Guardian",
+      "link": "https://www.theguardian.com/film/2015/sep/10/laurie-anderson-on-death",
+      "original": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/9/10/1441901210489/43340ef7-7c02-498a-9c9e-a350b6acedf6-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=a5d24082ab7fd45211f1dd3b0dca99ed",
+      "original_width": 1200,
+      "original_height": 630,
+      "is_product": false
+    },
+    {
+      "position": 11,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0e150162c05452b828e5436542eedac210884839628974060.jpeg",
+      "source": "YouTube",
+      "title": "Laurie Anderson - O Superman [Official Music Video] - YouTube",
+      "link": "https://www.youtube.com/watch?v=Vkfpi2H8tOE",
+      "tag": "8:27",
+      "original": "https://i.ytimg.com/vi/Vkfpi2H8tOE/hqdefault.jpg",
+      "original_width": 480,
+      "original_height": 360,
+      "is_product": true
+    },
+    {
+      "position": 12,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0e150162c05452b82ac66f0a716c4a96763ea71066a3bd890.jpeg",
+      "source": "Art21",
+      "title": "Laurie Anderson | Art21",
+      "link": "https://art21.org/artist/laurie-anderson/",
+      "original": "https://art21.org/wp-content/uploads/2016/10/Anderson-Laurie-450x450.jpg",
+      "original_width": 450,
+      "original_height": 450,
+      "is_product": false
+    },
+    {
+      "position": 13,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0e150162c05452b8273619dab1cc12136c1305f6ce6023879.jpeg",
+      "source": "Wikiwand",
+      "title": "Laurie Anderson - Wikiwand",
+      "link": "https://www.wikiwand.com/en/Laurie_Anderson",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/LA21uitsnede.jpg?Laurie_Anderson1147716220",
+      "original_width": 283,
+      "original_height": 238,
+      "is_product": false
+    },
+    {
+      "position": 14,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0e150162c05452b82969e17235316695947539961c788abf4.jpeg",
+      "source": "Vanity Fair Archive",
+      "title": "Peak Performance Laurie Anderson | Vanity Fair | March 1983",
+      "link": "https://archive.vanityfair.com/article/1983/3/peak-performance-laurie-anderson",
+      "original": "https://vanityfair.blob.core.windows.net/vanityfair19830301thumbnails/Spreads/0x600/43.jpg",
+      "original_width": 926,
+      "original_height": 600,
+      "is_product": false
+    },
+    {
+      "position": 15,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0e150162c05452b828280ab9c46007a59e62e94f91a94a60c.jpeg",
+      "source": "Art News",
+      "title": "Artists Laurie Anderson and Julian Schnabel in Conversation – ARTnews.com",
+      "link": "https://www.artnews.com/art-news/artists/laurie-anderson-julian-schnabel-conversation-1202679497/",
+      "original": "https://www.artnews.com/wp-content/uploads/2020/02/ARTnews_Laurie_Anderson_and_Julian_Schnabel_120.jpg",
+      "original_width": 2000,
+      "original_height": 3000,
+      "is_product": false
+    },
+    {
+      "position": 16,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0e150162c05452b82ec15440af13405e24776cfa4f0527d05.jpeg",
+      "source": "Pitchfork",
+      "title": "Laurie Anderson: United States Live Album Review | Pitchfork",
+      "link": "https://pitchfork.com/reviews/albums/laurie-anderson-united-states-live/",
+      "original": "https://media.pitchfork.com/photos/60de027fe02328098d2d7b8b/1:1/w_1500,h_1500,c_limit/Laurie%20Anderson:%20United%20States%20Live.jpeg",
+      "original_width": 1500,
+      "original_height": 1500,
+      "is_product": false
+    },
+    {
+      "position": 17,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0e150162c05452b827ac8b4beaac51d6627c10e1d37442e66.jpeg",
+      "source": "The Guardian",
+      "title": "It has never been more pertinent' – Margaret Atwood on the chilling genius  of Laurie Anderson's Big Science | Music | The Guardian",
+      "link": "https://www.theguardian.com/music/2021/apr/08/margaret-atwood-laurie-anderson-big-science-o-superman-prophetic-80s-america-pertinent",
+      "original": "https://i.guim.co.uk/img/media/87849c81b22fc12ef03e6ccb8d3ee876b21ee311/323_770_4328_2596/master/4328.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=12c1c9f97f9fbc56f3930b9ad2b235e2",
+      "original_width": 1200,
+      "original_height": 900,
+      "is_product": false
+    },
+    {
+      "position": 18,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0e150162c05452b8245e2140f33e81babef4ee45c621e0369.jpeg",
+      "source": "Spotify",
+      "title": "Laurie Anderson | Spotify",
+      "link": "https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G",
+      "original": "https://i.scdn.co/image/ab6761610000e5eb73a2b30a16e656de49954c5e",
+      "original_width": 640,
+      "original_height": 640,
+      "is_product": false
+    },
+    {
+      "position": 19,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0e150162c05452b829a90454338a2aa0e436dab2b4b4376cf.jpeg",
+      "source": "Entertainment Weekly",
+      "title": "Laurie Anderson brings 'joy' to the sad passing of Lou Reed | EW.com",
+      "link": "https://ew.com/article/2013/10/31/lou-reed-laurie-anderson/",
+      "original": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2013%2F10%2Fanderson-reed.jpg&q=60",
+      "original_width": 612,
+      "original_height": 458,
+      "is_product": false
+    },
+    {
+      "position": 20,
+      "thumbnail": "https://serpapi.com/searches/644a652c4055aa87d641355e/images/ffb0bcd40d339fa0e150162c05452b82ccc4cafe7ce9c2a13e7fa2570eb02462.jpeg",
+      "source": "Prog Archives",
+      "title": "LAURIE ANDERSON discography and reviews",
+      "link": "http://www.progarchives.com/artist.asp?id=6118",
+      "original": "http://www.progarchives.com/progressive_rock_discography_band/6118.JPG",
+      "original_width": 488,
+      "original_height": 600,
+      "is_product": false
+    },
+    {
+      "position": 21,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbvphd0AehBxv_ivdLGq4cOMOrzwjJhFxHDw&usqp=CAU",
+      "source": "GRAMMY.com",
+      "title": "Laurie Anderson | Artist | GRAMMY.com",
+      "link": "https://www.grammy.com/artists/laurie-anderson/1632",
+      "original": "https://cdn.media.amplience.net/i/naras/loureed_laurieanderson-151133132.jpg.webp?w=620",
+      "original_width": 620,
+      "original_height": 930,
+      "is_product": false
+    },
+    {
+      "position": 22,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRueAY-wZmTQ3H_v1XAXY8wqKgkFMZso5ZoUQ&usqp=CAU",
+      "source": "AnOther Magazine",
+      "title": "AnOther Magazine S/S15: The Extraordinary Laurie Anderson | AnOther",
+      "link": "https://www.anothermag.com/fashion-beauty/4388/another-magazine-s-s15-the-extraordinary-laurie-anderson",
+      "original": "https://images-prod.anothermag.com/1200/azure/another-prod/330/8/338291.jpg",
+      "original_width": 1200,
+      "original_height": 1600,
+      "is_product": false
+    },
+    {
+      "position": 23,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaWoOZXAmhuQ43-phY0GKxOBxaPCJzSxj94Q&usqp=CAU",
+      "source": "Wikipedia",
+      "title": "Strange Angels (Laurie Anderson album) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Strange_Angels_%28Laurie_Anderson_album%29",
+      "original": "https://upload.wikimedia.org/wikipedia/en/b/b0/Laurie_Anderson-Strange_Angels.jpg",
+      "original_width": 301,
+      "original_height": 300,
+      "is_product": false
+    },
+    {
+      "position": 24,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-SpFKEf5cSwXvYVcSRsKq9BzO3dUQCMN8DQ&usqp=CAU",
+      "source": "Vogue",
+      "title": "Laurie Anderson Takes On Love and Death in Heart of a Dog | Vogue",
+      "link": "https://www.vogue.com/article/laurie-anderson-heart-of-a-dog",
+      "original": "https://assets.vogue.com/photos/5891c9bcfb0604bf1f5c57ab/master/w_2560%2Cc_limit/01-laurie-anderson-heart-of-a-dog.jpg",
+      "original_width": 1333,
+      "original_height": 2000,
+      "is_product": false
+    },
+    {
+      "position": 25,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXKfDtZc_rQu5Z4pRqMFbyZeIbYBqJTusIg&usqp=CAU",
+      "source": "The Big Issue",
+      "title": "Laurie Anderson: \"I didn't love my mother - but I did admire her\" - The Big  Issue",
+      "link": "https://www.bigissue.com/culture/tv/laurie-anderson-i-didnt-love-mother-i-admire/",
+      "original": "https://wordpress.bigissue.com/wp-content/uploads/2017/04/laurie-anderson_hero.jpg",
+      "original_width": 1920,
+      "original_height": 1080,
+      "is_product": false
+    },
+    {
+      "position": 26,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQis9PhRJF4wQrySX71ApK8WP4uhg5pysBR2Q&usqp=CAU",
+      "source": "WDET",
+      "title": "Why Laurie Anderson Wants to Re-write the Bible, and Other Fabulous  Observations - WDET 101.9 FM",
+      "link": "https://wdet.org/2020/11/27/why-laurie-anderson-wants-to-re-write-the-bible-and-other-fabulous-observations/",
+      "original": "https://wdet.org/wp-content/uploads/2020/11/Laurie_Anderson_and_Ann_Delisi_in_1994-scaled.jpg",
+      "original_width": 2560,
+      "original_height": 1920,
+      "is_product": false
+    },
+    {
+      "position": 27,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqW1zIAvm1vAtc6ZI7X6vHPoNzAcq6oU98Ww&usqp=CAU",
+      "source": "Vulture",
+      "title": "Laurie Anderson Wrote Another Really Lovely Essay About Lou Reed",
+      "link": "https://www.vulture.com/2013/11/read-laurie-andersons-lovely-essay-for-lou-reed.html",
+      "original": "https://pyxis.nymag.com/v1/imgs/f20/d12/bbc8cf7f2444a85c99636afaa9937c7329-06-laurie-anderson-lou-reed.2x.h473.w710.jpg",
+      "original_width": 1420,
+      "original_height": 946,
+      "is_product": false
+    },
+    {
+      "position": 28,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHdlmcAH50Y5R71qb5d9xPNL1BbYqzsiexhw&usqp=CAU",
+      "source": "The New York Times",
+      "title": "Laurie Anderson's Glorious, Chaotic New York - The New York Times",
+      "link": "https://www.nytimes.com/2017/04/21/nyregion/laurie-anderson-new-york.html",
+      "original": "https://static01.nyt.com/images/2017/04/23/nyregion/23LIONSLAURIE1/23LIONSLAURIE1-superJumbo-v2.jpg",
+      "original_width": 1415,
+      "original_height": 2048,
+      "is_product": false
+    },
+    {
+      "position": 29,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToNLlxqaiiPuV_Ly2SzStNDZJrdT2KneyqDA&usqp=CAU",
+      "source": "Red Bull Music Academy Daily",
+      "title": "Laurie Anderson on Sculpting Sounds with Brian Eno, Peter Gabriel and More  | Red Bull Music Academy Daily",
+      "link": "https://daily.redbullmusicacademy.com/2015/06/laurie-anderson-feature/",
+      "original": "https://media.redbullmusicacademy.com/assets/Untitled-1.6bb9669f.jpg",
+      "original_width": 1087,
+      "original_height": 697,
+      "is_product": false
+    },
+    {
+      "position": 30,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWU96VmVB28-yXggCzn-QD6J1OGaWzFCEbGA&usqp=CAU",
+      "source": "BestMusic80",
+      "title": "Laurie Anderson",
+      "link": "https://www.bestmusic80.com/post/superman-fan",
+      "original": "https://static.wixstatic.com/media/ac878b_efea63e0f8134997bbbf08bd2e4fc068~mv2.jpg/v1/fill/w_640,h_428,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ac878b_efea63e0f8134997bbbf08bd2e4fc068~mv2.jpg",
+      "original_width": 640,
+      "original_height": 428,
+      "is_product": false
+    },
+    {
+      "position": 31,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFdtOOkpTbLO4wwU7x_7MNB5JhjGTyyufgA&usqp=CAU",
+      "source": "Art21",
+      "title": "Laurie Anderson | Art21",
+      "link": "https://art21.org/artist/laurie-anderson/",
+      "original": "https://art21.org/wp-content/uploads/2016/10/anderson-laurie-1400x787.jpg",
+      "original_width": 1400,
+      "original_height": 787,
+      "is_product": false
+    },
+    {
+      "position": 32,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ1vqs7SP1MbEefokbyMNNG9qzEbANQaH3Ww&usqp=CAU",
+      "source": "Artnet News",
+      "title": "In Her Experimental Hirshhorn Retrospective, Laurie Anderson Proves That  She's Still the Artist of Our Virtual Moment",
+      "link": "https://news.artnet.com/art-world/laurie-anderson-the-weather-hirshhorn-museum-2036560",
+      "original": "https://news.artnet.com/app/news-upload/2021/11/laurie-anderson-portrait-1024x768.jpeg",
+      "original_width": 1024,
+      "original_height": 768,
+      "is_product": false
+    },
+    {
+      "position": 33,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS09ygLF0ZrI4hMGUdgZ9AJigyopKzw_bxfQ&usqp=CAU",
+      "source": "NPR",
+      "title": "First Listen: Laurie Anderson, 'Homeland' : NPR",
+      "link": "https://www.npr.org/2010/06/06/127403919/first-listen-laurie-anderson-homeland",
+      "original": "https://media.npr.org/assets/music/firstlisten/2010/06/laurieanderson/laurie-71b032b5de08b9325d7b0872384ea856644c5646-s1100-c50.jpg",
+      "original_width": 1000,
+      "original_height": 750,
+      "is_product": false
+    },
+    {
+      "position": 34,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtAMW8qpC_j_nx7fNk-O2M4r0cBBisteFzIg&usqp=CAU",
+      "source": "Medium",
+      "title": "Laurie Anderson: 'Lou Reed was one of the few men I've ever met who could  cry' | by Roderick Stanley | Medium",
+      "link": "https://medium.com/@rodstanley/laurie-anderson-lou-reed-was-one-of-the-few-men-ive-ever-met-who-could-cry-7519f3292a7a",
+      "original": "https://miro.medium.com/v2/resize:fit:1400/1*nXO-FGWZ9Hi2UCwn9koetA.png",
+      "original_width": 1354,
+      "original_height": 1436,
+      "is_product": false
+    },
+    {
+      "position": 35,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj1WqE4_32Uv8Lt9WFPkqTJRuwJV6L7NksdA&usqp=CAU",
+      "source": "Facebook",
+      "title": "Laurie Anderson",
+      "link": "https://www.facebook.com/LaurieAnderson/",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=537787124369380",
+      "original_width": 1800,
+      "original_height": 1800,
+      "is_product": false
+    },
+    {
+      "position": 36,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFTjhX3h3Yo3hmyKGe1eQu9Wn6bG3yQG6cSg&usqp=CAU",
+      "source": "Sotheby's",
+      "title": "Lou Reed and Laurie Anderson, 2000 | NOW! | 2021 | Sotheby's",
+      "link": "https://www.sothebys.com/en/buy/auction/2021/now/lou-reed-and-laurie-anderson-2000",
+      "original": "https://sothebys-md.brightspotcdn.com/dims4/default/3d995df/2147483647/strip/true/crop/2000x2031+0+0/resize/2048x2080!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fd0%2F1e%2F6f930eab4ad4b39217a3fe541699%2Fpf2150-bqfjj-05.jpg",
+      "original_width": 2048,
+      "original_height": 2080,
+      "is_product": false
+    },
+    {
+      "position": 37,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu0OaK54pwp92cztSlxQfnOdzkfLBLQILAdA&usqp=CAU",
+      "source": "Getty Images",
+      "title": "3,310 Laurie Anderson Photos and Premium High Res Pictures - Getty Images",
+      "link": "https://www.gettyimages.com/photos/laurie-anderson",
+      "tag": "Licensable",
+      "original": "https://media.gettyimages.com/id/570135179/photo/american-musician-lou-reed-and-experimental-performance-artist-laurie-anderson-usa-circa-1995.jpg?s=612x612&w=gi&k=20&c=BwyG32DmweBMhpGlNafTHXWjKbmMN3ZWcCFVdWvz_ss=",
+      "original_width": 409,
+      "original_height": 612,
+      "is_product": true
+    },
+    {
+      "position": 38,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxPfptY-sk9Nz35u_v3IZPqhF7BF9uEVqbg&usqp=CAU",
+      "source": "Famous Composers",
+      "title": "Laurie Anderson - Composer Biography, Facts and Music Compositions",
+      "link": "https://www.famouscomposers.net/laurie-anderson",
+      "original": "https://www.famouscomposers.net/images/laurie-anderson.jpg",
+      "original_width": 580,
+      "original_height": 326,
+      "is_product": false
+    },
+    {
+      "position": 39,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStHFtpQa-zR14E_gQKvlhCXJrV0iCFYDoXcQ&usqp=CAU",
+      "source": "Metrograph",
+      "title": "Laurie Anderson - Journal - Metrograph",
+      "link": "https://metrograph.com/laurie-anderson/",
+      "original": "https://metrograph.imgix.net/2021/05/20180131_LaurieAnderson_EbruYildiz_4.jpg?fm=pjpg&ixlib=php-3.3.0",
+      "original_width": 1600,
+      "original_height": 900,
+      "is_product": false
+    },
+    {
+      "position": 40,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8MhYiBsySWvczMVqnxDZNChjJY739YgyOA&usqp=CAU",
+      "source": "Twitter",
+      "title": "Laurie Anderson (@OnlyAnExpert) / Twitter",
+      "link": "https://twitter.com/OnlyAnExpert",
+      "original": "https://pbs.twimg.com/media/FQp5fN0XMAYZ3Ee.jpg",
+      "original_width": 900,
+      "original_height": 1200,
+      "is_product": false
+    },
+    {
+      "position": 41,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbD0UMYgs73xNARsv3B8YRJ-q7kNxoAsm2Q&usqp=CAU",
+      "source": "Facebook",
+      "title": "Laurie Anderson",
+      "link": "https://www.facebook.com/LaurieAnderson/",
+      "original": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044142923964",
+      "original_width": 1365,
+      "original_height": 2048,
+      "is_product": false
+    },
+    {
+      "position": 42,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicv3lkQFzMSBNcRzZGOI1JYLQ4k0q-0TyAA&usqp=CAU",
+      "source": "The Guardian",
+      "title": "Laurie Anderson announces first studio album in a decade | Laurie Anderson  | The Guardian",
+      "link": "https://www.theguardian.com/music/2010/mar/31/laurie-anderson-studio-album",
+      "original": "https://i.guim.co.uk/img/static/sys-images/Music/Pix/pictures/2010/3/31/1270030656841/Laurie-Anderson-and-Lou-R-001.jpg?width=465&quality=85&dpr=1&s=none",
+      "original_width": 460,
+      "original_height": 276,
+      "is_product": false
+    },
+    {
+      "position": 43,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWUxfYxGf1CrqZv1ipp7wW4oK20KEG5Cbsog&usqp=CAU",
+      "source": "The Art Story",
+      "title": "Laurie Anderson Performances, Bio, Ideas | TheArtStory",
+      "link": "https://www.theartstory.org/artist/anderson-laurie/",
+      "original": "https://www.theartstory.org/images20/new_design/bio/bio_anderson_laurie.jpg?1",
+      "original_width": 171,
+      "original_height": 263,
+      "is_product": false
+    },
+    {
+      "position": 44,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToVopII5cWeEbx1q_Rwct-LX3KKzLD2wNf7Q&usqp=CAU",
+      "source": "Wall of Sound Gallery",
+      "title": "LAURIE ANDERSON by DEBORAH FEINGOLD LAURIE ANDERSON, 1983 - Wall of Sound  Gallery - Fine Art Music Photography",
+      "link": "https://www.wallofsoundgallery.com/en/laurie-anderson-by-deborah-feingold-laurie-anderson-C--i3876",
+      "original": "https://www.wallofsoundgallery.com/immagini_prodotti/arch/3876.jpg",
+      "original_width": 655,
+      "original_height": 655,
+      "is_product": false
+    },
+    {
+      "position": 45,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjpAMme7-nQKccA2PtUHD0pyCl22PqqX9qIw&usqp=CAU",
+      "source": "laurieanderson.com",
+      "title": "Laurie Anderson – Official Website",
+      "link": "https://laurieanderson.com/",
+      "original": "https://laurieanderson.com/2018site/wp-content/uploads/2018/01/chalkroom-610x600.jpg",
+      "original_width": 610,
+      "original_height": 600,
+      "is_product": false
+    },
+    {
+      "position": 46,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwMLCIEFmZ-4eIWk0eXdl3GrWtFNLT2an0g&usqp=CAU",
+      "source": "Guild Hall",
+      "title": "Laurie Anderson - Guild Hall",
+      "link": "https://www.guildhall.org/events/laurie-anderson/",
+      "original": "https://www.guildhall.org/wp-content/uploads/2018/05/Laurie-Anderson-Main-Pic-Crop.png",
+      "original_width": 1600,
+      "original_height": 899,
+      "is_product": false
+    },
+    {
+      "position": 47,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGuQyAfybfew5u9HrXFzuNoFJEXSzIomrc6A&usqp=CAU",
+      "source": "Wikipedia",
+      "title": "Laurie Anderson - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Laurie_Anderson",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/The_Kitchen_Benefit%2C_Honoring_Laurie_Anderson.jpg/170px-The_Kitchen_Benefit%2C_Honoring_Laurie_Anderson.jpg",
+      "original_width": 170,
+      "original_height": 232,
+      "is_product": false
+    },
+    {
+      "position": 48,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1Yi3hG0hABop20vHP6uVuKj2I7V4_aPi1g&usqp=CAU",
+      "source": "Interview Magazine",
+      "title": "Laurie Anderson - Interview Magazine",
+      "link": "https://www.interviewmagazine.com/culture/laurie-anderson-1",
+      "original": "https://www.interviewmagazine.com/wp-content/uploads/2015/10/img-laurie-anderson_174604972985.jpg",
+      "original_width": 1000,
+      "original_height": 942,
+      "is_product": false
+    },
+    {
+      "position": 49,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9SIyxpzvmbjYy4mpL5k92NIg5X_aIgQmQ7A&usqp=CAU",
+      "source": "Visual and data journalism - Financial Times",
+      "title": "O Superman — Laurie Anderson's experimental hit proved to be uncannily  prophetic — FT.com",
+      "link": "https://ig.ft.com/life-of-a-song/o-superman.html",
+      "original": "https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3A0dac610e-71ac-11e9-bf5c-6eeb837566c5?source=ig",
+      "original_width": 2048,
+      "original_height": 1152,
+      "is_product": false
+    },
+    {
+      "position": 50,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh167n5DbnOCh-TiBvQYuwFwVW_ZFNH5BGGQ&usqp=CAU",
+      "source": "Laurie Anderson",
+      "title": "About – Laurie Anderson",
+      "link": "https://laurieanderson.com/about/",
+      "original": "https://laurieanderson.com/2018site/wp-content/uploads/2018/01/twittercard.jpg",
+      "original_width": 1200,
+      "original_height": 630,
+      "is_product": false
+    },
+    {
+      "position": 51,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHmfsjUW9GFLOrX7SwqgcDqBpn1qerUzwaQ&usqp=CAU",
+      "source": "YouTube",
+      "title": "Laurie Anderson: Tiny Desk (Home) Concert - YouTube",
+      "link": "https://www.youtube.com/watch?v=ABjmQCxA7UU",
+      "tag": "18:13",
+      "original": "https://i.ytimg.com/vi/ABjmQCxA7UU/maxresdefault.jpg",
+      "original_width": 1280,
+      "original_height": 720,
+      "is_product": true
+    },
+    {
+      "position": 52,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFY5Ay40qe0hoZVCpHI0wEHnyLLSCwWj7XQ&usqp=CAU",
+      "source": "The New York Times",
+      "title": "Laurie Anderson In-Depth at the Hirshhorn - The New York Times",
+      "link": "https://www.nytimes.com/2019/04/25/arts/design/laurie-anderson-hirshhorn-museum.html",
+      "original": "https://static01.nyt.com/images/2019/04/29/arts/29arts1/merlin_153911880_f037ac66-172f-4e61-b1fd-a20380ba7757-superJumbo.jpg",
+      "original_width": 2048,
+      "original_height": 1028,
+      "is_product": false
+    },
+    {
+      "position": 53,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnQPEMaccYfEL_h4TcY8uLNJnS2veGEsKTIg&usqp=CAU",
+      "source": "Moderna Museet",
+      "title": "Laurie Anderson | Moderna Museet i Stockholm",
+      "link": "https://www.modernamuseet.se/stockholm/en/exhibitions/laurie-anderson/",
+      "original": "https://www.modernamuseet.se/stockholm/wp-content/uploads/sites/3/2023/03/anderson-laurie_absent-in-the-present-looking-into-a-mirror-sideways_1975_2-980x751.jpg",
+      "original_width": 980,
+      "original_height": 751,
+      "is_product": false
+    },
+    {
+      "position": 54,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCXyfDIsLOMTLlPkU6UCYpfRWbOVpisQunQ&usqp=CAU",
+      "source": "New York Post",
+      "title": "Widow Laurie Anderson sues for $180K still owed Lou Reed",
+      "link": "https://nypost.com/2014/08/08/laurie-anderson-sues-for-180k-still-owed-to-lou-reed/",
+      "original": "https://nypost.com/wp-content/uploads/sites/2/2014/08/80859804.jpg?quality=75&strip=all",
+      "original_width": 2000,
+      "original_height": 1354,
+      "is_product": false
+    },
+    {
+      "position": 55,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnpJqxmxLxFUe3M6o7JmeTnG7_ZueyjZgPZA&usqp=CAU",
+      "source": "Barbican",
+      "title": "Laurie Anderson | Barbican",
+      "link": "https://www.barbican.org.uk/whats-on/2023/event/laurie-anderson-let-x-x",
+      "original": "https://www.barbican.org.uk/sites/default/files/styles/hero_constrained_small/public/images/2023-03/Laurie%20Anderson%202.jpg?itok=gMCQ0Vs8",
+      "original_width": 768,
+      "original_height": 538,
+      "is_product": false
+    },
+    {
+      "position": 56,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTS7X789NcNII6bHwDSIqFqI90eYwK8FLkg&usqp=CAU",
+      "source": "Pitchfork",
+      "title": "Watch Iggy Pop and Laurie Anderson on the Lou Reed Tai Chi Day Livestream |  Pitchfork",
+      "link": "https://pitchfork.com/news/watch-iggy-pop-and-laurie-anderson-on-the-lou-reed-tai-chi-day-livestream/",
+      "original": "https://media.pitchfork.com/photos/5f95a8ed06efd255af1f054e/16:9/w_1776,h_999,c_limit/Iggy%20Pop,%20Laurie%20Anderson.jpg",
+      "original_width": 1776,
+      "original_height": 999,
+      "is_product": false
+    },
+    {
+      "position": 57,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQSua-q-xqoSZbwaYQKCSPgGACjpqfzTDFig&usqp=CAU",
+      "source": "Rolling Stone",
+      "title": "Hear Laurie Anderson Recite Tibetan Book of the Dead on New Recording –  Rolling Stone",
+      "link": "https://www.rollingstone.com/music/music-news/laurie-anderson-songs-from-bardo-862871/",
+      "original": "https://www.rollingstone.com/wp-content/uploads/2019/07/laurie-anderson.jpg",
+      "original_width": 1500,
+      "original_height": 1000,
+      "is_product": false
+    },
+    {
+      "position": 58,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaZQK8J-mJrFkuqFeAq2yOik5wUblIVO_MKQ&usqp=CAU",
+      "source": "Dada Blob ... Exotic Worlds and Pop Culture!",
+      "title": "Laurie Anderson | Video art",
+      "link": "https://www.dadablob.com/laurie-anderson-video-art/",
+      "original": "https://www.dadablob.com/wp-content/uploads/2020/08/laurie-anderson.jpg",
+      "original_width": 800,
+      "original_height": 600,
+      "is_product": false
+    },
+    {
+      "position": 59,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_pARMliYCpHnZFEXSs2rwvKD5o0stf-unZA&usqp=CAU",
+      "source": "Laurie Anderson",
+      "title": "About – Laurie Anderson",
+      "link": "https://laurieanderson.com/about/",
+      "original": "https://laurieanderson.com/2018site/wp-content/uploads/2018/01/moby.jpg",
+      "original_width": 710,
+      "original_height": 585,
+      "is_product": false
+    },
+    {
+      "position": 60,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcEiQ3t7ECHMNQPeTnqbeFWETJM_DLkQv_yw&usqp=CAU",
+      "source": "Hyperallergic",
+      "title": "Laurie Anderson Archives - Hyperallergic",
+      "link": "https://hyperallergic.com/tag/laurie-anderson/",
+      "original": "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2021/09/20190620_JP_Laurie-Anderson195_flat_Alaric-Campbell.jpg?resize=1200%2C900&quality=100&ssl=1",
+      "original_width": 1200,
+      "original_height": 900,
+      "is_product": false
+    },
+    {
+      "position": 61,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdONaS1jqFxXLH1Wg4VzJ--Tm5LGLf-lc6TQ&usqp=CAU",
+      "source": "CBS News",
+      "title": "I tell stories\": Artist and pioneer of the avant-garde Laurie Anderson on  her unique work and life - 60 Minutes - CBS News",
+      "link": "https://www.cbsnews.com/news/laurie-anderson-60-minutes-2022-04-03/",
+      "original": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/04/03/f3a6c4eb-c0bf-4493-bf89-d20a5c037914/thumbnail/1200x630/f6e235f28d0e83c175b08495ddcb7125/laurieandersonarticle.jpg",
+      "original_width": 1200,
+      "original_height": 630,
+      "is_product": false
+    },
+    {
+      "position": 62,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWtEEeL7X7IFao2FMM6PCVuIYoAZqFL8GYKQ&usqp=CAU",
+      "source": "The East Hampton Star",
+      "title": "Laurie Anderson: A Multi-Lane World in Hyperdrive | The East Hampton Star",
+      "link": "https://www.easthamptonstar.com/arts/2022630/laurie-anderson-multi-lane-world-hyperdrive",
+      "original": "http://www.easthamptonstar.com/sites/default/files/%2A%20IMG_0005.jpeg",
+      "original_width": 1200,
+      "original_height": 900,
+      "is_product": false
+    },
+    {
+      "position": 63,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYbfBitPl99CXF0-wyj4bfiBvU8tm-SNZyEw&usqp=CAU",
+      "source": "BOMB Magazine",
+      "title": "BOMB Magazine | Laurie Anderson",
+      "link": "https://bombmagazine.org/articles/laurie-anderson-1/",
+      "original": "https://s3.us-east-1.amazonaws.com/bomb-images/_eightHundred/ross_2_body.jpg",
+      "original_width": 800,
+      "original_height": 990,
+      "is_product": false
+    },
+    {
+      "position": 64,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNsBb1KRtNvMpuK1mSnYBWbMzUlvGkH1j9Og&usqp=CAU",
+      "source": "The MFAH Collections - The Museum of Fine Arts, Houston",
+      "title": "Laurie Anderson | All Works | The MFAH Collections",
+      "link": "https://emuseum.mfah.org/objects/71936/laurie-anderson",
+      "original": "https://emuseum.mfah.org/internal/media/dispatcher/55788/full",
+      "original_width": 529,
+      "original_height": 693,
+      "is_product": false
+    },
+    {
+      "position": 65,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQDz8cvdq-cobe-R4eUOLxoomZux94ItgY7g&usqp=CAU",
+      "source": "laurieanderson.com",
+      "title": "Laurie Anderson – Official Website",
+      "link": "https://laurieanderson.com/",
+      "original": "https://i.ytimg.com/vi/6LuKgGn5e2g/maxresdefault.jpg",
+      "original_width": 1280,
+      "original_height": 720,
+      "is_product": false
+    },
+    {
+      "position": 66,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8o5NFK3vhkTilNvIJiWmSbAUMSq12seko6w&usqp=CAU",
+      "source": "The New York Times",
+      "title": "Laurie Anderson Named 2020 'Vanguard' Artist at Joe's Pub - The New York  Times",
+      "link": "https://www.nytimes.com/2019/10/10/arts/music/laurie-anderson-vanguard-joes-pub.html",
+      "original": "https://static01.nyt.com/images/2019/10/10/arts/10joes-pub-item1/10joes-pub-item1-superJumbo.jpg",
+      "original_width": 1919,
+      "original_height": 2048,
+      "is_product": false
+    },
+    {
+      "position": 67,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm0psf7d-k6dbMt2abKgPzra8VO5HoH3IxA&usqp=CAU",
+      "source": "ELEPHANT.art",
+      "title": "Laurie Anderson, Duets on Ice Performance, Italy, 1974–5 - ELEPHANT",
+      "link": "https://elephant.art/iotd/laurie-anderson-duets-on-ice-performance-italy-1974-06102021/",
+      "original": "https://elephant.art/wp-content/uploads/2021/10/06.10-Laurie-Anderson.jpg",
+      "original_width": 1000,
+      "original_height": 1244,
+      "is_product": false
+    },
+    {
+      "position": 68,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvXid69Ihiw93bQMwpWDZBZmfJ1dpgNiNCA&usqp=CAU",
+      "source": "Salon.com",
+      "title": "Laurie Anderson is bored with the avant-garde | Salon.com",
+      "link": "https://www.salon.com/2010/06/21/laurie_anderson_interview/",
+      "original": "https://mediaproxy.salon.com/width/1200/height/675/https://media.salon.com/2010/06/laurie_anderson_is_bored_with_the_avant_garde.jpg",
+      "original_width": 1200,
+      "original_height": 675,
+      "is_product": false
+    },
+    {
+      "position": 69,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyellnjh9evhBoR2FCPbX7PQwVoWEdK0Cs9A&usqp=CAU",
+      "source": "Artnet News",
+      "title": "Editors' Picks: 9 Events for Your Art Calendar This Week, From Laurie  Anderson on Virtual Reality Art to Legacy Russell on the Power of Footnotes",
+      "link": "https://news.artnet.com/art-world/editors-picks-november-29-2021-2035468",
+      "original": "https://news.artnet.com/app/news-upload/2017/01/GettyImages-602996412-1024x683.jpg",
+      "original_width": 1024,
+      "original_height": 683,
+      "is_product": false
+    },
+    {
+      "position": 70,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrV0VJMKSvZH5NkGEUBqduUP3thSrbb4n16w&usqp=CAU",
+      "source": "CBS News",
+      "title": "I tell stories\": Artist and pioneer of the avant-garde Laurie Anderson on  her unique work and life - 60 Minutes - CBS News",
+      "link": "https://www.cbsnews.com/news/laurie-anderson-60-minutes-2022-04-03/",
+      "tag": "13:22",
+      "original": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/04/03/4ea74693-43d4-485c-9bf0-206aa41bb512/thumbnail/1280x720/e5ad6b182a4399479695ef41de64e300/laurieandersonvideo2-946814-640x360.jpg",
+      "original_width": 1280,
+      "original_height": 720,
+      "is_product": true
+    },
+    {
+      "position": 71,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUDg7Gf0YqpXWNLVMxz18NPPHcmL7wfsk5uw&usqp=CAU",
+      "source": "laurieanderson.com",
+      "title": "Laurie Anderson – Official Website",
+      "link": "https://laurieanderson.com/",
+      "original": "https://laurieanderson.com/2018site/wp-content/uploads/2021/10/STILL11-640x540.jpeg",
+      "original_width": 640,
+      "original_height": 540,
+      "is_product": false
+    },
+    {
+      "position": 72,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcX-8Br7mqcpn2iSXV05DbxGiV_6-WYedeQ&usqp=CAU",
+      "source": "Variety",
+      "title": "Artist Laurie Anderson Talks About Making 'Heart of a Dog' - Variety",
+      "link": "https://variety.com/2016/film/festivals/iff-panama-laurie-anderson-making-heart-of-a-dog-1201748936/",
+      "original": "https://variety.com/wp-content/uploads/2016/04/homeland-laurienanderson2.jpg",
+      "original_width": 3504,
+      "original_height": 2332,
+      "is_product": false
+    },
+    {
+      "position": 73,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9df0JhaAZVk04w3whJhkpf54b8MPCT7mpw&usqp=CAU",
+      "source": "Vito Schnabel Gallery",
+      "title": "Laurie Anderson - Artists - Vito Schnabel",
+      "link": "https://www.vitoschnabel.com/artists/laurie-anderson",
+      "original": "https://img.artlogic.net/w_2020,h_1160,c_limit/exhibit-e/55cd07616aa72cc608d19704/bfb6c30709295887030f14b62c54e3d7.jpeg",
+      "original_width": 1637,
+      "original_height": 1160,
+      "is_product": false
+    },
+    {
+      "position": 74,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVBiVauzArgngQwJ2aXbQa4vyvPdneScMlng&usqp=CAU",
+      "source": "Hyperallergic",
+      "title": "Laurie Anderson Takes Stock of Today's Unpredictable Weather",
+      "link": "https://hyperallergic.com/746600/laurie-anderson-takes-stock-of-todays-unpredictable-weather/",
+      "original": "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2022/07/HMSG_EXH_WEATHER_2021_003.jpeg?fit=1800%2C1350&quality=100&ssl=1",
+      "original_width": 1800,
+      "original_height": 1350,
+      "is_product": false
+    },
+    {
+      "position": 75,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0dIMKQ5Mc5PyKkHoOA47o6fgLJYwquuJgzw&usqp=CAU",
+      "source": "AnOther Magazine",
+      "title": "Laurie Anderson | AnOther",
+      "link": "https://www.anothermag.com/art-photography/331/laurie-anderson",
+      "original": "https://images-prod.anothermag.com/480/azure/another-prod/40/8/48990.jpg",
+      "original_width": 480,
+      "original_height": 720,
+      "is_product": false
+    },
+    {
+      "position": 76,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoUxziRfKNvsi6bsp0vgiFyCoBYRKXZ3IcQ&usqp=CAU",
+      "source": "Laurie Anderson",
+      "title": "About – Laurie Anderson",
+      "link": "https://laurieanderson.com/about/",
+      "original": "https://laurieanderson.com/2018site/wp-content/uploads/2018/01/Screen-Shot-2018-01-15-at-5.49.34-PM.png",
+      "original_width": 577,
+      "original_height": 422,
+      "is_product": false
+    },
+    {
+      "position": 77,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFN3YZ_onEO8umuOP1s7Z2k5OmXp6wnWAvw&usqp=CAU",
+      "source": "The Wire Magazine",
+      "title": "The ever elusive Laurie Anderson speaks to Emily Bick - The Wire",
+      "link": "https://www.thewire.co.uk/in-writing/interviews/laurie-anderson-interview-emily-bick-transmediale",
+      "original": "https://www.thewire.co.uk/2017/03/15/LaurieTransmediale_2017_Closing_Weekend_2017_03_04_99_th.jpg",
+      "original_width": 690,
+      "original_height": 540,
+      "is_product": false
+    },
+    {
+      "position": 78,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjr2sKmQsqy4a1sTct7LsUEWR-sl4B9ul21w&usqp=CAU",
+      "source": "Art & Technology - WordPress.com",
+      "title": "Laurie Anderson, a pioneer in electronic music | Art & Technology",
+      "link": "https://arttechnologyweb.wordpress.com/2016/11/21/laurie-anderson-a-pioneer-in-electronic-music/",
+      "original": "https://arttechnologyweb.files.wordpress.com/2016/11/1002417-laurie_anderson.jpg?w=598&h=407",
+      "original_width": 588,
+      "original_height": 400,
+      "is_product": false
+    },
+    {
+      "position": 79,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX_yXZnYPe4CTPod5gtFbcE04QpI26PWO6sw&usqp=CAU",
+      "source": "CBS News",
+      "title": "Artist and storyteller Laurie Anderson doesn't like to be boxed in - CBS  News",
+      "link": "https://www.cbsnews.com/news/laurie-anderson-o-superman-hirshhorn-60-minutes-2022-04-03/",
+      "original": "https://assets1.cbsnewsstatic.com/hub/i/2022/04/03/7b7cf675-7499-4ff7-b0f7-b09cffd4f61b/ot-laurieandersonfd1.jpg",
+      "original_width": 1920,
+      "original_height": 1080,
+      "is_product": false
+    },
+    {
+      "position": 80,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHjpt13k2O8RGGA8zVUPgrusRC0Uw3Lr__gA&usqp=CAU",
+      "source": "The New York Times",
+      "title": "Laurie Anderson's 'Delusion' Opens BAM Festival - The New York Times",
+      "link": "https://www.nytimes.com/2010/09/23/arts/music/23laurie.html",
+      "original": "https://static01.nyt.com/images/2010/09/23/arts/LAURIE/LAURIE-jumbo.jpg?quality=75&auto=webp&disable=upscale",
+      "original_width": 1024,
+      "original_height": 706,
+      "is_product": false
+    },
+    {
+      "position": 81,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCySrhN0waoM9N3Z5Xk0AAXWVyp_8rgNGAOA&usqp=CAU",
+      "source": "ARTnews.com",
+      "title": "Prison Break: Laurie Anderson on Projecting a Former Guantanamo Detainee  Into the Park Avenue Armory – ARTnews.com",
+      "link": "https://www.artnews.com/art-news/artists/prison-break-laurie-anderson-on-projecting-a-former-guantanamo-detainee-into-the-park-avenue-armory-5024/",
+      "original": "https://www.artnews.com/wp-content/uploads/2015/10/paalaurieandersonjamesewing-5020.jpg",
+      "original_width": 700,
+      "original_height": 467,
+      "is_product": false
+    },
+    {
+      "position": 82,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH00-zqWQvz4fWR1BtSd568Vv90eOtp9AVew&usqp=CAU",
+      "source": "The MFAH Collections - The Museum of Fine Arts, Houston",
+      "title": "Laurie Anderson, born 1947, Performance Artist | All Works | The MFAH  Collections",
+      "link": "https://emuseum.mfah.org/objects/78778/laurie-anderson-born-1947-performance-artist",
+      "original": "https://emuseum.mfah.org/internal/media/dispatcher/73820/preview",
+      "original_width": 540,
+      "original_height": 683,
+      "is_product": false
+    },
+    {
+      "position": 83,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBSoyU4d-sjBeXyTLDTBXCS1JHQYD-jjT6OA&usqp=CAU",
+      "source": "Hirshhorn Museum - Smithsonian Institution",
+      "title": "TIME CHANGE: Laurie Anderson Presents \"Quartet for Sol\" - Hirshhorn Museum  and Sculpture Garden | Smithsonian",
+      "link": "https://hirshhorn.si.edu/event/in-person-laurie-anderson-presents-quartet-for-sol/",
+      "original": "https://hirshhorn.si.edu/wp-content/uploads/2022/02/HMSG_EXH_WEATHER_2021_PERFORM_009-1-1080x720.jpg",
+      "original_width": 1080,
+      "original_height": 720,
+      "is_product": false
+    },
+    {
+      "position": 84,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVZNz_RFMnfE-F5t_jYSEETbXx61eFKkdXg&usqp=CAU",
+      "source": "Issuu",
+      "title": "Laurie Anderson: \"Invented Instruments\" by Moss Arts Center, Virginia Tech  - Issuu",
+      "link": "https://issuu.com/artscenteratvt/docs/laurieanderson_brochure_final",
+      "original": "https://image.isu.pub/180604153237-50c84747baa51bf2801a4bade8a1844c/jpg/page_1.jpg",
+      "original_width": 1337,
+      "original_height": 1499,
+      "is_product": false
+    },
+    {
+      "position": 85,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbjxGL_Th0lSqXdggbbZj4mlOvCQGLKp_7Tw&usqp=CAU",
+      "source": "RealTime",
+      "title": "laurie anderson: do dogs aspire to nirvana? | RealTime — Australia",
+      "link": "https://www.realtime.org.au/laurie-anderson-do-dogs-aspire-to-nirvana/",
+      "original": "https://www.realtime.org.au/wp-content/uploads/art/62/6223_priest_anderson_duetsonice1.jpg",
+      "original_width": 340,
+      "original_height": 495,
+      "is_product": false
+    },
+    {
+      "position": 86,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaRjLLqPClnh2os_k-fUS0fC2_wdzOPmh5vg&usqp=CAU",
+      "source": "Harvard Magazine",
+      "title": "I Am Talking to the Part of You that Does Not Speak” | Harvard Magazine",
+      "link": "https://www.harvardmagazine.com/2021/11/laurie-anderson-delivers-2021-norton-lectures",
+      "original": "https://www.harvardmagazine.com/sites/default/files/img/article/1121/hm_11.8.21_laurie_anderson_2_sm.jpg",
+      "original_width": 1000,
+      "original_height": 562,
+      "is_product": false
+    },
+    {
+      "position": 87,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw8IyXb06IATG1NjCO1nLApm25ffiVSL0EgA&usqp=CAU",
+      "source": "IRIS Covet Book",
+      "title": "IRIS Covet Book | EXCLUSIVE: LAURIE ANDERSON BY ANOHNI",
+      "link": "https://iriscovetbook.com/exclusive-laurie-anderson-by-anohni/",
+      "original": "https://iriscovetbook.com/wp-content/uploads/2018/05/IRIS11_COVERS_LaurieAnderson.jpg",
+      "original_width": 1425,
+      "original_height": 1950,
+      "is_product": false
+    },
+    {
+      "position": 88,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeEmk8v14rfS3FTrFK80WEbGM_O3bo3_BDIA&usqp=CAU",
+      "source": "NPR",
+      "title": "Laurie Anderson Returns With Atmospheric 'Homeland' : NPR",
+      "link": "https://www.npr.org/2010/06/25/128083100/laurie-anderson-returns-with-atmospheric-homeland",
+      "original": "https://media.npr.org/assets/music/news/2010/06/laurieanderson-91feaa05f720abd7ff55d4af70eb71bcd8396eca.jpg",
+      "original_width": 1000,
+      "original_height": 750,
+      "is_product": false
+    },
+    {
+      "position": 89,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97GzVjh9BudxwH89_vmlhUwz0FmIWswiIMg&usqp=CAU",
+      "source": "UPROXX",
+      "title": "An Introduction To The Music Of Avant Pop Artist Laurie Anderson",
+      "link": "https://uproxx.com/music/10-song-primer-laurie-anderson/",
+      "original": "https://uproxx.com/wp-content/uploads/2018/02/laurieanderson650.jpg",
+      "original_width": 650,
+      "original_height": 360,
+      "is_product": false
+    },
+    {
+      "position": 90,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdi0xSMhqUhv6e2VlIEpk1LsdPK41nRoIcYQ&usqp=CAU",
+      "source": "San Francisco Classical Voice",
+      "title": "Performance Artist Laurie Anderson: How Her Mind Works | San Francisco  Classical Voice",
+      "link": "https://www.sfcv.org/articles/artist-spotlight/performance-artist-laurie-anderson-how-her-mind-works",
+      "original": "https://www.sfcv.org/sites/default/files/styles/teaser_image_400x275/public/u19/anderson.laurie.jpg?h=20339be9&itok=c9qgEbfr",
+      "original_width": 400,
+      "original_height": 275,
+      "is_product": false
+    },
+    {
+      "position": 91,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwvmfPubYmnYM_pJD7QQD7B94eiwBBGodDQ&usqp=CAU",
+      "source": "IndieWire",
+      "title": "PODCAST: Laurie Anderson Has the 'Heart of a Dog' | IndieWire",
+      "link": "https://www.indiewire.com/2015/10/podcast-laurie-anderson-has-the-heart-of-a-dog-56091/",
+      "original": "https://www.indiewire.com/wp-content/uploads/2015/10/laurie-anderson-1.jpg",
+      "original_width": 1010,
+      "original_height": 1060,
+      "is_product": false
+    },
+    {
+      "position": 92,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt7CKziGVp3Hf6s0qAiOsxOjLhxOQGezzz9A&usqp=CAU",
+      "source": "Music On Vinyl",
+      "title": "LAURIE ANDERSON - BRIGHT RED - Music On Vinyl",
+      "link": "https://www.musiconvinyl.com/catalog/laurie-anderson/bright-red",
+      "original": "https://www.musiconvinyl.com/fotos/6432_foto1_product_xl.jpg?a70d0e403301d9db20f3bd74c1ac2a04",
+      "original_width": 900,
+      "original_height": 900,
+      "is_product": false
+    },
+    {
+      "position": 93,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfCEueNSnHRfclbQh7moCPYB6fhHCcjcinJQ&usqp=CAU",
+      "source": "NS Design",
+      "title": "Laurie Anderson | NS Design Artist | Electric Violin CR",
+      "link": "https://thinkns.com/artists/ns-design-artist-laurie-anderson/",
+      "original": "https://thinkns.com/wp-content/uploads/2016/05/Laurie-Anderson-B17BiPIz5US._SL1000_-7a-wpcf_400x300.jpg",
+      "original_width": 400,
+      "original_height": 300,
+      "is_product": false
+    },
+    {
+      "position": 94,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfj6SaAGip_EyXd2VUybJ3WqFpUhl2oLLYfw&usqp=CAU",
+      "source": "The Vinyl Factory",
+      "title": "Laurie Anderson delivers an avant-garde performance in New Jersey during  1985",
+      "link": "https://thevinylfactory.com/news/laurie-anderson-delivers-an-avant-garde-performance-in-new-jersey-during-1985/",
+      "original": "https://thevinylfactory.com/wp-content/uploads/2020/04/laurie-anderson-home-of-the-brave-performance.jpg",
+      "original_width": 800,
+      "original_height": 540,
+      "is_product": false
+    },
+    {
+      "position": 95,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn-HzN27rEYN3fWUfvpoPSK8Y2QGK7k1zNTw&usqp=CAU",
+      "source": "Frank Beacham's Journal",
+      "title": "Laurie Anderson is 74 years old today - Frank Beacham's Journal",
+      "link": "https://www.beachamjournal.com/journal/2021/06/laurie-anderson-is-74-years-old-today.html",
+      "original": "https://www.beachamjournal.com/.a/6a01053653b3c7970b026bded65cba200c-800wi",
+      "original_width": 640,
+      "original_height": 402,
+      "is_product": false
+    },
+    {
+      "position": 96,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh-Bh0RKjfkR07WjU55WZ0wf9Qy3uhT8YJRA&usqp=CAU",
+      "source": "NEWS10 ABC",
+      "title": "Margaret Atwood and Laurie Anderson talk art, age and more | NEWS10 ABC",
+      "link": "https://www.news10.com/news/entertainment/margaret-atwood-and-laurie-anderson-talk-art-age-and-more/",
+      "original": "https://www.news10.com/wp-content/uploads/sites/64/2019/12/b1c51fd7ecac47cdb6010d7138905d6a.jpg?w=1440&h=2265&crop=1",
+      "original_width": 1440,
+      "original_height": 2265,
+      "is_product": false
+    },
+    {
+      "position": 97,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sROpiU54m30ozxZJdJoIasY_TOuzUQGdGg&usqp=CAU",
+      "source": "Tinnitist",
+      "title": "Classic Album Review: Laurie Anderson | Life On A String | Tinnitist",
+      "link": "https://tinnitist.com/2021/09/14/classic-album-review-laurie-anderson-life-on-a-string/",
+      "original": "https://i0.wp.com/tinnitist.com/wp-content/uploads/2021/09/Laurie-Anderson-Life-on-a-String.jpg?fit=1200%2C1200&ssl=1",
+      "original_width": 1200,
+      "original_height": 1200,
+      "is_product": false
+    },
+    {
+      "position": 98,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrZFhGAiHsNIB5wBM9KA_-hmrhlH1JJ2nTvg&usqp=CAU",
+      "source": "Walker Art Center",
+      "title": "Laurie Anderson: Dirtday!",
+      "link": "https://walkerart.org/calendar/2012/laurie-anderson-dirtday",
+      "original": "https://walker-web.imgix.net/cms/003LaurieAnderson_W1.jpg?auto=format,compress&w=1920&h=1200&fit=crop&dpr=1.5",
+      "original_width": 2880,
+      "original_height": 1800,
+      "is_product": false
+    },
+    {
+      "position": 99,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6F71qSoZU8QpCLoRc_JEc95SXMuwRudHirw&usqp=CAU",
+      "source": "The Quietus",
+      "title": "The Quietus | News | Laurie Anderson Pays Tribute To Lou Reed",
+      "link": "https://thequietus.com/articles/13806-lou-reed-laurie-anderson-farewell",
+      "original": "http://s3.amazonaws.com/quietus_production/images/articles/13806/Laurie_Anderson_1383825317_crop_550x399.jpg",
+      "original_width": 550,
+      "original_height": 399,
+      "is_product": false
+    },
+    {
+      "position": 100,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR89jp_X_z-lf9_rXDwOBftzgLIo3dZCl00mQ&usqp=CAU",
+      "source": "Pinterest",
+      "title": "Pin by Karen Ganz on Art pics | Laurie anderson, Lou reed, Laurie",
+      "link": "https://www.pinterest.com/pin/art-pics--350084571034988106/",
+      "original": "https://i.pinimg.com/originals/43/35/2a/43352a492153ccf34f0ff2bd65896804.jpg",
+      "original_width": 1280,
+      "original_height": 848,
+      "is_product": false
+    }
+  ],
+  "related_searches": [
+    {
+      "link": "https://www.google.com/search?q=laurie+anderson+art&tbm=isch&hl=en&gl=us&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQrNwCKAB6BQgBEJYC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson+art",
+      "query": "laurie anderson art",
+      "highlighted_words": [
+        "art"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZI-h_ZuBysw8dR4ZRY-BNozBWn6CSPqHJcY8sP1NjYeHNaZHuvrH3Lso&usqp=CAU"
+    },
+    {
+      "link": "https://www.google.com/search?q=laurie+anderson+80s&tbm=isch&hl=en&gl=us&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQrNwCKAB6BQgBEJgC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson+80s",
+      "query": "laurie anderson 80s",
+      "highlighted_words": [
+        "80s"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT285WlQo5I1zwR_Uf6AYwjg7tEnN4638iq043u6cAx35gLQvXF5qrNvKs&usqp=CAU"
+    },
+    {
+      "link": "https://www.google.com/search?q=lou+reed+laurie+anderson+wedding&tbm=isch&hl=en&gl=us&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQrNwCKAB6BQgBEJoC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=lou+reed+laurie+anderson+wedding",
+      "query": "lou reed laurie anderson wedding",
+      "highlighted_words": [
+        "lou reed",
+        "wedding"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8H2t9QCedrZNFjCl8IJP7Ic8BLPn0Os2RjqV00uKi_VdWKx4XaH0TSPo&usqp=CAU"
+    },
+    {
+      "link": "https://www.google.com/search?q=performance+laurie+anderson&tbm=isch&hl=en&gl=us&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQrNwCKAB6BQgBEM4C",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=performance+laurie+anderson",
+      "query": "performance laurie anderson",
+      "highlighted_words": [
+        "performance"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhQeIl7IHcteARc3pQduBSzJ9pQLG3L9KDApPFj7ER0W8wqFjVCBUaWU&usqp=CAU"
+    },
+    {
+      "link": "https://www.google.com/search?q=laurie+anderson+2022&tbm=isch&hl=en&gl=us&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQrNwCKAB6BQgBENAC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson+2022",
+      "query": "laurie anderson 2022",
+      "highlighted_words": [
+        "2022"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JpqE9nt2H7gtHl0Cs1ZHmP87LTqldji2aUjOnA7zdiw7L6WBhas6i_U&usqp=CAU"
+    },
+    {
+      "link": "https://www.google.com/search?q=laurie+anderson+big+science&tbm=isch&hl=en&gl=us&sa=X&ved=2ahUKEwje9uDygsr-AhXVLt4AHUVSCZkQrNwCKAB6BQgBENIC",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=laurie+anderson+big+science",
+      "query": "laurie anderson big science",
+      "highlighted_words": [
+        "big science"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfdSwgPNfNZyKgzFpgckIsjrd2bElp6EIAl3aptXKEs0xfCXKKukm3WE&usqp=CAU"
+    }
+  ]
+}
